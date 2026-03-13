@@ -1,0 +1,10 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Impact_Weaponry21.xml -->
+	
+	<!-- EN: make impact shell x200 -->
+	<MakeAmmo_GenericImpactShells.label>make impact shell x200</MakeAmmo_GenericImpactShells.label>
+	<!-- EN: Craft 200 impact shells. -->
+	<MakeAmmo_GenericImpactShells.description>Craft 200 impact shells.</MakeAmmo_GenericImpactShells.description>
+	<!-- EN: Making impact shells. -->
+	<MakeAmmo_GenericImpactShells.jobString>Making impact shells.</MakeAmmo_GenericImpactShells.jobString>
+</LanguageData>

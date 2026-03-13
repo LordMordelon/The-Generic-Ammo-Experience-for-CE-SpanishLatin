@@ -8,8 +8,8 @@
 	<VWE_Gun_MakeshiftRifle.verbs.0.label>ㅤ</VWE_Gun_MakeshiftRifle.verbs.0.label>
 	<!-- EN: ㅤ -->
 	<VWE_Gun_MakeshiftLMG.verbs.0.label>ㅤ</VWE_Gun_MakeshiftLMG.verbs.0.label>
-	<!-- EN: bullet -->
+	<!-- EN: lead slug -->
 	<Bullet_LeadSlug.label>bala</Bullet_LeadSlug.label>
-	<!-- EN: bullet -->
+	<!-- EN: lead slug -->
 	<Bullet_LeadSlug_HighVelocity.label>bala</Bullet_LeadSlug_HighVelocity.label>
 </LanguageData>

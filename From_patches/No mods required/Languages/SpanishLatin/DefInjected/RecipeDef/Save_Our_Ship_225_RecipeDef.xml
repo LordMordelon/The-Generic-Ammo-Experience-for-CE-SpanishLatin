@@ -1,0 +1,24 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Save_Our_Ship_225.xml -->
+	
+	<!-- EN: make superheavy uranium slug x25 -->
+	<MakeAmmo_SEX_SOS2FakeCannonShells.label>make superheavy uranium slug x25</MakeAmmo_SEX_SOS2FakeCannonShells.label>
+	<!-- EN: Craft 25 superheavy uranium slugs. -->
+	<MakeAmmo_SEX_SOS2FakeCannonShells.description>Craft 25 superheavy uranium slugs.</MakeAmmo_SEX_SOS2FakeCannonShells.description>
+	<!-- EN: Making superheavy uranium slugs. -->
+	<MakeAmmo_SEX_SOS2FakeCannonShells.jobString>Making superheavy uranium slugs.</MakeAmmo_SEX_SOS2FakeCannonShells.jobString>
+	
+	<!-- EN: make superheavy uranium slug x25 with starship parts -->
+	<AltMakeAmmo_SEX_SOS2FakeCannonShellsStarshipParts.label>make superheavy uranium slug x25 with starship parts</AltMakeAmmo_SEX_SOS2FakeCannonShellsStarshipParts.label>
+	<!-- EN: Craft 25 superheavy uranium slugs using starship parts. -->
+	<AltMakeAmmo_SEX_SOS2FakeCannonShellsStarshipParts.description>Craft 25 superheavy uranium slugs using starship parts.</AltMakeAmmo_SEX_SOS2FakeCannonShellsStarshipParts.description>
+	<!-- EN: Making superheavy uranium slugs. -->
+	<AltMakeAmmo_SEX_SOS2FakeCannonShellsStarshipParts.jobString>Making superheavy uranium slugs.</AltMakeAmmo_SEX_SOS2FakeCannonShellsStarshipParts.jobString>
+	
+	<!-- EN: make railgun sabot x500 with starship parts -->
+	<AltMakeAmmo_RailgunSabotStarshipParts.label>make railgun sabot x500 with starship parts</AltMakeAmmo_RailgunSabotStarshipParts.label>
+	<!-- EN: Craft 500 railgun sabots using starship parts. -->
+	<AltMakeAmmo_RailgunSabotStarshipParts.description>Craft 500 railgun sabots using starship parts.</AltMakeAmmo_RailgunSabotStarshipParts.description>
+	<!-- EN: Making railgun sabots. -->
+	<AltMakeAmmo_RailgunSabotStarshipParts.jobString>Making railgun sabots.</AltMakeAmmo_RailgunSabotStarshipParts.jobString>
+</LanguageData>

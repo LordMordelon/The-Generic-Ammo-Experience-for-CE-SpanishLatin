@@ -1,0 +1,19 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Reinforced_Mech_2_Continued22.xml -->
+	<!-- EN: crystalline shard -->
+	<RM_Ammo_ShardGun.label>crystalline shard</RM_Ammo_ShardGun.label>
+	<!-- EN: Small, high-velocity crystalline projectile used in shard-based weapon systems. -->
+	<RM_Ammo_ShardGun.description>Small, high-velocity crystalline projectile used in shard-based weapon systems.</RM_Ammo_ShardGun.description>
+	<!-- EN: Plasma containment charge pack optimized for heavy weapons. -->
+	<Ammo_PlasmaCellHeavy.description>Plasma containment charge pack optimized for heavy weapons.</Ammo_PlasmaCellHeavy.description>
+	<!-- EN: plasma charge pack -->
+	<Ammo_PlasmaCellHeavy.label>plasma charge pack</Ammo_PlasmaCellHeavy.label>
+	<!-- EN: arc pistol -->
+	<RM_Gun_ARCPistol.label>arc pistol</RM_Gun_ARCPistol.label>
+	<!-- EN: arc rifle -->
+	<RM_ARCRifle.label>arc rifle</RM_ARCRifle.label>
+	<!-- EN: arc thrower -->
+	<RM_Gun_ARCThrower.label>arc thrower</RM_Gun_ARCThrower.label>
+	<!-- EN: charge roscoe -->
+	<RM_Gun_ChargePistol.label>charge roscoe</RM_Gun_ChargePistol.label>
+</LanguageData>

@@ -1,0 +1,10 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Impact_Weaponry21.xml -->
+	
+	<!-- EN: Impact shells -->
+	<SEX_ImpactShells.label>Impact shells</SEX_ImpactShells.label>
+	<!-- EN: impact -->
+	<SEX_ImpactShells.labelShort>impact</SEX_ImpactShells.labelShort>
+	<!-- EN: A large caliber, gryojet-stabilized projectile with an explosive charge. -->
+	<SEX_ImpactShells.description>A large caliber, gryojet-stabilized projectile with an explosive charge.</SEX_ImpactShells.description>
+</LanguageData>

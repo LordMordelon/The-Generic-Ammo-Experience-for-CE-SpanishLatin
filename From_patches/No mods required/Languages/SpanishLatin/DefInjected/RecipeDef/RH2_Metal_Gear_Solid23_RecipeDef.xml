@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\RH2_Metal_Gear_Solid23.xml -->
+	<!-- EN: make tranquilizer cartridges x500 -->
+	<MakeAmmo_9x19mmPara_NL.label>make tranquilizer cartridges x500</MakeAmmo_9x19mmPara_NL.label>
+	<!-- EN: Craft 500 tranquilizer cartridges. -->
+	<MakeAmmo_9x19mmPara_NL.description>Craft 500 tranquilizer cartridges.</MakeAmmo_9x19mmPara_NL.description>
+	<!-- EN: Making tranquilizer cartridges. -->
+	<MakeAmmo_9x19mmPara_NL.jobString>Making tranquilizer cartridges.</MakeAmmo_9x19mmPara_NL.jobString>
+</LanguageData>

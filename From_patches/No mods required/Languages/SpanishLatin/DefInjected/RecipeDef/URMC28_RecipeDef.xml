@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\URMC28.xml -->
+	<!-- EN: make caseless high-velocity cartridges x500 -->
+	<MakeAmmo_10x24mmCaseless.label>make caseless high-velocity cartridges x500</MakeAmmo_10x24mmCaseless.label>
+	<!-- EN: Craft 500 caseless high-velocity cartridges. -->
+	<MakeAmmo_10x24mmCaseless.description>Craft 500 caseless high-velocity cartridges.</MakeAmmo_10x24mmCaseless.description>
+	<!-- EN: Making caseless high-velocity cartridges. -->
+	<MakeAmmo_10x24mmCaseless.jobString>Making caseless high-velocity cartridges.</MakeAmmo_10x24mmCaseless.jobString>
+</LanguageData>

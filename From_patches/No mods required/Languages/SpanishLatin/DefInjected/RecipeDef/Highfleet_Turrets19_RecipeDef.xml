@@ -1,0 +1,45 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Highfleet_Turrets19.xml -->
+	
+	<!-- EN: make superheavy cannon shell (HE) cartridge x2 -->
+	<MakeAmmo_HFT_SuperheavyShell_HE.label>make superheavy cannon shell (HE) cartridge x2</MakeAmmo_HFT_SuperheavyShell_HE.label>
+	<!-- EN: Craft 2 superheavy cannon shell (HE) cartridges. -->
+	<MakeAmmo_HFT_SuperheavyShell_HE.description>Craft 2 superheavy cannon shell (HE) cartridges.</MakeAmmo_HFT_SuperheavyShell_HE.description>
+	<!-- EN: Making superheavy cannon shell (HE) cartridges. -->
+	<MakeAmmo_HFT_SuperheavyShell_HE.jobString>Making superheavy cannon shell (HE) cartridges.</MakeAmmo_HFT_SuperheavyShell_HE.jobString>
+	
+	<!-- EN: make superheavy cannon shell (Incendiary) cartridge x2 -->
+	<MakeAmmo_HFT_SuperheavyShell_Incendiary.label>make superheavy cannon shell (Incendiary) cartridge x2</MakeAmmo_HFT_SuperheavyShell_Incendiary.label>
+	<!-- EN: Craft 2 superheavy cannon shell (Incendiary) cartridges. -->
+	<MakeAmmo_HFT_SuperheavyShell_Incendiary.description>Craft 2 superheavy cannon shell (Incendiary) cartridges.</MakeAmmo_HFT_SuperheavyShell_Incendiary.description>
+	<!-- EN: Making superheavy cannon shell (Incendiary) cartridges. -->
+	<MakeAmmo_HFT_SuperheavyShell_Incendiary.jobString>Making superheavy cannon shell (Incendiary) cartridges.</MakeAmmo_HFT_SuperheavyShell_Incendiary.jobString>
+	
+	<!-- EN: make superheavy cannon shell (Proximity) cartridge x2 -->
+	<MakeAmmo_HFT_SuperheavyShell_Prox.label>make superheavy cannon shell (Proximity) cartridge x2</MakeAmmo_HFT_SuperheavyShell_Prox.label>
+	<!-- EN: Craft 2 superheavy cannon shell (Proximity) cartridges. -->
+	<MakeAmmo_HFT_SuperheavyShell_Prox.description>Craft 2 superheavy cannon shell (Proximity) cartridges.</MakeAmmo_HFT_SuperheavyShell_Prox.description>
+	<!-- EN: Making superheavy cannon shell (Proximity) cartridges. -->
+	<MakeAmmo_HFT_SuperheavyShell_Prox.jobString>Making superheavy cannon shell (Proximity) cartridges.</MakeAmmo_HFT_SuperheavyShell_Prox.jobString>
+	
+	<!-- EN: make superheavy cannon shell (Sabot) cartridge x2 -->
+	<MakeAmmo_HFT_SuperheavyShell_Sabot.label>make superheavy cannon shell (Sabot) cartridge x2</MakeAmmo_HFT_SuperheavyShell_Sabot.label>
+	<!-- EN: Craft 2 superheavy cannon shell (Sabot) cartridges. -->
+	<MakeAmmo_HFT_SuperheavyShell_Sabot.description>Craft 2 superheavy cannon shell (Sabot) cartridges.</MakeAmmo_HFT_SuperheavyShell_Sabot.description>
+	<!-- EN: Making superheavy cannon shell (Sabot) cartridges. -->
+	<MakeAmmo_HFT_SuperheavyShell_Sabot.jobString>Making superheavy cannon shell (Sabot) cartridges.</MakeAmmo_HFT_SuperheavyShell_Sabot.jobString>
+	
+	<!-- EN: make superheavy rocket (HE) x1 -->
+	<MakeAmmo_HFT_SuperheavyRocket_HE.label>make superheavy rocket (HE) x1</MakeAmmo_HFT_SuperheavyRocket_HE.label>
+	<!-- EN: Craft 1 superheavy rocket (HE). -->
+	<MakeAmmo_HFT_SuperheavyRocket_HE.description>Craft 1 superheavy rocket (HE).</MakeAmmo_HFT_SuperheavyRocket_HE.description>
+	<!-- EN: Making superheavy rocket (HE). -->
+	<MakeAmmo_HFT_SuperheavyRocket_HE.jobString>Making superheavy rocket (HE).</MakeAmmo_HFT_SuperheavyRocket_HE.jobString>
+	
+	<!-- EN: make superheavy rocket (Incendiary) x1 -->
+	<MakeAmmo_HFT_SuperheavyRocket_Incendiary.label>make superheavy rocket (Incendiary) x1</MakeAmmo_HFT_SuperheavyRocket_Incendiary.label>
+	<!-- EN: Craft 1 superheavy rocket (Incendiary). -->
+	<MakeAmmo_HFT_SuperheavyRocket_Incendiary.description>Craft 1 superheavy rocket (Incendiary).</MakeAmmo_HFT_SuperheavyRocket_Incendiary.description>
+	<!-- EN: Making superheavy rocket (Incendiary). -->
+	<MakeAmmo_HFT_SuperheavyRocket_Incendiary.jobString>Making superheavy rocket (Incendiary).</MakeAmmo_HFT_SuperheavyRocket_Incendiary.jobString>
+</LanguageData>

@@ -1,0 +1,58 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Save_Our_Ship_225.xml -->
+	
+	<!-- EN: Superheavy uranium slug shell used by starship cannons. -->
+	<Ammo_SEX_SOS2FakeCannonShells.description>Superheavy uranium slug shell used by starship cannons.</Ammo_SEX_SOS2FakeCannonShells.description>
+	<!-- EN: superheavy uranium slug -->
+	<Ammo_SEX_SOS2FakeCannonShells.label>superheavy uranium slug</Ammo_SEX_SOS2FakeCannonShells.label>
+	
+	<!-- EN: cannon -->
+	<SEX_FakeShipCannon.label>cannon</SEX_FakeShipCannon.label>
+	<!-- EN: A heavy cannon mounted on the hull of a ship. -->
+	<SEX_FakeShipCannon.description>A heavy cannon mounted on the hull of a ship.</SEX_FakeShipCannon.description>
+	<!-- EN: ㅤ -->
+	<SEX_FakeShipCannon.verbs.0.label>ㅤ</SEX_FakeShipCannon.verbs.0.label>
+	
+	<!-- EN: artillery turret -->
+	<SEX_FakeShipCannonBig.label>artillery turret</SEX_FakeShipCannonBig.label>
+	<!-- EN: A superheavy cannon mounted on the hull of a ship. -->
+	<SEX_FakeShipCannonBig.description>A superheavy cannon mounted on the hull of a ship.</SEX_FakeShipCannonBig.description>
+	<!-- EN: ㅤ -->
+	<SEX_FakeShipCannonBig.verbs.0.label>ㅤ</SEX_FakeShipCannonBig.verbs.0.label>
+	
+	<!-- EN: railgun turret -->
+	<SEX_FakeShipCannonGauss.label>railgun turret</SEX_FakeShipCannonGauss.label>
+	<!-- EN: A superheavy gauss cannon mounted on the hull of a ship. -->
+	<SEX_FakeShipCannonGauss.description>A superheavy gauss cannon mounted on the hull of a ship.</SEX_FakeShipCannonGauss.description>
+	<!-- EN: ㅤ -->
+	<SEX_FakeShipCannonGauss.verbs.0.label>ㅤ</SEX_FakeShipCannonGauss.verbs.0.label>
+	
+	<!-- EN: Uranium slugs -->
+	<ShipTurret_ACI.comps.0.fuelGizmoLabel>Uranium slugs</ShipTurret_ACI.comps.0.fuelGizmoLabel>
+	<!-- EN: Cannot shoot: No slugs -->
+	<ShipTurret_ACI.comps.0.outOfFuelMessage>Cannot shoot: No slugs</ShipTurret_ACI.comps.0.outOfFuelMessage>
+	
+	<!-- EN: Uranium slugs -->
+	<ShipTurret_ACII.comps.0.fuelGizmoLabel>Uranium slugs</ShipTurret_ACII.comps.0.fuelGizmoLabel>
+	<!-- EN: Cannot shoot: No slugs -->
+	<ShipTurret_ACII.comps.0.outOfFuelMessage>Cannot shoot: No slugs</ShipTurret_ACII.comps.0.outOfFuelMessage>
+	
+	<!-- EN: Uranium slugs -->
+	<ShipTurret_ACIII.comps.0.fuelGizmoLabel>Uranium slugs</ShipTurret_ACIII.comps.0.fuelGizmoLabel>
+	<!-- EN: Cannot shoot: No slugs -->
+	<ShipTurret_ACIII.comps.0.outOfFuelMessage>Cannot shoot: No slugs</ShipTurret_ACIII.comps.0.outOfFuelMessage>
+	
+	<!-- EN: Shots until rearm -->
+	<ShipTurret_Kinetic.comps.0.fuelLabel>Shots until rearm</ShipTurret_Kinetic.comps.0.fuelLabel>
+	<!-- EN: Railgun sabots -->
+	<ShipTurret_Kinetic.comps.0.fuelGizmoLabel>Railgun sabots</ShipTurret_Kinetic.comps.0.fuelGizmoLabel>
+	<!-- EN: Cannot shoot: No sabots -->
+	<ShipTurret_Kinetic.comps.0.outOfFuelMessage>Cannot shoot: No sabots</ShipTurret_Kinetic.comps.0.outOfFuelMessage>
+	
+	<!-- EN: Shots until rearm -->
+	<ShipTurret_Kinetic_Large.comps.0.fuelLabel>Shots until rearm</ShipTurret_Kinetic_Large.comps.0.fuelLabel>
+	<!-- EN: Railgun sabots -->
+	<ShipTurret_Kinetic_Large.comps.0.fuelGizmoLabel>Railgun sabots</ShipTurret_Kinetic_Large.comps.0.fuelGizmoLabel>
+	<!-- EN: Cannot shoot: No sabots -->
+	<ShipTurret_Kinetic_Large.comps.0.outOfFuelMessage>Cannot shoot: No sabots</ShipTurret_Kinetic_Large.comps.0.outOfFuelMessage>
+</LanguageData>

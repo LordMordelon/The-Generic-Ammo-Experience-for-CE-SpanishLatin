@@ -1,0 +1,6 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Save_Our_Ship_225.xml -->
+	
+	<!-- EN: Construct small railguns for ship-to-ship combat. Most effective at long range.\n\nThis project also unlocks a more efficient recipe for railgun sabots using starship parts. -->
+	<ShipTurretKinetic.description>Construct small railguns for ship-to-ship combat. Most effective at long range.\n\nThis project also unlocks a more efficient recipe for railgun sabots using starship parts.</ShipTurretKinetic.description>
+</LanguageData>
