@@ -10,6 +10,7 @@
 		<li IfModActive="Ludeon.Rimworld.Anomaly">From_patches/Ludeon_Rimworld_Anomaly</li>
 		<li IfModActive="Ludeon.Rimworld.Royalty">From_patches/Ludeon_Rimworld_Royalty</li>
 		<li IfModActive="VanillaExpanded.VFEArchitect">From_patches/VanillaExpanded_VFEArchitect</li>
+		<li IfModActive="CETeam.CombatExtended">From_patches/CETeam_CombatExtended</li>
 		<li IfModActive="Aoba.DeadManSwitch.Core">From_patches/Aoba_DeadManSwitch_Core</li>
 		<li IfModActive="VanillaExpanded.VWE">From_patches/VanillaExpanded_VWE</li>
 		<li IfModActive="DankPyon.Medieval.Overhaul">From_patches/DankPyon_Medieval_Overhaul</li>
