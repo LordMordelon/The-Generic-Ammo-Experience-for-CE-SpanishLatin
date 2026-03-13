@@ -1,7 +1,7 @@
 <LanguageData>
 	<!-- _Translation\Grabbed_Defs_from_patches\Ludeon_Rimworld_Anomaly\Relabels36.xml -->
 	<!-- EN: deadlife mortar shell -->
-	<Shell_Deadlife.label>proyectil de mortero deadlife</Shell_Deadlife.label>
+	<Shell_Deadlife.label>proyectil de mortero necrovita</Shell_Deadlife.label>
 	<!-- EN: deadlife shell -->
-	<Bullet_81mmMortarShell_Deadlife.label>proyectil deadlife</Bullet_81mmMortarShell_Deadlife.label>
+	<Bullet_81mmMortarShell_Deadlife.label>proyectil necrovita</Bullet_81mmMortarShell_Deadlife.label>
 </LanguageData>

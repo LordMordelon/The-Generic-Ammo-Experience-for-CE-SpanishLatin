@@ -1,8 +1,8 @@
 <LanguageData>
 	<!-- _Translation\Grabbed_Defs_from_patches\Ludeon_Rimworld_Biotech\URMC34.xml -->
 	<!-- EN: caseless tox cartridge -->
-	<Ammo_10x24mmCaseless_Tox.label>cartucho tox sin casquillo</Ammo_10x24mmCaseless_Tox.label>
+	<Ammo_10x24mmCaseless_Tox.label>cartucho toxico sin casquillo</Ammo_10x24mmCaseless_Tox.label>
 	
 	<!-- EN: caseless tox bullet -->
-	<Bullet_10x24mmCaseless_Tox.label>bala tox sin casquillo</Bullet_10x24mmCaseless_Tox.label>
+	<Bullet_10x24mmCaseless_Tox.label>bala toxico sin casquillo</Bullet_10x24mmCaseless_Tox.label>
 </LanguageData>
