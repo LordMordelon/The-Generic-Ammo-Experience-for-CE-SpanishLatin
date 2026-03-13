@@ -1,0 +1,47 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Ammo_category_fixes0.xml -->
+	<!-- EN: charged pistol ammo -->
+	<AmmoPistolCharged.label>municion de pistola cargada</AmmoPistolCharged.label>
+	<!-- EN: charged rifle ammo -->
+	<AmmoRifleCharged.label>municion de rifle cargada</AmmoRifleCharged.label>
+	<!-- EN: charged heavy ammo -->
+	<AmmoHeavyCharged.label>municion pesada cargada</AmmoHeavyCharged.label>
+	<!-- EN: charged shotgun shells -->
+	<AmmoShotgunCharged.label>cartuchos de escopeta cargados</AmmoShotgunCharged.label>
+	<!-- EN: fuel cells -->
+	<AmmoFuelCell.label>celdas de combustible</AmmoFuelCell.label>
+	<!-- EN: shells -->
+	<AmmoShells.label>proyectiles</AmmoShells.label>
+	<!-- EN: cannon balls -->
+	<CannonBall.label>balas de cañon</CannonBall.label>
+	<!-- EN: pistol ammo -->
+	<AmmoPistols.label>municion de pistola</AmmoPistols.label>
+	<!-- EN: rifle ammo -->
+	<AmmoRifles.label>municion de rifle</AmmoRifles.label>
+	<!-- EN: flares -->
+	<AmmoFlare.label>bengalas</AmmoFlare.label>
+	<!-- EN: rockets and missiles -->
+	<AmmoRockets.label>cohetes y misiles</AmmoRockets.label>
+	<!-- EN: missiles -->
+	<AmmoMissiles.label>misiles</AmmoMissiles.label>
+	<!-- EN: missiles -->
+	<AmmoMissile.label>misiles</AmmoMissile.label>
+	<!-- EN: portable turrets -->
+	<WeaponsTurrets.label>torretas portatiles</WeaponsTurrets.label>
+	<!-- EN: mortar shells -->
+	<Ammo81mmMortarShells.label>obuses de mortero</Ammo81mmMortarShells.label>
+	<!-- EN: industrial -->
+	<SEX_StandardAmmo.label>industrial</SEX_StandardAmmo.label>
+	<!-- EN: shotgun shells -->
+	<AmmoShotgun.label>cartuchos de escopeta</AmmoShotgun.label>
+	<!-- EN: launcher grenades -->
+	<AmmoLauncherGrenade.label>granadas de lanzagranadas</AmmoLauncherGrenade.label>
+	<!-- EN: flamethrower fuels -->
+	<AmmoFlamethrower.label>combustibles de lanzallamas</AmmoFlamethrower.label>
+	<!-- EN: anti-materiel ammo -->
+	<AmmoAntiMateriel.label>municion antimaterial</AmmoAntiMateriel.label>
+	<!-- EN: autocannon shells -->
+	<AmmoAutocannon.label>proyectiles de autocañon</AmmoAutocannon.label>
+	<!-- EN: mech ammo -->
+	<SEX_MechAmmo.label>municion de meca</SEX_MechAmmo.label>
+</LanguageData>

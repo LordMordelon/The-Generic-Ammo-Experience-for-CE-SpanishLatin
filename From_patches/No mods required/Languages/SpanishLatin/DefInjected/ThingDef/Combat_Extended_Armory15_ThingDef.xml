@@ -1,0 +1,21 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Combat_Extended_Armory15.xml -->
+	<!-- EN: round shot -->
+	<Bullet_CEACannonBallIndirect_Round.label>bala rasa</Bullet_CEACannonBallIndirect_Round.label>
+	<!-- EN: shaft -->
+	<CE_Melee_QuarterStaff.tools.0.label>asta</CE_Melee_QuarterStaff.tools.0.label>
+	<!-- EN: shaft -->
+	<CE_Melee_QuarterStaff.tools.1.label>asta</CE_Melee_QuarterStaff.tools.1.label>
+	<!-- EN: cannon -->
+	<CE_Gun_TwelvePounder.label>cañon</CE_Gun_TwelvePounder.label>
+	<!-- EN: cannon -->
+	<CE_Turret_TwelvePounder.label>cañon</CE_Turret_TwelvePounder.label>
+	<!-- EN: bombardier -->
+	<CE_Turret_12PounderBombard.label>bombardero</CE_Turret_12PounderBombard.label>
+	<!-- EN: A primitive cannon designed to launch various shells over long distances. -->
+	<CE_Turret_12PounderBombard.description>Un cañon primitivo disenado para lanzar varios tipos de proyectiles a largas distancias.</CE_Turret_12PounderBombard.description>
+	<!-- EN: missile launcher -->
+	<CE_Gun_CarlGustaf.label>lanzamisiles</CE_Gun_CarlGustaf.label>
+	<!-- EN: An advanced missile launcher with a sophisticated targeting computer, capable of firing a wide range of ammunition.\n\nThis weapon is commonly used by elite infantry and anti-tank units to take out heavily armored targets. -->
+	<CE_Gun_CarlGustaf.description>Un lanzamisiles avanzado con un sofisticado computador de punteria, capaz de disparar una amplia gama de municion.\n\nEsta arma es usada comunmente por infanteria de elite y unidades antitanque para eliminar objetivos fuertemente blindados.</CE_Gun_CarlGustaf.description>
+</LanguageData>

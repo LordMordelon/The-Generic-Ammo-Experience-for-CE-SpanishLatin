@@ -1,0 +1,10 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Impact_Weaponry20.xml -->
+	
+	<!-- EN: Impact shells -->
+	<SEX_ImpactShells.label>Proyectiles de impacto</SEX_ImpactShells.label>
+	<!-- EN: impact -->
+	<SEX_ImpactShells.labelShort>impacto</SEX_ImpactShells.labelShort>
+	<!-- EN: A large caliber, gryojet-stabilized projectile with an explosive charge. -->
+	<SEX_ImpactShells.description>Un proyectil de gran calibre estabilizado por girojet con una carga explosiva.</SEX_ImpactShells.description>
+</LanguageData>

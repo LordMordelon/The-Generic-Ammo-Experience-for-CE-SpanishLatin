@@ -1,0 +1,5 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VFESecurity\Vanilla_Furniture_Expanded-Security56.xml -->
+	<!-- EN: A crate for storing ammunition. Improves the reload speed of surrounding soldiers. -->
+	<VFES_AmmoCrate.description>Una caja para almacenar munición. Mejora la velocidad de recarga de los soldados cercanos.</VFES_AmmoCrate.description>
+</LanguageData>

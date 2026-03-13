@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Armor-Piercing_Special12.xml -->
+	<!-- EN: armor-piercing discarding sabot -->
+	<SpecialAP.label>perforadora de blindaje sabot descartable</SpecialAP.label>
+	<!-- EN: AP-S -->
+	<SpecialAP.labelShort>AP-S</SpecialAP.labelShort>
+	<!-- EN: Uses a discarding sabot to fire an undersized projectile at higher muzzle velocities, greatly improving armor penetration. -->
+	<SpecialAP.description>Usa un sabot descartable para disparar un proyectil más pequeño a mayores velocidades de salida, mejorando en gran medida la penetración de blindaje.</SpecialAP.description>
+</LanguageData>

@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VAEAccessories\Vanilla_Apparel_Expanded_Accesories48.xml -->
+	<!-- EN: A quiver for arrows. Halves the warmup time of simple ranged weapons. Firearms and other advanced weapons are unaffected. -->
+	<VAEA_Apparel_Quiver.description>Un carcaj para flechas. Reduce a la mitad el tiempo de preparación de armas de largo alcance simples. Las armas de fuego y otras armas avanzadas no se ven afectadas.</VAEA_Apparel_Quiver.description>
+	<!-- EN: A pouch with a shoulder strap for storing ammunition. Also allows the wearer to easily access ammunition during combat which speeds up reloads. -->
+	<VAEA_Apparel_AmmoPack.description>Una bolsa con correa de hombro para almacenar munición. También permite al portador acceder fácilmente a la munición durante el combate, lo que acelera las recargas.</VAEA_Apparel_AmmoPack.description>
+</LanguageData>

@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\General_fixes4.xml -->
+	<!-- EN: A high caliber machine gun turret with a mounted shield for extra durability. Its dumb AI brain can"t be directly controlled, so beware of friendly fire. -->
+	<Turret_Heavy.description>Una torreta de ametralladora de alto calibre con un escudo montado para mayor resistencia. Su tonto cerebro de IA no puede controlarse directamente, asi que cuidado con el fuego amigo.</Turret_Heavy.description>
+	<!-- EN: A machine gun turret firing full power rifle cartridges. Its dumb AI brain can"t be directly controlled, so beware of friendly fire. -->
+	<Turret_Medium.description>Una torreta de ametralladora que dispara cartuchos de rifle de potencia completa. Su tonto cerebro de IA no puede controlarse directamente, asi que cuidado con el fuego amigo.</Turret_Medium.description>
+</LanguageData>

@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- 1.6\Defs\AmmoDefs\Ammo_Makeshift.xml -->
+	<!-- EN: lead slug -->
+	<AmmoSet_LeadSlug.label>proyectil de plomo</AmmoSet_LeadSlug.label>
+	<!-- EN: lead slug -->
+	<AmmoSet_LeadSlugHighVelocity.label>proyectil de plomo</AmmoSet_LeadSlugHighVelocity.label>
+	<!-- EN: lead slug -->
+	<AmmoSet_LeadSlugShotgun.label>proyectil de plomo</AmmoSet_LeadSlugShotgun.label>
+</LanguageData>

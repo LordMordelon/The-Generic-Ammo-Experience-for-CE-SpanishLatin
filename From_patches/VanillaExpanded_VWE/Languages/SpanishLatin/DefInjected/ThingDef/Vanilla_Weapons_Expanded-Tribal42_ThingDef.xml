@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VWE\Vanilla_Weapons_Expanded-Tribal42.xml -->
+	<!-- EN: A small pouch in the middle of two lengths of cord. Used to slingshot various projectiles over surprisingly long distances. -->
+	<VWE_Sling.description>Una pequeña bolsa en medio de dos tramos de cuerda. Se usa para lanzar diversos proyectiles a distancias sorprendentemente largas.</VWE_Sling.description>
+	<!-- EN: A small clay pot with various flammable substances inside - be it chemfuel, cloth or animal fats. Can be either thrown by hand or launched with a sling. -->
+	<VWE_Weapon_FireBomb.description>Una pequeña vasija de arcilla con varias sustancias inflamables dentro, ya sea chemfuel, tela o grasas animales. Puede lanzarse a mano o con una honda.</VWE_Weapon_FireBomb.description>
+</LanguageData>

@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- 1.6\Defs\AmmoDefs\AmmoSets_Slings.xml -->
+	<!-- EN: make plasteel sling bullets x100 -->
+	<MakeAmmo_SlingBullet_Plasteel.label>fabricar proyectiles de honda de plastiacero x100</MakeAmmo_SlingBullet_Plasteel.label>
+	<!-- EN: Make 100 plasteel sling bullets. -->
+	<MakeAmmo_SlingBullet_Plasteel.description>Fabrica 100 proyectiles de honda de plastiacero.</MakeAmmo_SlingBullet_Plasteel.description>
+	<!-- EN: Making plasteel sling bullets. -->
+	<MakeAmmo_SlingBullet_Plasteel.jobString>Fabricando proyectiles de honda de plastiacero.</MakeAmmo_SlingBullet_Plasteel.jobString>
+</LanguageData>

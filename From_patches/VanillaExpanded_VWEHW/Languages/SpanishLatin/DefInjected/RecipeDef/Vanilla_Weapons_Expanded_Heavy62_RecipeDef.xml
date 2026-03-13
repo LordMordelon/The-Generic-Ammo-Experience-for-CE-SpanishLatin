@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VWEHW\Vanilla_Weapons_Expanded_Heavy62.xml -->
+	<!-- EN: make swarm rockets x5 -->
+	<MakeAmmo_M73_HE.label>fabricar cohetes Swarm x5</MakeAmmo_M73_HE.label>
+	<!-- EN: Craft 5 swarm rockets. -->
+	<MakeAmmo_M73_HE.description>Fabrica 5 cohetes Swarm.</MakeAmmo_M73_HE.description>
+	<!-- EN: Making swarm rockets. -->
+	<MakeAmmo_M73_HE.jobString>Fabricando cohetes Swarm.</MakeAmmo_M73_HE.jobString>
+</LanguageData>

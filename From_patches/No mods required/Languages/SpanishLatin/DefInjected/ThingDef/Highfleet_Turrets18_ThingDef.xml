@@ -1,0 +1,33 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Highfleet_Turrets18.xml -->
+	
+	<!-- EN: Large cannon shell mainly used in naval guns. -->
+	<Ammo_HFT_SuperheavyShell_HE.description>Gran proyectil de cañon usado principalmente en cañones navales.</Ammo_HFT_SuperheavyShell_HE.description>
+	<!-- EN: superheavy cannon shell (HE) -->
+	<Ammo_HFT_SuperheavyShell_HE.label>proyectil de cañon superpesado (HE)</Ammo_HFT_SuperheavyShell_HE.label>
+	
+	<!-- EN: Large cannon shell mainly used in naval guns. -->
+	<Ammo_HFT_SuperheavyShell_Incendiary.description>Gran proyectil de cañon usado principalmente en cañones navales.</Ammo_HFT_SuperheavyShell_Incendiary.description>
+	<!-- EN: superheavy cannon shell (Incendiary) -->
+	<Ammo_HFT_SuperheavyShell_Incendiary.label>proyectil de cañon superpesado (Incendiario)</Ammo_HFT_SuperheavyShell_Incendiary.label>
+	
+	<!-- EN: Large cannon shell mainly used in naval guns. -->
+	<Ammo_HFT_SuperheavyShell_Prox.description>Gran proyectil de cañon usado principalmente en cañones navales.</Ammo_HFT_SuperheavyShell_Prox.description>
+	<!-- EN: superheavy cannon shell (Proximity Fuse) -->
+	<Ammo_HFT_SuperheavyShell_Prox.label>proyectil de cañon superpesado (espoleta de proximidad)</Ammo_HFT_SuperheavyShell_Prox.label>
+	
+	<!-- EN: Large cannon shell mainly used in naval guns. -->
+	<Ammo_HFT_SuperheavyShell_Sabot.description>Gran proyectil de cañon usado principalmente en cañones navales.</Ammo_HFT_SuperheavyShell_Sabot.description>
+	<!-- EN: superheavy cannon shell (Sabot) -->
+	<Ammo_HFT_SuperheavyShell_Sabot.label>proyectil de cañon superpesado (Sabot)</Ammo_HFT_SuperheavyShell_Sabot.label>
+	
+	<!-- EN: 220mm Heavy rocket used in multiple rocket launch systems. -->
+	<Ammo_HFT_SuperheavyRocket_HE.description>Cohete pesado de 220 mm usado en sistemas de lanzacohetes multiples.</Ammo_HFT_SuperheavyRocket_HE.description>
+	<!-- EN: superheavy rocket (HE) -->
+	<Ammo_HFT_SuperheavyRocket_HE.label>cohete superpesado (HE)</Ammo_HFT_SuperheavyRocket_HE.label>
+	
+	<!-- EN: 220mm Heavy rocket used in multiple rocket launch systems. -->
+	<Ammo_HFT_SuperheavyRocket_Incendiary.description>Cohete pesado de 220 mm usado en sistemas de lanzacohetes multiples.</Ammo_HFT_SuperheavyRocket_Incendiary.description>
+	<!-- EN: superheavy rocket (Incendiary) -->
+	<Ammo_HFT_SuperheavyRocket_Incendiary.label>cohete superpesado (Incendiario)</Ammo_HFT_SuperheavyRocket_Incendiary.label>
+</LanguageData>

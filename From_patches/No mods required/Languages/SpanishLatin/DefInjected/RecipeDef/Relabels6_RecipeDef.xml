@@ -1,0 +1,51 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Relabels6.xml -->
+	<!-- EN: make wooden arrows x10 -->
+	<MakeAmmo_Arrow_Stone.label>fabricar flechas de madera x10</MakeAmmo_Arrow_Stone.label>
+	<!-- EN: Craft 10 wooden arrows. -->
+	<MakeAmmo_Arrow_Stone.description>Fabrica 10 flechas de madera.</MakeAmmo_Arrow_Stone.description>
+	<!-- EN: Making wooden arrows. -->
+	<MakeAmmo_Arrow_Stone.jobString>Fabricando flechas de madera.</MakeAmmo_Arrow_Stone.jobString>
+	<!-- EN: make disposable rocket launcher x5 -->
+	<MakeDisposableRocketLauncher.label>fabricar lanzacohetes desechable x5</MakeDisposableRocketLauncher.label>
+	<!-- EN: make disposable rocket launcher x1 -->
+	<MakeDisposableRocketLauncher_x1.label>fabricar lanzacohetes desechable x1</MakeDisposableRocketLauncher_x1.label>
+	<!-- EN: make high explosive artillery shell x1 -->
+	<MakeAmmo_155mmHowitzerShell_HE.label>fabricar proyectil de artilleria de alto explosivo x1</MakeAmmo_155mmHowitzerShell_HE.label>
+	<!-- EN: Craft 1 high explosive artillery shell. -->
+	<MakeAmmo_155mmHowitzerShell_HE.description>Fabrica 1 proyectil de artilleria de alto explosivo.</MakeAmmo_155mmHowitzerShell_HE.description>
+	<!-- EN: Making high explosive artillery shells. -->
+	<MakeAmmo_155mmHowitzerShell_HE.jobString>Fabricando proyectiles de artilleria de alto explosivo.</MakeAmmo_155mmHowitzerShell_HE.jobString>
+	<!-- EN: make airburst artillery shell x1 -->
+	<MakeAmmo_155mmHowitzerShell_HE_HFuzed.label>fabricar proyectil de artilleria de rafaga aérea x1</MakeAmmo_155mmHowitzerShell_HE_HFuzed.label>
+	<!-- EN: Craft 1 airburst artillery shell. -->
+	<MakeAmmo_155mmHowitzerShell_HE_HFuzed.description>Fabrica 1 proyectil de artilleria de rafaga aérea.</MakeAmmo_155mmHowitzerShell_HE_HFuzed.description>
+	<!-- EN: Making airburst artillery shells. -->
+	<MakeAmmo_155mmHowitzerShell_HE_HFuzed.jobString>Fabricando proyectiles de artilleria de rafaga aérea.</MakeAmmo_155mmHowitzerShell_HE_HFuzed.jobString>
+	<!-- EN: make incendiary artillery shell x1 -->
+	<MakeAmmo_155mmHowitzerShell_Incendiary.label>fabricar proyectil de artilleria incendiario x1</MakeAmmo_155mmHowitzerShell_Incendiary.label>
+	<!-- EN: Craft 1 incendiary artillery shell. -->
+	<MakeAmmo_155mmHowitzerShell_Incendiary.description>Fabrica 1 proyectil de artilleria incendiario.</MakeAmmo_155mmHowitzerShell_Incendiary.description>
+	<!-- EN: Making incendiary artillery shells. -->
+	<MakeAmmo_155mmHowitzerShell_Incendiary.jobString>Fabricando proyectiles de artilleria incendiarios.</MakeAmmo_155mmHowitzerShell_Incendiary.jobString>
+	<!-- EN: make EMP artillery shell x1 -->
+	<MakeAmmo_155mmHowitzerShell_EMP.label>fabricar proyectil de artilleria EMP x1</MakeAmmo_155mmHowitzerShell_EMP.label>
+	<!-- EN: Craft 1 EMP artillery shell. -->
+	<MakeAmmo_155mmHowitzerShell_EMP.description>Fabrica 1 proyectil de artilleria EMP.</MakeAmmo_155mmHowitzerShell_EMP.description>
+	<!-- EN: Making EMP artillery shells. -->
+	<MakeAmmo_155mmHowitzerShell_EMP.jobString>Fabricando proyectiles de artilleria EMP.</MakeAmmo_155mmHowitzerShell_EMP.jobString>
+	<!-- EN: make smoke artillery shell x1 -->
+	<MakeAmmo_155mmHowitzerShell_Smoke.label>fabricar proyectil de artilleria de humo x1</MakeAmmo_155mmHowitzerShell_Smoke.label>
+	<!-- EN: Craft 1 smoke artillery shell. -->
+	<MakeAmmo_155mmHowitzerShell_Smoke.description>Fabrica 1 proyectil de artilleria de humo.</MakeAmmo_155mmHowitzerShell_Smoke.description>
+	<!-- EN: Making smoke artillery shells. -->
+	<MakeAmmo_155mmHowitzerShell_Smoke.jobString>Fabricando proyectiles de artilleria de humo.</MakeAmmo_155mmHowitzerShell_Smoke.jobString>
+	<!-- EN: make round cannon balls x5 -->
+	<MakeAmmo_CannonBall_Round.label>fabricar bala de cañon x5</MakeAmmo_CannonBall_Round.label>
+	<!-- EN: make bursting cannon balls x5 -->
+	<MakeAmmo_CannonBall_Bursting.label>fabricar bala explosivas de cañon x5</MakeAmmo_CannonBall_Bursting.label>
+	<!-- EN: make incendiary cannon balls x5 -->
+	<MakeAmmo_CannonBall_Incendiary.label>fabricar bala incendiaria de cañon x5</MakeAmmo_CannonBall_Incendiary.label>
+	<!-- EN: make grapeshot cannon balls x5 -->
+	<MakeAmmo_CannonBall_Grape.label>fabricar bala de metralla de cañon x5</MakeAmmo_CannonBall_Grape.label>
+</LanguageData>

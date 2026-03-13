@@ -1,0 +1,5 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\OskarPotocki_VanillaVehiclesExpanded\Titan_Vehicles45.xml -->
+	<!-- EN: A superheavy main battle tank. Two autocannons and a smoke projector compliment the heavy main battery of this ultimate war machine.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Driver x1, Gunner x1, Machine gunner x2\n&lt;color=#bb8f04&gt;Fuel type:&lt;/color&gt; Chemfuel -->
+	<JASV_Warchief_Buildable.description>Un tanque de batalla principal superpesado. Dos autocañones y un proyector de humo complementan la batería principal pesada de esta máquina de guerra definitiva.\n\n&lt;color=#bb8f04&gt;Tripulación:&lt;/color&gt; Conductor x1, Artillero x1, Ametrallador x2\n&lt;color=#bb8f04&gt;Tipo de combustible:&lt;/color&gt; Chemfuel</JASV_Warchief_Buildable.description>
+</LanguageData>

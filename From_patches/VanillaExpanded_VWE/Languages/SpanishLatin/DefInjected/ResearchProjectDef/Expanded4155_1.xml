@@ -1,0 +1,21 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VWE\Grenade_launcher_Added_to_Vanilla_Weapons_Expanded41.xml -->
+	<!-- EN: grenadier rifles -->
+	<SEX_GrenadierRifles.label>rifles granaderos</SEX_GrenadierRifles.label>
+	<!-- EN: Assemble specialized variants of weapons with ordnance launchers. -->
+	<SEX_GrenadierRifles.description>Ensambla variantes especializadas de armas con lanzadores de munición.</SEX_GrenadierRifles.description>
+	<!-- EN: 
+		<li>subject->grenadier rifles</li>
+		<li>subject_story->breached an imperial outpost utilizing special rifles with grenade launchers</li>
+		<li>subject_story->attached an improvised grenade launcher onto their rifle</li>
+		<li>subject_story->made a living tinkering with rifles</li>
+		<li>subject_gerund->crafting grenadier rifles</li>
+	 -->
+	<SEX_GrenadierRifles.generalRules.rulesStrings>
+		<li>subject->rifles granaderos</li>
+		<li>subject_story->asaltó un puesto imperial utilizando rifles especiales con lanzagranadas</li>
+		<li>subject_story->acopló un lanzagranadas improvisado a su rifle</li>
+		<li>subject_story->se ganaba la vida trasteando con rifles</li>
+		<li>subject_gerund->fabricando rifles granaderos</li>
+	</SEX_GrenadierRifles.generalRules.rulesStrings>
+</LanguageData>

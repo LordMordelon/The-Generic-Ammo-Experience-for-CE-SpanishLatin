@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- 1.6\Defs\AmmoDefs\Ammo_Missile.xml -->
+	
+	<!-- EN: missile -->
+	<AmmoSet_Missile.label>misil</AmmoSet_Missile.label>
+	
+	<!-- EN: missile -->
+	<AmmoSet_MissileIndirect.label>misil</AmmoSet_MissileIndirect.label>
+</LanguageData>

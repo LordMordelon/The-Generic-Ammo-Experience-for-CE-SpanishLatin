@@ -1,0 +1,27 @@
+<LanguageData>
+	<!-- 1.6\Defs\AmmoDefs\Ammo_FuelCell.xml -->
+	
+	<!-- EN: Container holding fuel for incendiary shot firearms. -->
+	<Ammo_Fuel_Incendiary.description>Contenedor que contiene combustible para armas de disparo incendiario.</Ammo_Fuel_Incendiary.description>
+	<!-- EN: Incendiary fuel cell -->
+	<Ammo_Fuel_Incendiary.label>Celda de combustible incendiario</Ammo_Fuel_Incendiary.label>
+	
+	<!-- EN: Container holding fuel for incendiary shot firearms. -->
+	<Ammo_Fuel_Thermobaric.description>Contenedor que contiene combustible para armas de disparo incendiario.</Ammo_Fuel_Thermobaric.description>
+	<!-- EN: Thermobaric fuel cell -->
+	<Ammo_Fuel_Thermobaric.label>Celda de combustible termobarico</Ammo_Fuel_Thermobaric.label>
+	
+	<!-- EN: Container holding fuel for incendiary shot firearms. -->
+	<Ammo_Fuel_Foam.description>Contenedor que contiene combustible para armas de disparo incendiario.</Ammo_Fuel_Foam.description>
+	<!-- EN: Foam fuel cell -->
+	<Ammo_Fuel_Foam.label>Celda de combustible de espuma</Ammo_Fuel_Foam.label>
+	
+	<!-- EN: incendiary bolt -->
+	<Bullet_Fuel_Incendiary.label>virote incendiario</Bullet_Fuel_Incendiary.label>
+	
+	<!-- EN: thermobaric bolt -->
+	<Bullet_Fuel_Thermobaric.label>virote termobarico</Bullet_Fuel_Thermobaric.label>
+	
+	<!-- EN: foam bolt -->
+	<Bullet_Fuel_Foam.label>virote de espuma</Bullet_Fuel_Foam.label>
+</LanguageData>

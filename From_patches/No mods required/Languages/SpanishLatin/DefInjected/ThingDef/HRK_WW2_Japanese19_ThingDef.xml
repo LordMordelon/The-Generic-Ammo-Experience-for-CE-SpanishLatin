@@ -1,0 +1,26 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\HRK_WW2_Japanese19.xml -->
+	<!-- EN: japanese launcher grenade (HE) -->
+	<Ammo_50mmType89Grenade_HE.label>granada japonesa de lanzagranadas (HE)</Ammo_50mmType89Grenade_HE.label>
+	
+	<!-- EN: japanese launcher grenade (HE) -->
+	<Bullet_50mmType89Grenade_HE.label>granada japonesa de lanzagranadas (HE)</Bullet_50mmType89Grenade_HE.label>
+	
+	<!-- EN: japanese launcher grenade (FRAG) -->
+	<Ammo_50mmType89Grenade_Frag.label>granada japonesa de lanzagranadas (FRAG)</Ammo_50mmType89Grenade_Frag.label>
+	
+	<!-- EN: japanese launcher grenade (FRAG) -->
+	<Bullet_50mmType89Grenade_Frag.label>granada japonesa de lanzagranadas (FRAG)</Bullet_50mmType89Grenade_Frag.label>
+	
+	<!-- EN: japanese launcher grenade (WP) -->
+	<Ammo_50mmType89Grenade_WhitePhosphorus.label>granada japonesa de lanzagranadas (WP)</Ammo_50mmType89Grenade_WhitePhosphorus.label>
+	
+	<!-- EN: japanese launcher grenade (WP) -->
+	<Bullet_50mmType89Grenade_WhitePhosphorus.label>granada japonesa de lanzagranadas (WP)</Bullet_50mmType89Grenade_WhitePhosphorus.label>
+	
+	<!-- EN: japanese launcher grenade (SMOKE) -->
+	<Ammo_50mmType89Grenade_Smoke.label>granada japonesa de lanzagranadas (HUMO)</Ammo_50mmType89Grenade_Smoke.label>
+	
+	<!-- EN: japanese launcher grenade (SMOKE) -->
+	<Bullet_50mmType89Grenade_Smoke.label>granada japonesa de lanzagranadas (HUMO)</Bullet_50mmType89Grenade_Smoke.label>
+</LanguageData>

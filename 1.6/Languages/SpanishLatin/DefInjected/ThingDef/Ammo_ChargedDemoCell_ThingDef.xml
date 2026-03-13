@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- 1.6\Defs\AmmoDefs\Ammo_ChargedDemoCell.xml -->
+	
+	<!-- EN: charged demolition cell -->
+	<Ammo_ChargedDemolition.label>celda de demolicion cargada</Ammo_ChargedDemolition.label>
+	<!-- EN: Container holding fuel for incendiary shot firearms. -->
+	<Ammo_ChargedDemolition.description>Contenedor que contiene combustible para armas de disparo incendiario.</Ammo_ChargedDemolition.description>
+	
+	<!-- EN: demolition bolt -->
+	<Bullet_ChargedDemolition_Thump.label>virote de demolicion</Bullet_ChargedDemolition_Thump.label>
+</LanguageData>

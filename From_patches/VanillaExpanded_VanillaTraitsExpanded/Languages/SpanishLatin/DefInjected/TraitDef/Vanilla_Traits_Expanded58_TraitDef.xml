@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VanillaTraitsExpanded\Vanilla_Traits_Expanded58.xml -->
+	<!-- EN: fearless -->
+	<Bravery.degreeDatas.0.label>intrépido</Bravery.degreeDatas.0.label>
+	<!-- EN: [PAWN_nameDef] laughs in the face of danger. [PAWN_nameDef] seems to lack any sense of self-preservation and will never flee from a threatening situation. -->
+	<Bravery.degreeDatas.0.description>[PAWN_nameDef] se ríe ante el peligro. [PAWN_nameDef] parece carecer de cualquier sentido de autoconservación y nunca huirá de una situación amenazante.</Bravery.degreeDatas.0.description>
+	<!-- EN: fearless -->
+	<Bravery.degreeDatas.0.labelFemale>intrépida</Bravery.degreeDatas.0.labelFemale>
+</LanguageData>

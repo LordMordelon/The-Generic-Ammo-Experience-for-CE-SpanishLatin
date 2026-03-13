@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\155mm_Antigrain_for_Combat_Extended11.xml -->
+	<!-- EN: antigrain artillery shell -->
+	<Ammo_155mmHowitzerShell_Antigrain.label>proyectil de artilleria antimateria</Ammo_155mmHowitzerShell_Antigrain.label>
+	<!-- EN: antigrain artillery shell -->
+	<Bullet_155mmHowitzerShell_Anti.label>proyectil de artilleria antimateria</Bullet_155mmHowitzerShell_Anti.label>
+	<!-- EN: antigrain artillery shell -->
+	<Bullet_155mmHowitzerShell_Anti_directfire.label>proyectil de artilleria antimateria</Bullet_155mmHowitzerShell_Anti_directfire.label>
+</LanguageData>

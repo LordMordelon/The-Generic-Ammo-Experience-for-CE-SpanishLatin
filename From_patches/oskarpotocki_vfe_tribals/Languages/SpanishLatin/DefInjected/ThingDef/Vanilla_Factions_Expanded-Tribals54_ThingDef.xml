@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\oskarpotocki_vfe_tribals\Vanilla_Factions_Expanded-Tribals54.xml -->
+	<!-- EN: handle -->
+	<VWE_MeleeWeapon_Axe.tools.0.label>mango</VWE_MeleeWeapon_Axe.tools.0.label>
+	<!-- EN: edge -->
+	<VWE_MeleeWeapon_Axe.tools.1.label>filo</VWE_MeleeWeapon_Axe.tools.1.label>
+	<!-- EN: A simple axe head fastened to a handle. The wedge-shaped axe head allows the weapon to easily cut into flesh and makes it an effective weapon for one-handed combat. -->
+	<VWE_MeleeWeapon_Axe.description>Una simple cabeza de hacha fijada a un mango. La cabeza de hacha en forma de cuña permite al arma cortar fácilmente la carne y la convierte en un arma efectiva para combate con una mano.</VWE_MeleeWeapon_Axe.description>
+</LanguageData>

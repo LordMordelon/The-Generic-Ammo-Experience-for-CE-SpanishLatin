@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VWEL\Vanilla_Weapons_Expanded-Laser60.xml -->
+	<!-- EN: A drum-based laser pistol capable of heating up quite quickly, each chamber containing an individual microbattery primed to focus each shot. -->
+	<VWEFT_Gun_SalvagedLaserRevolver.description>Una pistola láser de tambor capaz de calentarse bastante rápido, cada recámara contiene una microbatería individual preparada para enfocar cada disparo.</VWEFT_Gun_SalvagedLaserRevolver.description>
+	<!-- EN: A salvaged repeating rifle capable of firing unstable light at both close and medium distance, surprisingly accurate. -->
+	<VWEFT_Gun_SalvagedLaserRepeater.description>Un rifle de repetición recuperado capaz de disparar luz inestable tanto a corta como media distancia, sorprendentemente preciso.</VWEFT_Gun_SalvagedLaserRepeater.description>
+	<!-- EN: A scoped marksmen laser rifle capable of firing unstable light at very long range, supposedly used for mag train robberies long ago. -->
+	<VWEFT_Gun_SalvagedLaserHuntingRifle.description>Un rifle láser de tirador con mira, capaz de disparar luz inestable a muy larga distancia, supuestamente usado hace mucho en asaltos a trenes mag.</VWEFT_Gun_SalvagedLaserHuntingRifle.description>
+</LanguageData>

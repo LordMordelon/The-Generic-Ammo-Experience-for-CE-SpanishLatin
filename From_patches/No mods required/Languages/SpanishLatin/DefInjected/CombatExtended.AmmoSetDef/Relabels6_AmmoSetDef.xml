@@ -1,0 +1,13 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Relabels6.xml -->
+	<!-- EN: cannon balls -->
+	<AmmoSet_CannonBall.label>balas de cañón</AmmoSet_CannonBall.label>
+	<!-- EN: charged heavy -->
+	<AmmoSet_ChargedHeavy.label>pesada cargada</AmmoSet_ChargedHeavy.label>
+	<!-- EN: artillery shells -->
+	<AmmoSet_155mmHowitzerShell.label>proyectiles de artillería</AmmoSet_155mmHowitzerShell.label>
+	<!-- EN: artillery shells -->
+	<AmmoSet_155mmHowitzerShell_directfire.label>proyectiles de artillería</AmmoSet_155mmHowitzerShell_directfire.label>
+	<!-- EN: mech charged -->
+	<AmmoSet_MechCharged.label>meca cargada</AmmoSet_MechCharged.label>
+</LanguageData>

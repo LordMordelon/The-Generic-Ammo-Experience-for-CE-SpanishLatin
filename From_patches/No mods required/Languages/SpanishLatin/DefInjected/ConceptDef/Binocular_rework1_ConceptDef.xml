@@ -1,0 +1,6 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Binocular_rework1.xml -->
+	
+	<!-- EN: You can have colonists act as spotters for artillery. To do this, equip a spotter's kit, then order your colonist to target an enemy or a spot on the ground.\n\nAfter a while the target will be marked with a red "x". Now select your mortar and order it to fire at the marked target.\n\nThis not only removes indirect fire penalties, it will also use the spotter"s aiming accuracy instead of the mortar operator"s. Use skilled spotters with sharp eyes to direct artillery directly onto your enemies. -->
+	<CE_Spotting.helpText>Puedes hacer que los colonos actúen como observadores para la artillería. Para hacer esto, equipa un kit de observador, luego ordena a tu colono apuntar a un enemigo o un punto en el suelo.\n\nDespués de un tiempo el objetivo será marcado con una "x" roja. Ahora selecciona tu mortero y ordénale disparar al objetivo marcado.\n\nEsto no solo elimina las penalizaciones de fuego indirecto, también usará la precisión de puntería del observador en lugar de la del operador del mortero. Usa observadores hábiles con ojos agudos para dirigir la artillería directamente sobre tus enemigos.</CE_Spotting.helpText>
+</LanguageData>

@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- 1.6\Defs\AmmoDefs\Ammo_Makeshift.xml -->
+	<!-- EN: make lead slug x250 -->
+	<SEX_MakeAmmo_LeadSlug.label>fabricar proyectil de plomo x250</SEX_MakeAmmo_LeadSlug.label>
+	<!-- EN: Craft 250 lead slugs. -->
+	<SEX_MakeAmmo_LeadSlug.description>Fabrica 250 proyectiles de plomo.</SEX_MakeAmmo_LeadSlug.description>
+	<!-- EN: Making lead slugs. -->
+	<SEX_MakeAmmo_LeadSlug.jobString>Fabricando proyectiles de plomo.</SEX_MakeAmmo_LeadSlug.jobString>
+</LanguageData>

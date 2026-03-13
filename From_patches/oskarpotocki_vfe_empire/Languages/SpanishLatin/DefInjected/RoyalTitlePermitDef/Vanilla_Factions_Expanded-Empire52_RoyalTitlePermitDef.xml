@@ -1,0 +1,28 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\oskarpotocki_vfe_empire\Vanilla_Factions_Expanded-Empire52.xml -->
+	<!-- EN: artillery shells drop -->
+	<SEX_ArtilleryShellsDrop.label>ataque de artillería</SEX_ArtilleryShellsDrop.label>
+	<!-- EN: Call for a drop of 10 high-explosive artillery shells. -->
+	<SEX_ArtilleryShellsDrop.description>Solicita un lanzamiento de 10 proyectiles de artillería altamente explosivos.</SEX_ArtilleryShellsDrop.description>
+	<!-- EN: Baron -->
+	<SEX_ArtilleryShellsDrop.minTitle>Barón</SEX_ArtilleryShellsDrop.minTitle>
+	
+	<!-- EN: mortar shells drop -->
+	<VFEI_HEShellsDrop.label>ataque de mortero</VFEI_HEShellsDrop.label>
+	<!-- EN: Call for a drop of 10 high-explosive mortar shells. -->
+	<VFEI_HEShellsDrop.description>Solicita un lanzamiento de 10 proyectiles de mortero altamente explosivos.</VFEI_HEShellsDrop.description>
+	
+	<!-- EN: call munitions resupply -->
+	<SEX_Resupply.label>reabastecimiento de municiones</SEX_Resupply.label>
+	<!-- EN: Call for a munitions resupply. You will be supplied with roughly three magazines of ammo for every colonist under your control. You will be provided with a standard shipment of rifle ammo if none of your colonists bear any ranged weapons. -->
+	<SEX_Resupply.description>Solicita un reabastecimiento de municiones. Serás abastecido con aproximadamente tres cargadores de munición por cada colono bajo tu control. Se te proporcionará un envío estándar de munición de rifle si ninguno de tus colonos porta armas de largo alcance.</SEX_Resupply.description>
+	<!-- EN: Acolyte -->
+	<SEX_Resupply.minTitle>Acólito</SEX_Resupply.minTitle>
+	
+	<!-- EN: call munitions restock -->
+	<SEX_Restock.label>reposición de municiones</SEX_Restock.label>
+	<!-- EN: Call for a munitions restock. You will be supplied with roughly five magazines of ammo for every colonist under your control.  You will be provided with a standard shipment of rifle ammo if none of your colonists bear any ranged weapons. -->
+	<SEX_Restock.description>Solicita una reposición de municiones. Serás abastecido con aproximadamente cinco cargadores de munición por cada colono bajo tu control. Se te proporcionará un envío estándar de munición de rifle si ninguno de tus colonos porta armas de largo alcance.</SEX_Restock.description>
+	<!-- EN: Baron -->
+	<SEX_Restock.minTitle>Barón</SEX_Restock.minTitle>
+</LanguageData>

@@ -1,0 +1,113 @@
+<LanguageData>
+	<!-- 1.6\Defs\AmmoDefs\Ammo_Missile.xml -->
+	
+	<!-- EN: High velocity self-propelled cartridge, can be fitted with a variety of payloads. -->
+	<Ammo_Missile_HEAT.description>Cartucho autopropulsado de alta velocidad que puede equiparse con una variedad de cargas.</Ammo_Missile_HEAT.description>
+	<!-- EN: Missile (HEAT) -->
+	<Ammo_Missile_HEAT.label>Misil (HEAT)</Ammo_Missile_HEAT.label>
+	
+	<!-- EN: High velocity self-propelled cartridge, can be fitted with a variety of payloads. -->
+	<Ammo_Missile_Thermobaric.description>Cartucho autopropulsado de alta velocidad que puede equiparse con una variedad de cargas.</Ammo_Missile_Thermobaric.description>
+	<!-- EN: Missile (Thermobaric) -->
+	<Ammo_Missile_Thermobaric.label>Misil (Termobarico)</Ammo_Missile_Thermobaric.label>
+	
+	<!-- EN: High velocity self-propelled cartridge, can be fitted with a variety of payloads. -->
+	<Ammo_Missile_HE.description>Cartucho autopropulsado de alta velocidad que puede equiparse con una variedad de cargas.</Ammo_Missile_HE.description>
+	<!-- EN: Missile (HE) -->
+	<Ammo_Missile_HE.label>Misil (HE)</Ammo_Missile_HE.label>
+	
+	<!-- EN: High velocity self-propelled cartridge, can be fitted with a variety of payloads. -->
+	<Ammo_Missile_HE_TFuzed.description>Cartucho autopropulsado de alta velocidad que puede equiparse con una variedad de cargas.</Ammo_Missile_HE_TFuzed.description>
+	<!-- EN: Missile (HE Time-Fuzed) -->
+	<Ammo_Missile_HE_TFuzed.label>Misil (HE con espoleta temporal)</Ammo_Missile_HE_TFuzed.label>
+	
+	<!-- EN: High velocity self-propelled cartridge, can be fitted with a variety of payloads. -->
+	<Ammo_Missile_HEDP.description>Cartucho autopropulsado de alta velocidad que puede equiparse con una variedad de cargas.</Ammo_Missile_HEDP.description>
+	<!-- EN: Missile (HEDP) -->
+	<Ammo_Missile_HEDP.label>Misil (HEDP)</Ammo_Missile_HEDP.label>
+	
+	<!-- EN: High velocity self-propelled cartridge, can be fitted with a variety of payloads. -->
+	<Ammo_Missile_Frag.description>Cartucho autopropulsado de alta velocidad que puede equiparse con una variedad de cargas.</Ammo_Missile_Frag.description>
+	<!-- EN: Missile (Frag) -->
+	<Ammo_Missile_Frag.label>Misil (Fragmentacion)</Ammo_Missile_Frag.label>
+	
+	<!-- EN: High velocity self-propelled cartridge, can be fitted with a variety of payloads. -->
+	<Ammo_Missile_CAN.description>Cartucho autopropulsado de alta velocidad que puede equiparse con una variedad de cargas.</Ammo_Missile_CAN.description>
+	<!-- EN: Missile (CAN) -->
+	<Ammo_Missile_CAN.label>Misil (CAN)</Ammo_Missile_CAN.label>
+	
+	<!-- EN: High velocity self-propelled cartridge, can be fitted with a variety of payloads. -->
+	<Ammo_Missile_Incendiary.description>Cartucho autopropulsado de alta velocidad que puede equiparse con una variedad de cargas.</Ammo_Missile_Incendiary.description>
+	<!-- EN: Missile (Incendiary) -->
+	<Ammo_Missile_Incendiary.label>Misil (Incendiario)</Ammo_Missile_Incendiary.label>
+	
+	<!-- EN: High velocity self-propelled cartridge, can be fitted with a variety of payloads. -->
+	<Ammo_Missile_EMP.description>Cartucho autopropulsado de alta velocidad que puede equiparse con una variedad de cargas.</Ammo_Missile_EMP.description>
+	<!-- EN: Missile (EMP) -->
+	<Ammo_Missile_EMP.label>Misil (EMP)</Ammo_Missile_EMP.label>
+	
+	<!-- EN: High velocity self-propelled cartridge, can be fitted with a variety of payloads. -->
+	<Ammo_Missile_Smoke.description>Cartucho autopropulsado de alta velocidad que puede equiparse con una variedad de cargas.</Ammo_Missile_Smoke.description>
+	<!-- EN: Missile (Smoke) -->
+	<Ammo_Missile_Smoke.label>Misil (Humo)</Ammo_Missile_Smoke.label>
+	
+	<!-- EN: Missile (HEAT) -->
+	<Bullet_Missile_HEAT.label>Misil (HEAT)</Bullet_Missile_HEAT.label>
+	
+	<!-- EN: Missile (Thermobaric) -->
+	<Bullet_Missile_Thermobaric.label>Misil (Termobarico)</Bullet_Missile_Thermobaric.label>
+	
+	<!-- EN: Missile (HE) -->
+	<Bullet_Missile_HE.label>Misil (HE)</Bullet_Missile_HE.label>
+	
+	<!-- EN: Missile (HE Time-Fuzed) -->
+	<Bullet_Missile_HE_TFuzed.label>Misil (HE con espoleta temporal)</Bullet_Missile_HE_TFuzed.label>
+	
+	<!-- EN: Missile (HEDP) -->
+	<Bullet_Missile_HEDP.label>Misil (HEDP)</Bullet_Missile_HEDP.label>
+	
+	<!-- EN: Missile (Frag) -->
+	<Bullet_Missile_Frag.label>Misil (Fragmentacion)</Bullet_Missile_Frag.label>
+	
+	<!-- EN: Flechette -->
+	<Bullet_Missile_CAN.label>Dardo</Bullet_Missile_CAN.label>
+	
+	<!-- EN: Missile (Incendiary) -->
+	<Bullet_Missile_Incendiary.label>Misil (Incendiario)</Bullet_Missile_Incendiary.label>
+	
+	<!-- EN: Missile (EMP) -->
+	<Bullet_Missile_EMP.label>Misil (EMP)</Bullet_Missile_EMP.label>
+	
+	<!-- EN: Missile (Smoke) -->
+	<Bullet_Missile_Smoke.label>Misil (Humo)</Bullet_Missile_Smoke.label>
+	
+	<!-- EN: Missile (HEAT) -->
+	<Bullet_MissileIndirect_HEAT.label>Misil (HEAT)</Bullet_MissileIndirect_HEAT.label>
+	
+	<!-- EN: Missile (Thermobaric) -->
+	<Bullet_MissileIndirect_Thermobaric.label>Misil (Termobarico)</Bullet_MissileIndirect_Thermobaric.label>
+	
+	<!-- EN: Missile (HE) -->
+	<Bullet_MissileIndirect_HE.label>Misil (HE)</Bullet_MissileIndirect_HE.label>
+	
+	<!-- EN: Missile (HE Time-Fuzed) -->
+	<Bullet_MissileIndirect_HE_TFuzed.label>Misil (HE con espoleta temporal)</Bullet_MissileIndirect_HE_TFuzed.label>
+	
+	<!-- EN: Missile (HEDP) -->
+	<Bullet_MissileIndirect_HEDP.label>Misil (HEDP)</Bullet_MissileIndirect_HEDP.label>
+	
+	<!-- EN: Missile (Frag) -->
+	<Bullet_MissileIndirect_Frag.label>Misil (Fragmentacion)</Bullet_MissileIndirect_Frag.label>
+	
+	<!-- EN: Flechette -->
+	<Bullet_MissileIndirect_CAN.label>Dardo</Bullet_MissileIndirect_CAN.label>
+	
+	<!-- EN: Missile (Incendiary) -->
+	<Bullet_MissileIndirect_Incendiary.label>Misil (Incendiario)</Bullet_MissileIndirect_Incendiary.label>
+	
+	<!-- EN: Missile (EMP) -->
+	<Bullet_MissileIndirect_EMP.label>Misil (EMP)</Bullet_MissileIndirect_EMP.label>
+	
+	<!-- EN: Missile (Smoke) -->
+	<Bullet_MissileIndirect_Smoke.label>Misil (Humo)</Bullet_MissileIndirect_Smoke.label>
+</LanguageData>

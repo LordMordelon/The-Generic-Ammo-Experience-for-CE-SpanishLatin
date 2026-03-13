@@ -1,0 +1,73 @@
+<LanguageData>
+	<!-- 1.6\Defs\AmmoDefs\Ammo_Missile.xml -->
+	
+	<!-- EN: make missile (HEAT) cartridges x5 -->
+	<MakeAmmo_Missile_HEAT.label>fabricar cartuchos de misil (HEAT) x5</MakeAmmo_Missile_HEAT.label>
+	<!-- EN: Craft 5 missiles (HEAT) -->
+	<MakeAmmo_Missile_HEAT.description>Fabrica 5 misiles (HEAT).</MakeAmmo_Missile_HEAT.description>
+	<!-- EN: Making (HEAT) missile. -->
+	<MakeAmmo_Missile_HEAT.jobString>Fabricando misil (HEAT).</MakeAmmo_Missile_HEAT.jobString>
+	
+	<!-- EN: make missile (Thermobaric) cartridges x5 -->
+	<MakeAmmo_Missile_Thermobaric.label>fabricar cartuchos de misil (Termobarico) x5</MakeAmmo_Missile_Thermobaric.label>
+	<!-- EN: Craft 5 missiles (Thermobaric) -->
+	<MakeAmmo_Missile_Thermobaric.description>Fabrica 5 misiles (Termobarico).</MakeAmmo_Missile_Thermobaric.description>
+	<!-- EN: Making (Thermobaric) missile. -->
+	<MakeAmmo_Missile_Thermobaric.jobString>Fabricando misil (Termobarico).</MakeAmmo_Missile_Thermobaric.jobString>
+	
+	<!-- EN: make missile (HE) x5 -->
+	<MakeAmmo_Missile_HE.label>fabricar misil (HE) x5</MakeAmmo_Missile_HE.label>
+	<!-- EN: Craft 5 missiles (HE) -->
+	<MakeAmmo_Missile_HE.description>Fabrica 5 misiles (HE).</MakeAmmo_Missile_HE.description>
+	<!-- EN: Making (HE) cartridges. -->
+	<MakeAmmo_Missile_HE.jobString>Fabricando cartuchos (HE).</MakeAmmo_Missile_HE.jobString>
+	
+	<!-- EN: make missile (Time-Fuzed) x5 -->
+	<MakeAmmo_Missile_HE_TFuzed.label>fabricar misil (con espoleta temporal) x5</MakeAmmo_Missile_HE_TFuzed.label>
+	<!-- EN: Craft 5 missiles (Time-Fuzed) -->
+	<MakeAmmo_Missile_HE_TFuzed.description>Fabrica 5 misiles (con espoleta temporal).</MakeAmmo_Missile_HE_TFuzed.description>
+	<!-- EN: Making (Time-Fuzed) cartridges. -->
+	<MakeAmmo_Missile_HE_TFuzed.jobString>Fabricando cartuchos (con espoleta temporal).</MakeAmmo_Missile_HE_TFuzed.jobString>
+	
+	<!-- EN: make missile (HEDP) x5 -->
+	<MakeAmmo_Missile_HEDP.label>fabricar misil (HEDP) x5</MakeAmmo_Missile_HEDP.label>
+	<!-- EN: Craft 5 missiles (HEDP) -->
+	<MakeAmmo_Missile_HEDP.description>Fabrica 5 misiles (HEDP).</MakeAmmo_Missile_HEDP.description>
+	<!-- EN: Making (HEDP) cartridges. -->
+	<MakeAmmo_Missile_HEDP.jobString>Fabricando cartuchos (HEDP).</MakeAmmo_Missile_HEDP.jobString>
+	
+	<!-- EN: make missile (Frag) x5 -->
+	<MakeAmmo_Missile_Frag.label>fabricar misil (Fragmentacion) x5</MakeAmmo_Missile_Frag.label>
+	<!-- EN: Craft 5 missiles (Frag) -->
+	<MakeAmmo_Missile_Frag.description>Fabrica 5 misiles (Fragmentacion).</MakeAmmo_Missile_Frag.description>
+	<!-- EN: Making (Frag) cartridges. -->
+	<MakeAmmo_Missile_Frag.jobString>Fabricando cartuchos (Fragmentacion).</MakeAmmo_Missile_Frag.jobString>
+	
+	<!-- EN: make missile (CAN) x5 -->
+	<MakeAmmo_Missile_CAN.label>fabricar misil (CAN) x5</MakeAmmo_Missile_CAN.label>
+	<!-- EN: Craft 5 missiles (CAN) -->
+	<MakeAmmo_Missile_CAN.description>Fabrica 5 misiles (CAN).</MakeAmmo_Missile_CAN.description>
+	<!-- EN: Making (CAN) cartridges. -->
+	<MakeAmmo_Missile_CAN.jobString>Fabricando cartuchos (CAN).</MakeAmmo_Missile_CAN.jobString>
+	
+	<!-- EN: make missile (Incendiary) x5 -->
+	<MakeAmmo_Missile_Incendiary.label>fabricar misil (Incendiario) x5</MakeAmmo_Missile_Incendiary.label>
+	<!-- EN: Craft 5 missiles (Incendiary) -->
+	<MakeAmmo_Missile_Incendiary.description>Fabrica 5 misiles (Incendiario).</MakeAmmo_Missile_Incendiary.description>
+	<!-- EN: Making (Incendiary) cartridges. -->
+	<MakeAmmo_Missile_Incendiary.jobString>Fabricando cartuchos (Incendiario).</MakeAmmo_Missile_Incendiary.jobString>
+	
+	<!-- EN: make missile (EMP) x5 -->
+	<MakeAmmo_Missile_EMP.label>fabricar misil (EMP) x5</MakeAmmo_Missile_EMP.label>
+	<!-- EN: Craft 5 missiles (EMP) -->
+	<MakeAmmo_Missile_EMP.description>Fabrica 5 misiles (EMP).</MakeAmmo_Missile_EMP.description>
+	<!-- EN: Making (EMP) cartridges. -->
+	<MakeAmmo_Missile_EMP.jobString>Fabricando cartuchos (EMP).</MakeAmmo_Missile_EMP.jobString>
+	
+	<!-- EN: make missile (Smoke) x5 -->
+	<MakeAmmo_Missile_Smoke.label>fabricar misil (Humo) x5</MakeAmmo_Missile_Smoke.label>
+	<!-- EN: Craft 5 missiles (Smoke) -->
+	<MakeAmmo_Missile_Smoke.description>Fabrica 5 misiles (Humo).</MakeAmmo_Missile_Smoke.description>
+	<!-- EN: Making (Smoke) cartridges. -->
+	<MakeAmmo_Missile_Smoke.jobString>Fabricando cartuchos (Humo).</MakeAmmo_Missile_Smoke.jobString>
+</LanguageData>

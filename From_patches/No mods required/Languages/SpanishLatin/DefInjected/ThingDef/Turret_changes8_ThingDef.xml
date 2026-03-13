@@ -1,0 +1,40 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Turret_changes8.xml -->
+	<!-- EN: light auto-turret -->
+	<Gun_MiniTurret.label>torreta ligera</Gun_MiniTurret.label>
+	<!-- EN: A mounted assault gun. -->
+	<Gun_MiniTurret.description>Un arma de asalto montada.</Gun_MiniTurret.description>
+	<!-- EN: ㅤ -->
+	<Gun_MiniTurret.verbs.0.label>ㅤ</Gun_MiniTurret.verbs.0.label>
+	
+	<!-- EN: light auto-turret -->
+	<Turret_MiniTurret.label>torreta ligera</Turret_MiniTurret.label>
+	<!-- EN: Automatic gun turret capable of firing intermediate rifle cartridges. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+	<Turret_MiniTurret.description>Torreta automatica capaz de disparar cartuchos de rifle intermedio. Su tonto cerebro de IA no puede controlarse directamente, asi que cuidado con el fuego amigo.</Turret_MiniTurret.description>
+	
+	<!-- EN: mounted machine gun -->
+	<Turret_KPV.label>HMG montada</Turret_KPV.label>
+	<!-- EN: A heavy machine gun mounted on a tripod. -->
+	<Turret_KPV.description>Una ametralladora pesada montada sobre un tripode.</Turret_KPV.description>
+	
+	<!-- EN: mounted heavy machine gun -->
+	<Gun_KPV.label>HMG montada</Gun_KPV.label>
+	<!-- EN: A heavy machine gun on a mounted emplacement. -->
+	<Gun_KPV.description>Una ametralladora pesada en un emplazamiento montado.</Gun_KPV.description>
+	
+	<!-- EN: mounted heavy machine gun -->
+	<MinifiedTurret_KPV.label>HMG montada</MinifiedTurret_KPV.label>
+	
+	<!-- EN: mounted grenade launcher -->
+	<Turret_AGSThirty.label>lanzagranadas montado</Turret_AGSThirty.label>
+	<!-- EN: A grenade launcher mounted on a tripod. -->
+	<Turret_AGSThirty.description>Un lanzagranadas montado sobre un tripode.</Turret_AGSThirty.description>
+	
+	<!-- EN: mounted grenade launcher -->
+	<Gun_AGSThirty.label>lanzagranadas montado</Gun_AGSThirty.label>
+	<!-- EN: A grenade launcher on a mounted emplacement. -->
+	<Gun_AGSThirty.description>Un lanzagranadas en un emplazamiento montado.</Gun_AGSThirty.description>
+	
+	<!-- EN: mounted grenade launcher -->
+	<MinifiedTurret_AGSThirty.label>lanzagranadas montado</MinifiedTurret_AGSThirty.label>
+</LanguageData>

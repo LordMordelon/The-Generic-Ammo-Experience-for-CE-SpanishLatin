@@ -1,0 +1,21 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VWEHW\Vanilla_Weapons_Expanded_Heavy62.xml -->
+	<!-- EN: handheld autocannon -->
+	<VWE_Gun_Autocannon.label>autocañón portátil</VWE_Gun_Autocannon.label>
+	<!-- EN: Swarm rocket -->
+	<Ammo_M73_HE.label>cohete Swarm</Ammo_M73_HE.label>
+	<!-- EN: Light, high explosive rocket used by the Swarm Missile Launcher. -->
+	<Ammo_M73_HE.description>Cohete ligero de alto explosivo usado por el Lanzamisiles Swarm.</Ammo_M73_HE.description>
+	<!-- EN: Swarm rocket -->
+	<Bullet_M73_HE.label>cohete Swarm</Bullet_M73_HE.label>
+	<!-- EN: A self-loading large-bore cannon. Its large-caliber shells do heavy damage over significant ranges. It's slow to aim and it cannot fire at close-up targets.\n\nBeing an extremely heavy weapon, this gun requires a power armor to be effectively used. -->
+	<VWE_Gun_Autocannon.description>Un cañón de gran calibre autocargable. Sus proyectiles de gran calibre causan daño pesado a distancias significativas. Es lento para apuntar y no puede disparar a objetivos cercanos.\n\nAl ser un arma extremadamente pesada, esta arma requiere una armadura de poder para usarse de forma efectiva.</VWE_Gun_Autocannon.description>
+	<!-- EN: Mortar launcher. Lobs bombs over walls. Very inaccurate but long-ranged. It's slow to aim and it cannot fire at close-up targets.\n\nBeing an extremely heavy weapon, this gun requires a power armor to be effectively used. -->
+	<VWE_Gun_HandheldMortar.description>Lanzador de mortero. Lanza bombas por encima de muros. Muy impreciso pero de largo alcance. Es lento para apuntar y no puede disparar a objetivos cercanos.\n\nAl ser un arma extremadamente pesada, esta arma requiere una armadura de poder para usarse de forma efectiva.</VWE_Gun_HandheldMortar.description>
+	<!-- EN: A powerful, military-grade flamer based on mechanoid inferno spewers. It can cover the entire area in front of the user in flames.\n\nBeing an extremely heavy weapon, this gun requires a power armor to be effectively used. -->
+	<VWE_Gun_HeavyFlamer.description>Un lanzallamas poderoso de grado militar basado en los escupidores inferno de los mecanoides. Puede cubrir toda el área frente al usuario en llamas.\n\nAl ser un arma extremadamente pesada, esta arma requiere una armadura de poder para usarse de forma efectiva.</VWE_Gun_HeavyFlamer.description>
+	<!-- EN: A rocket launcher that fires eight small-bore explosive missiles that track different targets.\n\nBeing an extremely heavy weapon, this gun requires a power armor to be effectively used. -->
+	<VWE_Gun_SwarmMissileLauncher.description>Un lanzacohetes que dispara ocho misiles explosivos de pequeño calibre que rastrean distintos objetivos.\n\nAl ser un arma extremadamente pesada, esta arma requiere una armadura de poder para usarse de forma efectiva.</VWE_Gun_SwarmMissileLauncher.description>
+	<!-- EN: A self-loading uranium slug cannon. Its ultra-dense uranium shells can punch through heavy armor. It"s more accurate at longer ranges, and can't fire at all close up.\n\nBeing an extremely heavy weapon, this gun requires a power armor to be effectively used. -->
+	<VWE_Gun_UraniumSlugRifle.description>Un cañón autocargable de proyectiles de uranio. Sus proyectiles de uranio ultra densos pueden perforar blindaje pesado. Es más preciso a mayor distancia y no puede disparar en absoluto de cerca.\n\nAl ser un arma extremadamente pesada, esta arma requiere una armadura de poder para usarse de forma efectiva.</VWE_Gun_UraniumSlugRifle.description>
+</LanguageData>

@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VFESecurity\Vanilla_Furniture_Expanded-Security56.xml -->
+	<!-- EN: rapid reloads -->
+	<SEX_FastReload.label>recargas rápidas</SEX_FastReload.label>
+	<!-- EN: A nearby ammo crate is allowing this person to rapidly reload their weapon. -->
+	<SEX_FastReload.description>Una caja de munición cercana le permite a esta persona recargar su arma rápidamente.</SEX_FastReload.description>
+</LanguageData>

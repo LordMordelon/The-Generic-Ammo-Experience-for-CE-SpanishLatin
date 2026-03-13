@@ -1,0 +1,13 @@
+<LanguageData>
+	<!-- 1.6\Defs\AmmoDefs\AmmoSets_Slings.xml -->
+	<!-- EN: plasteel sling bullet -->
+	<Ammo_SlingBullet_Plasteel.label>proyectil de honda de plastiacero</Ammo_SlingBullet_Plasteel.label>
+	<!-- EN: An aerodynamic stone or metal pellet. Perfect for being launched by a sling. -->
+	<Ammo_SlingBullet_Plasteel.description>Una piedra o perdigon metalico aerodinamico. Perfecto para ser lanzado por una honda.</Ammo_SlingBullet_Plasteel.description>
+	<!-- EN: sling bullet (steel) -->
+	<Projectile_SlingBullet_Plasteel.label>proyectil de honda (acero)</Projectile_SlingBullet_Plasteel.label>
+	<!-- EN: stick bomb -->
+	<SEX_Proj_GrenadeStickBomb.label>bomba de palo</SEX_Proj_GrenadeStickBomb.label>
+	<!-- EN: molotov cocktail -->
+	<SEX_Proj_GrenadeMolotov.label>coctel molotov</SEX_Proj_GrenadeMolotov.label>
+</LanguageData>

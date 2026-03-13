@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Highfleet_Turrets18.xml -->
+	<!-- EN: superheavy cannon shell -->
+	<AmmoSet_HFT_SuperheavyShell.label>proyectil de cañón superpesado</AmmoSet_HFT_SuperheavyShell.label>
+	
+	<!-- EN: superheavy rocket -->
+	<AmmoSet_HFT_SuperheavyRocket.label>cohete superpesado</AmmoSet_HFT_SuperheavyRocket.label>
+	
+	<!-- EN: flares -->
+	<AmmoSet_75mmFlare.label>bengalas</AmmoSet_75mmFlare.label>
+</LanguageData>

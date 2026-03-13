@@ -1,0 +1,10 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Impact_Weaponry20.xml -->
+	
+	<!-- EN: make impact shell x200 -->
+	<MakeAmmo_GenericImpactShells.label>fabricar proyectil de impacto x200</MakeAmmo_GenericImpactShells.label>
+	<!-- EN: Craft 200 impact shells. -->
+	<MakeAmmo_GenericImpactShells.description>Fabrica 200 proyectiles de impacto.</MakeAmmo_GenericImpactShells.description>
+	<!-- EN: Making impact shells. -->
+	<MakeAmmo_GenericImpactShells.jobString>Fabricando proyectiles de impacto.</MakeAmmo_GenericImpactShells.jobString>
+</LanguageData>

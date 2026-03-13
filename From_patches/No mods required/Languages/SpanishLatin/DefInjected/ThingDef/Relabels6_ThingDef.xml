@@ -1,0 +1,93 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Relabels6.xml -->
+	<!-- EN: mechanoid charge pack -->
+	<Ammo_LaserChargePack_Mech.label>paquete de carga mecanoide</Ammo_LaserChargePack_Mech.label>
+	<!-- EN: charged heavy cartridge (Ion) -->
+	<Ammo_HeavyCharged_Ion.label>cartucho pesado cargado (Ion)</Ammo_HeavyCharged_Ion.label>
+	<!-- EN: charged heavy cartridge (Conc.) -->
+	<Ammo_HeavyCharged_AP.label>cartucho pesado cargado (Conc.)</Ammo_HeavyCharged_AP.label>
+	<!-- EN: charged heavy cartridge -->
+	<Ammo_HeavyCharged.label>cartucho pesado cargado</Ammo_HeavyCharged.label>
+	<!-- EN: flame-tipped arrow -->
+	<Ammo_Arrow_Flame.label>flecha incendiaria</Ammo_Arrow_Flame.label>
+	<!-- EN: wooden arrow -->
+	<Ammo_Arrow_Stone.label>flecha de madera</Ammo_Arrow_Stone.label>
+	<!-- EN: wooden arrow -->
+	<Projectile_Arrow_Stone.label>flecha de madera</Projectile_Arrow_Stone.label>
+	<!-- EN: steel arrow -->
+	<Ammo_Arrow_Steel.label>flecha de acero</Ammo_Arrow_Steel.label>
+	<!-- EN: plasteel arrow -->
+	<Ammo_Arrow_Plasteel.label>flecha de plastiacero</Ammo_Arrow_Plasteel.label>
+	<!-- EN: venom-tipped arrow -->
+	<Ammo_Arrow_Venom.label>flecha venenosa</Ammo_Arrow_Venom.label>
+	<!-- EN: flame arrow -->
+	<Ammo_Arrow_Flame.label>flecha incendiaria</Ammo_Arrow_Flame.label>
+	<!-- EN: night vision goggles -->
+	<CE_Apparel_AdvancedNightVision.label>gafas de vision nocturna</CE_Apparel_AdvancedNightVision.label>
+	<!-- EN: A set of advanced night vision goggles. Gives the wearer a detailed, panoramic vision of their environment even under pitch black conditions. -->
+	<CE_Apparel_AdvancedNightVision.description>Un conjunto de gafas de vision nocturna avanzadas. Da al portador una vision detallada y panoramica de su entorno incluso en oscuridad total.</CE_Apparel_AdvancedNightVision.description>
+	<!-- EN: A simple, monocular night vision device. Gives the wearer a noisy, limited vision of their environment. -->
+	<CE_Apparel_SimpleNightVision.description>Un dispositivo de vision nocturna monocular simple. Da al portador una vision limitada y con interferencias de su entorno.</CE_Apparel_SimpleNightVision.description>
+	<!-- EN: tactical vest -->
+	<CE_Apparel_TacVest.label>chaleco tactico</CE_Apparel_TacVest.label>
+	<!-- EN: A loadbearing vest with a number of pouches to store equipment.\n\nSpeeds up reloading and allows the wearer to carry more bulky items. -->
+	<CE_Apparel_TacVest.description>Un chaleco portaequipo con varios bolsillos para guardar material.\n\nAcelera la recarga y permite al portador llevar mas objetos voluminosos.</CE_Apparel_TacVest.description>
+	<!-- EN: flak cannon -->
+	<Turret_Flak.label>cañon antiaéreo</Turret_Flak.label>
+	<!-- EN: flak cannon -->
+	<MinifiedTurret_Flak.label>cañon antiaéreo</MinifiedTurret_Flak.label>
+	<!-- EN: A flak cannon on a stationary emplacement. -->
+	<Gun_FlakTurret.description>Un cañon antiaéreo en un emplazamiento fijo.</Gun_FlakTurret.description>
+	<!-- EN: disposable rocket launcher -->
+	<CE_DisposableRocketLauncher.label>lanzacohetes desechable</CE_DisposableRocketLauncher.label>
+	<!-- EN: High explosive artillery shell -->
+	<Ammo_155mmHowitzerShell_HE.label>proyectil de artilleria de alto explosivo</Ammo_155mmHowitzerShell_HE.label>
+	<!-- EN: Airburst artillery shell -->
+	<Ammo_155mmHowitzerShell_HE_HFuzed.label>proyectil de artilleria de rafaga aérea</Ammo_155mmHowitzerShell_HE_HFuzed.label>
+	<!-- EN: Incendiary artillery shell -->
+	<Ammo_155mmHowitzerShell_Incendiary.label>proyectil de artilleria incendiario</Ammo_155mmHowitzerShell_Incendiary.label>
+	<!-- EN: EMP artillery shell -->
+	<Ammo_155mmHowitzerShell_EMP.label>proyectil de artilleria EMP</Ammo_155mmHowitzerShell_EMP.label>
+	<!-- EN: Smoke artillery shell -->
+	<Ammo_155mmHowitzerShell_Smoke.label>proyectil de artilleria de humo</Ammo_155mmHowitzerShell_Smoke.label>
+	<!-- EN: high explosive artillery shell -->
+	<Bullet_155mmHowitzerShell_HE.label>proyectil de artilleria de alto explosivo</Bullet_155mmHowitzerShell_HE.label>
+	<!-- EN: High explosive artillery shell -->
+	<Bullet_155mmHowitzerShell_HE.label>proyectil de artilleria de alto explosivo</Bullet_155mmHowitzerShell_HE.label>
+	<!-- EN: Airburst artillery shell -->
+	<Bullet_155mmHowitzerShell_HE_HFuzed.label>proyectil de artilleria de rafaga aérea</Bullet_155mmHowitzerShell_HE_HFuzed.label>
+	<!-- EN: Incendiary artillery shell -->
+	<Bullet_155mmHowitzerShell_Incendiary.label>proyectil de artilleria incendiario</Bullet_155mmHowitzerShell_Incendiary.label>
+	<!-- EN: EMP artillery shell -->
+	<Bullet_155mmHowitzerShell_EMP.label>proyectil de artilleria EMP</Bullet_155mmHowitzerShell_EMP.label>
+	<!-- EN: smoke artillery shell -->
+	<Bullet_155mmHowitzerShell_Smoke.label>proyectil de artilleria de humo</Bullet_155mmHowitzerShell_Smoke.label>
+	<!-- EN: high explosive artillery shell -->
+	<Bullet_155mmHowitzerShell_HE_directfire.label>proyectil de artilleria de alto explosivo</Bullet_155mmHowitzerShell_HE_directfire.label>
+	<!-- EN: High explosive artillery shell -->
+	<Bullet_155mmHowitzerShell_HE_directfire.label>proyectil de artilleria de alto explosivo</Bullet_155mmHowitzerShell_HE_directfire.label>
+	<!-- EN: Incendiary artillery shell -->
+	<Bullet_155mmHowitzerShell_Incendiary_directfire.label>proyectil de artilleria incendiario</Bullet_155mmHowitzerShell_Incendiary_directfire.label>
+	<!-- EN: EMP artillery shell -->
+	<Bullet_155mmHowitzerShell_EMP_directfire.label>proyectil de artilleria EMP</Bullet_155mmHowitzerShell_EMP_directfire.label>
+	<!-- EN: Smoke artillery shell -->
+	<Bullet_155mmHowitzerShell_Smoke_directfire.label>proyectil de artilleria de humo</Bullet_155mmHowitzerShell_Smoke_directfire.label>
+	<!-- EN: stone sling bullet -->
+	<Ammo_SlingBullet_Stone.label>proyectil de honda de piedra</Ammo_SlingBullet_Stone.label>
+	<!-- EN: steel sling bullet -->
+	<Ammo_SlingBullet_Steel.label>proyectil de honda de acero</Ammo_SlingBullet_Steel.label>
+	<!-- EN: round cannon ball -->
+	<Ammo_CannonBall_Round.label>bala de cañon</Ammo_CannonBall_Round.label>
+	<!-- EN: bursting cannon ball -->
+	<Ammo_CannonBall_Bursting.label>bala explosiva de cañon</Ammo_CannonBall_Bursting.label>
+	<!-- EN: incendiary cannon ball -->
+	<Ammo_CannonBall_Incendiary.label>bala incendiaria de cañon</Ammo_CannonBall_Incendiary.label>
+	<!-- EN: grapeshot cannon ball -->
+	<Ammo_CannonBall_Grape.label>bala de metralla de cañon</Ammo_CannonBall_Grape.label>
+	<!-- EN: grenade cannon -->
+	<CE_GrenadeLauncher.label>lanzagranadas simple</CE_GrenadeLauncher.label>
+	<!-- EN: A simple break-action grenade cannon, capable of firing a variety of different projectiles. -->
+	<CE_GrenadeLauncher.description>Un simple cañon lanzagranadas de quiebre, capaz de disparar una variedad de proyectiles diferentes.</CE_GrenadeLauncher.description>
+	<!-- EN: Mech charged cartridge -->
+	<Ammo_Mech_Charged.label>cartucho cargado de meca</Ammo_Mech_Charged.label>
+</LanguageData>

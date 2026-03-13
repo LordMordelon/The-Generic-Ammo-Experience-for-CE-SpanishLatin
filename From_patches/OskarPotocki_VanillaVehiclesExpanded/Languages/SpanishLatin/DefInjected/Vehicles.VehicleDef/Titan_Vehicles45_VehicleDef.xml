@@ -1,0 +1,12 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\OskarPotocki_VanillaVehiclesExpanded\Titan_Vehicles45.xml -->
+	
+	<!-- EN: A superheavy main battle tank. Two autocannons and a smoke projector compliment the heavy main battery of this ultimate war machine.\n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Driver x1, Gunner x1, Machine gunner x2\n&lt;color=#bb8f04&gt;Fuel type:&lt;/color&gt; Chemfuel -->
+	<JASV_Warchief.description>Un tanque de batalla principal superpesado. Dos autocañones y un proyector de humo complementan la batería principal pesada de esta máquina de guerra definitiva.\n\n&lt;color=#bb8f04&gt;Tripulación:&lt;/color&gt; Conductor x1, Artillero x1, Ametrallador x2\n&lt;color=#bb8f04&gt;Tipo de combustible:&lt;/color&gt; Chemfuel</JASV_Warchief.description>
+	<!-- EN: smokepop -->
+	<JASV_Warchief.comps.0.chargeNoun>humo</JASV_Warchief.comps.0.chargeNoun>
+	<!-- EN: pop smoke -->
+	<JASV_Warchief.comps.0.verbs.0.label>lanzar humo</JASV_Warchief.comps.0.verbs.0.label>
+	<!-- EN: A defensive smokescreen. When activated, it will release a cloud of smoke, obscuring incoming shots and preventing turrets from locking on. Has six charges and will require a chemfuel reload after they are spent. Right click to reload. -->
+	<JASV_Warchief.comps.0.commandDescriptions.0>Una cortina de humo defensiva. Cuando se activa, liberará una nube de humo, oscureciendo los disparos entrantes e impidiendo que las torretas se fijen. Tiene seis cargas y requerirá una recarga de chemfuel después de gastarse. Clic derecho para recargar.</JASV_Warchief.comps.0.commandDescriptions.0>
+</LanguageData>

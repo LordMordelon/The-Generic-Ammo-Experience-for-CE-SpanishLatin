@@ -1,0 +1,27 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VWE\Vanilla_Weapons_Expanded43.xml -->
+	<!-- EN: ㅤ -->
+	<VWE_Gun_SMG.verbs.0.label>ㅤ</VWE_Gun_SMG.verbs.0.label>
+	
+	<!-- EN: ㅤ -->
+	<VWE_Gun_LightSMG.verbs.0.label>ㅤ</VWE_Gun_LightSMG.verbs.0.label>
+	
+	<!-- EN: A heavy shotgun that packs a bigger punch than its regular pump-action counterparts. -->
+	<VWE_TrenchGun.description>Una escopeta pesada que pega más fuerte que sus equivalentes regulares de corredera.</VWE_TrenchGun.description>
+	
+	<!-- EN: carbine -->
+	<VWE_Gun_SMG.label>carabina</VWE_Gun_SMG.label>
+	<!-- EN: A compact carbine design, featuring a short-stroke gas piston system to improve reliability and reduce recoil. -->
+	<VWE_Gun_SMG.description>Un diseño compacto de carabina, con un sistema de pistón de gas de carrera corta para mejorar la fiabilidad y reducir el retroceso.</VWE_Gun_SMG.description>
+	
+	<!-- EN: SMG -->
+	<VWE_Gun_LightSMG.label>SMG</VWE_Gun_LightSMG.label>
+	<!-- EN: A compact submachine gun. Whilst it doesn't have long range of fire, it deals significant damage in close range. -->
+	<VWE_Gun_LightSMG.description>Una submetralleta compacta. Aunque no tiene gran alcance de fuego, causa daño significativo a corta distancia.</VWE_Gun_LightSMG.description>
+	
+	<!-- EN: A designated marksman rifle capable of firing rifle caliber rounds at extended ranges. -->
+	<VWE_Gun_MarksmanRifle.description>Un fusil de tirador designado capaz de disparar munición de calibre de rifle a distancias extendidas.</VWE_Gun_MarksmanRifle.description>
+	
+	<!-- EN: heavy machine gun -->
+	<VWE_Gun_HMG.label>HMG</VWE_Gun_HMG.label>
+</LanguageData>

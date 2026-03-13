@@ -1,0 +1,13 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VWENL\Vanilla_Weapons_Expanded-Non-Lethal30.xml -->
+	<!-- EN: Make tear gas canister x100 -->
+	<MakeAmmo_40x46mmGrenade_CN.label>Fabricar bote de gas lacrimógeno x100</MakeAmmo_40x46mmGrenade_CN.label>
+	<!-- EN: Making tear gas canister x100. -->
+	<MakeAmmo_40x46mmGrenade_CN.jobString>Fabricando bote de gas lacrimógeno x100.</MakeAmmo_40x46mmGrenade_CN.jobString>
+	<!-- EN: Make rubber bullet x200 -->
+	<MakeAmmo_43cal_NL.label>Fabricar bala de goma x200</MakeAmmo_43cal_NL.label>
+	<!-- EN: Craft 200 rubber bullet cartridges. -->
+	<MakeAmmo_43cal_NL.description>Fabrica 200 cartuchos de bala de goma.</MakeAmmo_43cal_NL.description>
+	<!-- EN: Making rubber bullet x200. -->
+	<MakeAmmo_43cal_NL.jobString>Fabricando bala de goma x200.</MakeAmmo_43cal_NL.jobString>
+</LanguageData>

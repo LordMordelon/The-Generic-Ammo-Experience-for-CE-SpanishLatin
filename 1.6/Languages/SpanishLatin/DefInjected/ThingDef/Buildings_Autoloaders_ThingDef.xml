@@ -1,0 +1,53 @@
+<LanguageData>
+	<!-- 1.6\Defs\ThingDefs_Buildings\Buildings_Autoloaders.xml -->
+	
+	<!-- EN: rifle autoloader -->
+	<SEX_Autoloader_FullPowerRifle.label>autocargador de rifle</SEX_Autoloader_FullPowerRifle.label>
+	<!-- EN: A compact autoloader with a mounted ammo feeder. Can be placed alongisde turrets and mounted guns firing full power rifle cartridges to automatically reload them. May explode when damaged. -->
+	<SEX_Autoloader_FullPowerRifle.description>Un autocargador compacto con un alimentador de municion montado. Puede colocarse junto a torretas y armas montadas que disparen cartuchos de rifle de potencia completa para recargarlas automaticamente. Puede explotar si se dana.</SEX_Autoloader_FullPowerRifle.description>
+	
+	<!-- EN: intermediate rifle autoloader -->
+	<SEX_Autoloader_IntermediateRifle.label>autocargador de rifle intermedio</SEX_Autoloader_IntermediateRifle.label>
+	<!-- EN: A compact autoloader with a mounted ammo feeder. Can be placed alongisde turrets and mounted guns firing intermediate rifle cartridges to automatically reload them. May explode when damaged. -->
+	<SEX_Autoloader_IntermediateRifle.description>Un autocargador compacto con un alimentador de municion montado. Puede colocarse junto a torretas y armas montadas que disparen cartuchos de rifle intermedio para recargarlas automaticamente. Puede explotar si se dana.</SEX_Autoloader_IntermediateRifle.description>
+	
+	<!-- EN: shotgun autoloader -->
+	<SEX_Autoloader_Shotgun.label>autocargador de escopeta</SEX_Autoloader_Shotgun.label>
+	<!-- EN: A compact autoloader with a mounted ammo feeder. Can be placed alongisde turrets and mounted guns firing shotgun shells to automatically reload them. May explode when damaged. -->
+	<SEX_Autoloader_Shotgun.description>Un autocargador compacto con un alimentador de municion montado. Puede colocarse junto a torretas y armas montadas que disparen cartuchos de escopeta para recargarlas automaticamente. Puede explotar si se dana.</SEX_Autoloader_Shotgun.description>
+	
+	<!-- EN: pistol autoloader -->
+	<SEX_Autoloader_Pistol.label>autocargador de pistola</SEX_Autoloader_Pistol.label>
+	<!-- EN: A compact autoloader with a mounted ammo feeder. Can be placed alongisde turrets and mounted guns firing pistol cartridges to automatically reload them. May explode when damaged. -->
+	<SEX_Autoloader_Pistol.description>Un autocargador compacto con un alimentador de municion montado. Puede colocarse junto a torretas y armas montadas que disparen cartuchos de pistola para recargarlas automaticamente. Puede explotar si se dana.</SEX_Autoloader_Pistol.description>
+	
+	<!-- EN: Autocannon autoloader -->
+	<SEX_Autoloader_Autocannon.label>autocargador de autocañon</SEX_Autoloader_Autocannon.label>
+	<!-- EN: A compact autoloader with a mounted ammo feeder. Can be placed alongisde turrets and mounted guns firing autocannon shells to automatically reload them. May explode when damaged. -->
+	<SEX_Autoloader_Autocannon.description>Un autocargador compacto con un alimentador de municion montado. Puede colocarse junto a torretas y armas montadas que disparen proyectiles de autocañon para recargarlas automaticamente. Puede explotar si se dana.</SEX_Autoloader_Autocannon.description>
+	
+	<!-- EN: Launcher grenade autoloader -->
+	<SEX_Autoloader_LauncherGrenade.label>autocargador de granadas de lanzagranadas</SEX_Autoloader_LauncherGrenade.label>
+	<!-- EN: A compact autoloader with a mounted ammo feeder. Can be placed alongisde turrets and mounted guns firing launcher grenades to automatically reload them. May explode when damaged. -->
+	<SEX_Autoloader_LauncherGrenade.description>Un autocargador compacto con un alimentador de municion montado. Puede colocarse junto a torretas y armas montadas que disparen granadas de lanzagranadas para recargarlas automaticamente. Puede explotar si se dana.</SEX_Autoloader_LauncherGrenade.description>
+	
+	<!-- EN: anti-materiel autoloader -->
+	<SEX_Autoloader_AntiMateriel.label>autocargador antimaterial</SEX_Autoloader_AntiMateriel.label>
+	<!-- EN: A compact autoloader with a mounted ammo feeder. Can be placed alongisde turrets and mounted guns firing anti-materiel cartridges to automatically reload them. May explode when damaged. -->
+	<SEX_Autoloader_AntiMateriel.description>Un autocargador compacto con un alimentador de municion montado. Puede colocarse junto a torretas y armas montadas que disparen cartuchos antimaterial para recargarlas automaticamente. Puede explotar si se dana.</SEX_Autoloader_AntiMateriel.description>
+	
+	<!-- EN: rocket grenade autoloader -->
+	<SEX_Autoloader_RocketGrenade.label>autocargador de granada cohete</SEX_Autoloader_RocketGrenade.label>
+	<!-- EN: A compact autoloader with a mounted ammo feeder. Can be placed alongisde turrets and mounted guns firing rocket grenades to automatically reload them. May explode when damaged. -->
+	<SEX_Autoloader_RocketGrenade.description>Un autocargador compacto con un alimentador de municion montado. Puede colocarse junto a torretas y armas montadas que disparen granadas cohete para recargarlas automaticamente. Puede explotar si se dana.</SEX_Autoloader_RocketGrenade.description>
+	
+	<!-- EN: missile autoloader -->
+	<SEX_Autoloader_Missile.label>autocargador de misiles</SEX_Autoloader_Missile.label>
+	<!-- EN: A compact autoloader with a mounted ammo feeder. Can be placed alongisde turrets and mounted guns firing missiles to automatically reload them. May explode when damaged. -->
+	<SEX_Autoloader_Missile.description>Un autocargador compacto con un alimentador de municion montado. Puede colocarse junto a torretas y armas montadas que disparen misiles para recargarlas automaticamente. Puede explotar si se dana.</SEX_Autoloader_Missile.description>
+	
+	<!-- EN: flamethrower autoloader -->
+	<SEX_Autoloader_Flamethrower.label>autocargador de lanzallamas</SEX_Autoloader_Flamethrower.label>
+	<!-- EN: A compact autoloader with a mounted ammo feeder. Can be placed alongisde turrets and mounted guns firing jellied flamethrower fuel to automatically reload them. May explode when damaged. -->
+	<SEX_Autoloader_Flamethrower.description>Un autocargador compacto con un alimentador de municion montado. Puede colocarse junto a torretas y armas montadas que disparen combustible gelatinizado de lanzallamas para recargarlas automaticamente. Puede explotar si se dana.</SEX_Autoloader_Flamethrower.description>
+</LanguageData>

@@ -1,0 +1,27 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VWEL\Vanilla_Weapons_Expanded-Laser59.xml -->
+	<!-- EN: An ultratech pistol capable of emitting a concentrated beam of light with enough power to deal considerable damage at short range. -->
+	<VWEL_Gun_LaserPistol.description>Una pistola ultratech capaz de emitir un haz de luz concentrado con suficiente potencia para causar daño considerable a corta distancia.</VWEL_Gun_LaserPistol.description>
+	<!-- EN: An ultratech submachine gun capable of emitting a concentrated beam of light with enough power to deal considerable damage at short to medium ranges. -->
+	<VWEL_Gun_LaserSMG.description>Una submetralleta ultratech capaz de emitir un haz de luz concentrado con suficiente potencia para causar daño considerable a corta y media distancia.</VWEL_Gun_LaserSMG.description>
+	<!-- EN: An ultratech rifle capable of emitting a concentrated beam of light with enough power to deal considerable damage. -->
+	<VWEL_Gun_LaserRifle.description>Un rifle ultratech capaz de emitir un haz de luz concentrado con suficiente potencia para causar daño considerable.</VWEL_Gun_LaserRifle.description>
+	<!-- EN: An ultratech scattergun capable of emitting several beams of light, with each scattered beam dealing considerable damage at short range. -->
+	<VWEL_Gun_LaserShotgun.description>Una escopeta de dispersión ultratech capaz de emitir varios haces de luz, donde cada haz disperso causa daño considerable a corta distancia.</VWEL_Gun_LaserShotgun.description>
+	<!-- EN: A salvaged scattergun capable of emitting several beams of light, with each scattered beam dealing considerable damage at short range. -->
+	<VWEL_Gun_SalvagedLaserShotgun.description>Una escopeta de dispersión recuperada capaz de emitir varios haces de luz, donde cada haz disperso causa daño considerable a corta distancia.</VWEL_Gun_SalvagedLaserShotgun.description>
+	<!-- EN: An ultratech sniper rifle capable of emitting a concentrated beam of light with enough power to deal considerable damage at long ranges. -->
+	<VWEL_Gun_LaserSniperRifle.description>Un rifle de francotirador ultratech capaz de emitir un haz de luz concentrado con suficiente potencia para causar daño considerable a larga distancia.</VWEL_Gun_LaserSniperRifle.description>
+	<!-- EN: An ultratech multi-scatterer device capable of emitting a concentrated beam of light with enough power to deal considerable damage with a long, continuous firing mode. -->
+	<VWEL_Gun_LaserMinigun.description>Un dispositivo multidispersor ultratech capaz de emitir un haz de luz concentrado con suficiente potencia para causar daño considerable con un modo de fuego continuo y prolongado.</VWEL_Gun_LaserMinigun.description>
+	<!-- EN: An ultratech arc lightning device capable of emitting a lightning bolt that disable electronic systems and sets enemies on fire.\n\nWeapons like these are widely used by ultratech marines during mechanoid wars. -->
+	<VWEL_Gun_TeslaGun.description>Un dispositivo ultratech de arco eléctrico capaz de emitir un rayo que desactiva sistemas electrónicos y prende fuego a los enemigos.\n\nArmas como estas son ampliamente usadas por marines ultratech durante las guerras contra mecanoides.</VWEL_Gun_TeslaGun.description>
+	<!-- EN: A salvaged pistol capable of emitting an unstable beam of light with enough power to deal moderate damage at short range. -->
+	<VWEL_Gun_SalvagedLaserPistol.description>Una pistola recuperada capaz de emitir un haz de luz inestable con suficiente potencia para causar daño moderado a corta distancia.</VWEL_Gun_SalvagedLaserPistol.description>
+	<!-- EN: A salvaged rifle capable of emitting an unstable beam of light with enough power to deal moderate damage. -->
+	<VWEL_Gun_SalvagedLaserRifle.description>Un rifle recuperado capaz de emitir un haz de luz inestable con suficiente potencia para causar daño moderado.</VWEL_Gun_SalvagedLaserRifle.description>
+	<!-- EN: A salvaged scattergun capable of emitting several beams of light, with each scattered beam dealing moderate damage at short range. -->
+	<VWEL_Gun_SalvagedLaserRifle.description>Una escopeta de dispersión recuperada capaz de emitir varios haces de luz, donde cada haz disperso causa daño moderado a corta distancia.</VWEL_Gun_SalvagedLaserRifle.description>
+	<!-- EN: A salvaged sniper rifle capable of emitting a concentrated beam of light with enough power to deal moderate damage at long ranges. -->
+	<VWEL_Gun_SalvagedLaserSniperRifle.description>Un rifle de francotirador recuperado capaz de emitir un haz de luz concentrado con suficiente potencia para causar daño moderado a larga distancia.</VWEL_Gun_SalvagedLaserSniperRifle.description>
+</LanguageData>

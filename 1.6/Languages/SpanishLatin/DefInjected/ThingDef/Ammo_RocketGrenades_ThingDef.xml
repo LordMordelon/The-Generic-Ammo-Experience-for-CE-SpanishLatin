@@ -1,0 +1,35 @@
+<LanguageData>
+	<!-- 1.6\Defs\AmmoDefs\Ammo_RocketGrenades.xml -->
+	<!-- EN: Rocket-propelled grenade. After being fired, a rocket motor kicks in to propel the grenade further. -->
+	<Ammo_RocketGrenade_HEAT.description>Granada propulsada por cohete. Despues de ser disparada, un motor cohete se activa para impulsar la granada mas lejos.</Ammo_RocketGrenade_HEAT.description>
+	<!-- EN: Rocket grenade (HEAT) -->
+	<Ammo_RocketGrenade_HEAT.label>Granada cohete (HEAT)</Ammo_RocketGrenade_HEAT.label>
+	<!-- EN: Rocket-propelled grenade. After being fired, a rocket motor kicks in to propel the grenade further. -->
+	<Ammo_RocketGrenade_Thermobaric.description>Granada propulsada por cohete. Despues de ser disparada, un motor cohete se activa para impulsar la granada mas lejos.</Ammo_RocketGrenade_Thermobaric.description>
+	<!-- EN: Rocket grenade (Thermobaric) -->
+	<Ammo_RocketGrenade_Thermobaric.label>Granada cohete (Termobarica)</Ammo_RocketGrenade_Thermobaric.label>
+	<!-- EN: Rocket-propelled grenade. After being fired, a rocket motor kicks in to propel the grenade further. -->
+	<Ammo_RocketGrenade_Frag.description>Granada propulsada por cohete. Despues de ser disparada, un motor cohete se activa para impulsar la granada mas lejos.</Ammo_RocketGrenade_Frag.description>
+	<!-- EN: Rocket grenade (Frag) -->
+	<Ammo_RocketGrenade_Frag.label>Granada cohete (Fragmentacion)</Ammo_RocketGrenade_Frag.label>
+	<!-- EN: Rocket-propelled grenade. After being fired, a rocket motor kicks in to propel the grenade further. -->
+	<Ammo_RocketGrenade_EMP.description>Granada propulsada por cohete. Despues de ser disparada, un motor cohete se activa para impulsar la granada mas lejos.</Ammo_RocketGrenade_EMP.description>
+	<!-- EN: Rocket grenade (EMP) -->
+	<Ammo_RocketGrenade_EMP.label>Granada cohete (EMP)</Ammo_RocketGrenade_EMP.label>
+	<!-- EN: Rocket grenade (HEAT) -->
+	<Bullet_RocketGrenade_HEAT.label>Granada cohete (HEAT)</Bullet_RocketGrenade_HEAT.label>
+	<!-- EN: Rocket grenade (Thermobaric) -->
+	<Bullet_RocketGrenade_Thermobaric.label>Granada cohete (Termobarica)</Bullet_RocketGrenade_Thermobaric.label>
+	<!-- EN: Rocket grenade (Frag) -->
+	<Bullet_RocketGrenade_Frag.label>Granada cohete (Fragmentacion)</Bullet_RocketGrenade_Frag.label>
+	<!-- EN: Rocket grenade (EMP) -->
+	<Bullet_RocketGrenade_EMP.label>Granada cohete (EMP)</Bullet_RocketGrenade_EMP.label>
+	<!-- EN: Rocket grenade (HEAT) -->
+	<Bullet_RocketGrenadeIndirect_HEAT.label>Granada cohete (HEAT)</Bullet_RocketGrenadeIndirect_HEAT.label>
+	<!-- EN: Rocket grenade (Thermobaric) -->
+	<Bullet_RocketGrenadeIndirect_Thermobaric.label>Granada cohete (Termobarica)</Bullet_RocketGrenadeIndirect_Thermobaric.label>
+	<!-- EN: Rocket grenade (Frag) -->
+	<Bullet_RocketGrenadeIndirect_Frag.label>Granada cohete (Fragmentacion)</Bullet_RocketGrenadeIndirect_Frag.label>
+	<!-- EN: Rocket grenade (EMP) -->
+	<Bullet_RocketGrenadeIndirect_EMP.label>Granada cohete (EMP)</Bullet_RocketGrenadeIndirect_EMP.label>
+</LanguageData>

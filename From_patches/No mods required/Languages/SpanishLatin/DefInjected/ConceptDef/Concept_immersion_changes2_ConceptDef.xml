@@ -1,0 +1,71 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Concept_immersion_changes2.xml -->
+	<!-- EN: Reusable projectiles -->
+	<CE_ReusableNeolithicProjectiles.label>Proyectiles reutilizables</CE_ReusableNeolithicProjectiles.label>
+	<!-- EN: Reloading guns -->
+	<CE_Reload.label>Recargar armas</CE_Reload.label>
+	<!-- EN: Weapons without magazines -->
+	<CE_ReloadNoMag.label>Armas sin cargadores</CE_ReloadNoMag.label>
+	<!-- EN: Reloading auto-turrets -->
+	<CE_ReloadAuto.label>Recargar torretas automáticas</CE_ReloadAuto.label>
+	<!-- EN: Reloading manned turrets -->
+	<CE_ReloadManned.label>Recargar torretas tripuladas</CE_ReloadManned.label>
+	<!-- EN: Weapon fire modes -->
+	<CE_FireModes.label>Modos de disparo de armas</CE_FireModes.label>
+	<!-- EN: Weapon aim modes -->
+	<CE_AimModes.label>Modos de puntería de armas</CE_AimModes.label>
+	<!-- EN: Artillery spotting -->
+	<CE_Spotting.label>Observación de artillería</CE_Spotting.label>
+	<!-- EN: Artillery direct fire -->
+	<CE_MortarDirectFire.label>Fuego directo de artillería</CE_MortarDirectFire.label>
+	<!-- EN: Weapons -->
+	<CE_AimingSystem.label>Armas</CE_AimingSystem.label>
+	<!-- EN: Guns, bows, and any other ranges weapons use a physics-based projectile system. Projectiles follow a ballistic flight path and use hitboxes for collision detection. Several factors determine how close a bullet will fly near it's target:\n\n-Visibility: Darkness, bad weather and smoke make it harder to see the target.\n-Movement: shooter has to lead a moving target. Lead error means the shooter might aim too far forward or back in the direction of movement.\n-Range: shooter needs to correctly estimate how far away the target is. Range error means the shooter will aim as if target was x cells closer/further than it actually is.\n-Sway: Weapons will sway in the hands of the shooter. Reduced by aimed shot mode (reduction depends on skill and sights efficiency).\n-Recoil: Shots within a burst gradually become less accurate\n-Weapon spread: Bullets randomly deviate in a cone (e.g. shotgun pellets).\n-Cover height: Cover obscures parts of the target"s hitbox. Can block line of sight for smaller targets (e.g. squirrels behind sandbags).\n-Body size\n-Stance: Downed or hunkering pawns are harder to hit.\n\nYou can get a detailed breakdown by selecting a shooter and hovering the mouse over a target. Given measurements are the maximum deviation in cells/degrees and target/cover hitbox dimensions in cells. -->
+	<CE_AimingSystem.helpText>Las armas de fuego, arcos y cualquier otra arma de largo alcance usan un sistema de proyectiles basado en física. Los proyectiles siguen una trayectoria balística y usan hitboxes para detección de colisiones. Varios factores determinan qué tan cerca volará una bala de su objetivo:\n\n-Visibilidad: La oscuridad, mal clima y humo dificultan ver el objetivo.\n-Movimiento: el tirador debe apuntar adelante de un objetivo en movimiento. Error de adelanto significa que el tirador puede apuntar demasiado adelante o atrás en la dirección del movimiento.\n-Rango: el tirador necesita estimar correctamente qué tan lejos está el objetivo. Error de rango significa que el tirador apuntará como si el objetivo estuviera x celdas más cerca/lejos de lo que realmente está.\n-Balanceo: Las armas se balancearán en las manos del tirador. Reducido por modo de disparo apuntado (reducción depende de habilidad y eficiencia de miras).\n-Retroceso: Los disparos dentro de una ráfaga gradualmente se vuelven menos precisos\n-Dispersión del arma: Las balas se desvían aleatoriamente en un cono (ej. perdigones de escopeta).\n-Altura de cobertura: La cobertura oculta partes del hitbox del objetivo. Puede bloquear línea de visión para objetivos más pequeños (ej. ardillas detrás de sacos de arena).\n-Tamaño corporal\n-Postura: Los peones caídos o agachados son más difíciles de golpear.\n\nPuedes obtener un desglose detallado seleccionando un tirador y pasando el mouse sobre un objetivo. Las medidas dadas son la desviación máxima en celdas/grados y las dimensiones del hitbox del objetivo/cobertura en celdas.</CE_AimingSystem.helpText>
+	<!-- EN: Stabilizing injuries -->
+	<CE_Stabilizing.label>Estabilizar heridas</CE_Stabilizing.label>
+	<!-- EN: Shields -->
+	<CE_Shields.label>Escudos</CE_Shields.label>
+	<!-- EN: Armor -->
+	<CE_ArmorSystem.label>Armadura</CE_ArmorSystem.label>
+	<!-- EN: Blunt and sharp type weapons have armor penetration values which determine how much their damage is reduced by armor.\n\nAttacks that have less armor penetration than the armor value of a pawn are either deflected or fully mitigated, however armor values lower than the armor penetration will reduce damage based on the ratio of armor value to the attack"s base armor penetration (e.g: if a pawn with an armor value of 8mm sharp armor is hit by a 10mm sharp penetration projectile, the armor will block 80% of the damage).\nBlocked sharp damage is always turned into blunt damage and is checked against the blunt armor rating. The amount of blunt damage depends on the attack"s base blunt penetration, which is affected by blocked sharp damage and blocked sharp penetration.\nIn the case of a deflection, a sharp attack is converted into blunt (preventing bleeding and internal organ damage) and is checked against the blunt armor rating. The amount of blunt damage depends on the attack"s base blunt penetration and the pre-deflection remaining sharp penetration.\nA full mitigation happens when a blunt or sharp attack deals no damage because all armor penetration values are less than their armor rating. A sharp attack has to firstly be deflected to be fully mitigated.\n\nEnvironmental damage such as fire/electricity has no penetration and is simply reduced by the % of armor against that type. -->
+	<CE_ArmorSystem.helpText>Las armas de tipo contundente y cortante tienen valores de penetración de armadura que determinan cuánto se reduce su daño por la armadura.\n\nAtaques que tienen menos penetración de armadura que el valor de armadura de un peón son deflectados o completamente mitigados, sin embargo valores de armadura menores que la penetración de armadura reducirán el daño basado en la relación del valor de armadura a la penetración de armadura base del ataque (ej: si un peón con un valor de armadura de 8mm de armadura cortante es golpeado por un proyectil de penetración cortante de 10mm, la armadura bloqueará el 80% del daño).\nEl daño cortante bloqueado siempre se convierte en daño contundente y se verifica contra la clasificación de armadura contundente. La cantidad de daño contundente depende de la penetración contundente base del ataque, que se ve afectada por el daño cortante bloqueado y la penetración cortante bloqueada.\nEn el caso de una deflexión, un ataque cortante se convierte en contundente (previniendo sangrado y daño de órganos internos) y se verifica contra la clasificación de armadura contundente. La cantidad de daño contundente depende de la penetración contundente base del ataque y la penetración cortante restante previa a la deflexión.\nUna mitigación completa ocurre cuando un ataque contundente o cortante no causa daño porque todos los valores de penetración de armadura son menores que su clasificación de armadura. Un ataque cortante debe ser primero deflectado para ser completamente mitigado.\n\nEl daño ambiental como fuego/electricidad no tiene penetración y simplemente se reduce por el % de armadura contra ese tipo.</CE_ArmorSystem.helpText>
+	<!-- EN: Autloaders -->
+	<CE_AutoLoader.label>Cargadores automáticos</CE_AutoLoader.label>
+	<!-- EN: Suppression -->
+	<CE_SuppressionReaction.label>Supresión</CE_SuppressionReaction.label>
+	<!-- EN: Hunkering -->
+	<CE_Hunkering.label>Agacharse</CE_Hunkering.label>
+	<!-- EN: Bulky clothing -->
+	<CE_WornBulk.label>Ropa voluminosa</CE_WornBulk.label>
+	<!-- EN: Crouching -->
+	<CE_Crouching.label>Agacharse</CE_Crouching.label>
+	<!-- EN: Night vision -->
+	<CE_NightVision.label>Visión nocturna</CE_NightVision.label>
+	<!-- EN: Muzzle flash -->
+	<CE_MuzzleFlash.label>Destello de boca de fuego</CE_MuzzleFlash.label>
+	<!-- EN: Targetting in ranged combat -->
+	<CE_TargettedModes.label>Apuntar en combate a distancia</CE_TargettedModes.label>
+	<!-- EN: Bipods -->
+	<CE_Bipods.label>Bípodes</CE_Bipods.label>
+	<!-- EN: Targetting in melee combat -->
+	<CE_TargettedModesMelee.label>Apuntar en combate cuerpo a cuerpo</CE_TargettedModesMelee.label>
+	<!-- EN: Giving ammo -->
+	<CE_GiveAmmo.label>Dar munición</CE_GiveAmmo.label>
+	<!-- EN: Mass and bulk -->
+	<CE_InventoryWeightBulk.label>Masa y volumen</CE_InventoryWeightBulk.label>
+	<!-- EN: Loadouts -->
+	<CE_Loadouts.label>Equipamientos</CE_Loadouts.label>
+	<!-- EN: Crafting ammo -->
+	<CE_AmmoCrafting.label>Fabricar munición</CE_AmmoCrafting.label>
+	<!-- EN: Ensuring your colonists are supplied with ammo is vital to surviving on a Rimworld. Simple wooden arrows can be obtained from the crafting but perform very poorly against opponents with advanced armor and clothing.\n\nSteel and plasteel arrows offer better penetration and can be made at the smithing bench once smithing is researched.\n\nResearch gunsmithing to unlock the loading bench, where you can craft ammo for most firearms. Artillery shells and grenades are made at the machining table.\n\nWhile most conventional ammo types can be made from simple raw materials, advanced ammo requires more exotic ingredients such as components, FSX or Prometheum. -->
+	<CE_AmmoCrafting.helpText>Asegurar que tus colonos estén abastecidos con munición es vital para sobrevivir en un Rimworld. Flechas de madera simples pueden obtenerse de la fabricación pero funcionan muy mal contra oponentes con armadura y ropa avanzada.\n\nFlechas de acero y plastiacero ofrecen mejor penetración y pueden hacerse en el banco de herrería una vez que se investiga herrería.\n\nInvestiga armería para desbloquear el banco de carga, donde puedes fabricar munición para la mayoría de armas de fuego. Proyectiles de artillería y granadas se hacen en la mesa de maquinado.\n\nMientras que la mayoría de tipos de munición convencional pueden hacerse de materias primas simples, munición avanzada requiere ingredientes más exóticos como componentes, FSX o Prometheum.</CE_AmmoCrafting.helpText>
+	<!-- EN: FSX -->
+	<CE_ObtainingFSX.label>FSX</CE_ObtainingFSX.label>
+	<!-- EN: Prometheum -->
+	<CE_ObtainingPrometheum.label>Prometheum</CE_ObtainingPrometheum.label>
+	<!-- EN: Warning, mechanoids! -->
+	<CE_CentipedeArmor.label>¡Advertencia, mecanoides!</CE_CentipedeArmor.label>
+	<!-- EN: Warning: It is only a matter of time before mechanoids take notice of your arrival and start attacking. The larger models have heavy armor that is impervious to small-arms fire.\n\nFighting them requires powerful weapons such as heavy machine guns, molotov cocktails or explosives. You should keep a healthy stockpile of these weapons if you hope to survive for long. -->
+	<CE_CentipedeArmor.helpText>Advertencia: Es solo cuestión de tiempo antes de que los mecanoides noten tu llegada y comiencen a atacar. Los modelos más grandes tienen armadura pesada que es impermeable al fuego de armas pequeñas.\n\nCombatirlos requiere armas poderosas como ametralladoras pesadas, cócteles molotov o explosivos. Deberías mantener una reserva saludable de estas armas si esperas sobrevivir por mucho tiempo.</CE_CentipedeArmor.helpText>
+</LanguageData>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+	<!-- EN: Cozy Heater -->
+	<SEX_CozyHeater>Calefactor acogedor</SEX_CozyHeater>
+	<!-- EN: mm sharp -->
+	<CE_mmRHA>mm afilado</CE_mmRHA>
+	<!-- EN: mpa blunt -->
+	<CE_MPa>MPa contundente</CE_MPa>
+	<!-- EN: Unconstrained gene negates mass-related speed debuffs -->
+	<SEX_VREHussarGeneExplanation>El gen sin restricciones anula las penalizaciones de velocidad relacionadas con la masa</SEX_VREHussarGeneExplanation>
+	<!-- EN: Charged rocket -->
+	<SEX_ChargedRocket>Cohete cargado</SEX_ChargedRocket>
+	<!-- EN: Crossbow bolt -->
+	<SEX_CrossbowBolt>Virote de ballesta</SEX_CrossbowBolt>
+	<!-- EN: Arrow -->
+	<SEX_Arrow>Flecha</SEX_Arrow>
+	<!-- EN: Great arrow -->
+	<SEX_GreatArrow>Flecha grande</SEX_GreatArrow>
+	<!-- EN: Magnum rifle cartridge -->
+	<SEX_MagnumRifle>Cartucho de rifle magnum</SEX_MagnumRifle>
+	<!-- EN: Intermediate rifle cartridge -->
+	<SEX_IntermediateRifle>Cartucho de rifle intermedio</SEX_IntermediateRifle>
+	<!-- EN: Magnum pistol cartridge -->
+	<SEX_MagnumPistol>Cartucho de pistola magnum</SEX_MagnumPistol>
+	<!-- EN: Anti-materiel cartridge -->
+	<SEX_AntiMaterial>Cartucho antimaterial</SEX_AntiMaterial>
+	<!-- EN: Autocannon shell -->
+	<SEX_Autocannon>Proyectil de autocañon</SEX_Autocannon>
+	<!-- EN: Shotgun shell -->
+	<SEX_Shotgun>Cartucho de escopeta</SEX_Shotgun>
+	<!-- EN: Charged pistol cartridge -->
+	<SEX_ChargedPistol>Cartucho de pistola cargado</SEX_ChargedPistol>
+	<!-- EN: Charged rifle cartridge -->
+	<SEX_ChargedRifle>Cartucho de rifle cargado</SEX_ChargedRifle>
+	<!-- EN: Charged heavy cartridge -->
+	<SEX_ChargedHeavy>Cartucho pesado cargado</SEX_ChargedHeavy>
+	<!-- EN: Charged shotgun shell -->
+	<SEX_ChargedShotgun>Cartucho de escopeta cargado</SEX_ChargedShotgun>
+	<!-- EN: Launcher grenade -->
+	<SEX_LauncherGrenade>Granada de lanzagranadas</SEX_LauncherGrenade>
+	<!-- EN: Mech shell -->
+	<SEX_MechShell>Proyectil de meca</SEX_MechShell>
+	<!-- EN: Light cannon shell -->
+	<SEX_LightCannon>Proyectil de cañon ligero</SEX_LightCannon>
+	<!-- EN: Heavy cannon shell -->
+	<SEX_HeavyCannon>Proyectil de cañon pesado</SEX_HeavyCannon>
+	<!-- EN: Missile -->
+	<SEX_Missile>Misil</SEX_Missile>
+	<!-- EN: Rocket grenade -->
+	<SEX_RocketGrenade>Granada cohete</SEX_RocketGrenade>
+	<!-- EN: Rifle cartridge -->
+	<SEX_Rifle>Cartucho de rifle</SEX_Rifle>
+	<!-- EN: Pistol cartridge -->
+	<SEX_Pistol>Cartucho de pistola</SEX_Pistol>
+</LanguageData>

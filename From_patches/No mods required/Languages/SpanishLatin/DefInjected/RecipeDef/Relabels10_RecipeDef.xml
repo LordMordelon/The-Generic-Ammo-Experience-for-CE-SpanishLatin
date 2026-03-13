@@ -1,0 +1,39 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Relabels10.xml -->
+	<!-- EN: make high explosive mortar shell 5x -->
+	<MakeShell_HighExplosive.label>fabricar obús de mortero de alto explosivo x5</MakeShell_HighExplosive.label>
+	<!-- EN: craft 5 high explosive mortar shells. -->
+	<MakeShell_HighExplosive.description>Fabrica 5 obuses de mortero de alto explosivo.</MakeShell_HighExplosive.description>
+	<!-- EN: making high explosive mortar shells. -->
+	<MakeShell_HighExplosive.jobString>Fabricando obús de mortero de alto explosivo.</MakeShell_HighExplosive.jobString>
+	<!-- EN: make airburst mortar shell 5x -->
+	<MakeShell_HighExplosive_HFuzed.label>fabricar obús de mortero de rafaga aérea x5</MakeShell_HighExplosive_HFuzed.label>
+	<!-- EN: craft 5 airburst mortar shells. -->
+	<MakeShell_HighExplosive_HFuzed.description>Fabrica 5 obuses de mortero de rafaga aérea.</MakeShell_HighExplosive_HFuzed.description>
+	<!-- EN: making airburst mortar shells. -->
+	<MakeShell_HighExplosive_HFuzed.jobString>Fabricando obuses de mortero de rafaga aérea.</MakeShell_HighExplosive_HFuzed.jobString>
+	<!-- EN: make incendiary mortar shell 5x -->
+	<MakeShell_Incendiary.label>fabricar obús de mortero incendiario x5</MakeShell_Incendiary.label>
+	<!-- EN: craft 5 incendiary mortar shells. -->
+	<MakeShell_Incendiary.description>Fabrica 5 obuses de mortero incendiarios.</MakeShell_Incendiary.description>
+	<!-- EN: making incendiary mortar shells. -->
+	<MakeShell_Incendiary.jobString>Fabricando obuses de mortero incendiarios.</MakeShell_Incendiary.jobString>
+	<!-- EN: make EMP mortar shell 5x -->
+	<MakeShell_EMP.label>fabricar obús de mortero PEM x5</MakeShell_EMP.label>
+	<!-- EN: craft 5 EMP mortar shells. -->
+	<MakeShell_EMP.description>Fabrica 5 obuses de mortero PEM.</MakeShell_EMP.description>
+	<!-- EN: making EMP mortar shells. -->
+	<MakeShell_EMP.jobString>Fabricando obuses de mortero PEM.</MakeShell_EMP.jobString>
+	<!-- EN: make firefoam mortar shell x5 -->
+	<MakeShell_Firefoam.label>fabricar obús de mortero de cortafuego x5</MakeShell_Firefoam.label>
+	<!-- EN: craft 5 firefoam mortar shells. -->
+	<MakeShell_Firefoam.description>Fabrica 5 obuses de mortero de cortafuego.</MakeShell_Firefoam.description>
+	<!-- EN: making firefoam mortar shells. -->
+	<MakeShell_Firefoam.jobString>Fabricando obuses de mortero de cortafuego.</MakeShell_Firefoam.jobString>
+	<!-- EN: make smoke mortar shell x5 -->
+	<MakeShell_Smoke.label>fabricar obús de mortero de humo x5</MakeShell_Smoke.label>
+	<!-- EN: craft 5 smoke mortar shells. -->
+	<MakeShell_Smoke.description>Fabrica 5 obuses de mortero de humo.</MakeShell_Smoke.description>
+	<!-- EN: making smoke mortar shells. -->
+	<MakeShell_Smoke.jobString>Fabricando obuses de mortero de humo.</MakeShell_Smoke.jobString>
+</LanguageData>

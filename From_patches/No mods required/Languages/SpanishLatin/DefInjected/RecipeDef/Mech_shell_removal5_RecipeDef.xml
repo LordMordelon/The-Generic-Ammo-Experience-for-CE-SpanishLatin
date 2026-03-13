@@ -1,0 +1,10 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Mech_shell_removal5.xml -->
+	
+	<!-- EN: make mech shell x5 -->
+	<MakeAmmo_MechShell_Incendiary.label>fabricar proyectil de meca x5</MakeAmmo_MechShell_Incendiary.label>
+	<!-- EN: Craft 5 mech shells. -->
+	<MakeAmmo_MechShell_Incendiary.description>Fabrica 5 proyectiles de meca.</MakeAmmo_MechShell_Incendiary.description>
+	<!-- EN: Making mech shells. -->
+	<MakeAmmo_MechShell_Incendiary.jobString>Fabricando proyectiles de meca.</MakeAmmo_MechShell_Incendiary.jobString>
+</LanguageData>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+	<!-- EN: Give ammo to  -->
+	<CE_GiveAmmoToThing>Dar municion a </CE_GiveAmmoToThing>
+	<!-- EN: The empire has issued you with a standard shipment of rifle ammo as none of your colonists bear any ranged weapons. -->
+	<SEX_AmmoResupplyFailed>El Imperio te ha enviado un cargamento estandar de municion de rifle, ya que ninguno de tus colonos lleva armas a distancia.</SEX_AmmoResupplyFailed>
+</LanguageData>

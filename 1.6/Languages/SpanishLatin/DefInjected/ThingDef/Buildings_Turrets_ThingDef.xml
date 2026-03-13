@@ -1,0 +1,50 @@
+<LanguageData>
+	<!-- 1.6\Defs\ThingDefs_Buildings\Buildings_Turrets.xml -->
+	<!-- EN: mounted grenade launcher -->
+	<SEX_GrenadeLauncherGun.label>lanzagranadas montado</SEX_GrenadeLauncherGun.label>
+	<!-- EN: A mounted grenade launcher. -->
+	<SEX_GrenadeLauncherGun.description>Un lanzagranadas montado.</SEX_GrenadeLauncherGun.description>
+	<!-- EN: ㅤ -->
+	<SEX_GrenadeLauncherGun.verbs.0.label>ㅤ</SEX_GrenadeLauncherGun.verbs.0.label>
+	
+	<!-- EN: grenade launcher auto-turret -->
+	<SEX_GrenadeLauncherTurret.label>torreta lanzagranadas</SEX_GrenadeLauncherTurret.label>
+	<!-- EN: Automatic grenade launcher turret capable of firing launcher grenades. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+	<SEX_GrenadeLauncherTurret.description>Torreta lanzagranadas automatica capaz de disparar granadas de lanzagranadas. Su tonto cerebro de IA no puede controlarse directamente, asi que cuidado con el fuego amigo.</SEX_GrenadeLauncherTurret.description>
+	
+	<!-- EN: shotgun auto-turret -->
+	<SEX_ShotgunTurretGun.label>torreta de escopeta</SEX_ShotgunTurretGun.label>
+	<!-- EN: A mounted shotgun. -->
+	<SEX_ShotgunTurretGun.description>Una escopeta montada.</SEX_ShotgunTurretGun.description>
+	<!-- EN: ㅤ -->
+	<SEX_ShotgunTurretGun.verbs.0.label>ㅤ</SEX_ShotgunTurretGun.verbs.0.label>
+	
+	<!-- EN: shotgun auto-turret -->
+	<SEX_ShotgunTurret.label>torreta de escopeta</SEX_ShotgunTurret.label>
+	<!-- EN: Automatic shotgun turret capable of firing shotgun shells. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+	<SEX_ShotgunTurret.description>Torreta de escopeta automatica capaz de disparar cartuchos de escopeta. Su tonto cerebro de IA no puede controlarse directamente, asi que cuidado con el fuego amigo.</SEX_ShotgunTurret.description>
+	
+	<!-- EN: mini auto-turret -->
+	<SEX_MiniTurretGun.label>mini autotorreta</SEX_MiniTurretGun.label>
+	<!-- EN: A mounted gun. -->
+	<SEX_MiniTurretGun.description>Un arma montada.</SEX_MiniTurretGun.description>
+	<!-- EN: ㅤ -->
+	<SEX_MiniTurretGun.verbs.0.label>ㅤ</SEX_MiniTurretGun.verbs.0.label>
+	
+	<!-- EN: mini auto-turret -->
+	<SEX_MiniTurret.label>mini-torreta</SEX_MiniTurret.label>
+	<!-- EN: A light and portable automatic turret capable of firing pistol cartridges. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+	<SEX_MiniTurret.description>Una torreta automatica ligera y portatil capaz de disparar cartuchos de pistola. Su tonto cerebro de IA no puede controlarse directamente, asi que cuidado con el fuego amigo.</SEX_MiniTurret.description>
+	
+	<!-- EN: mounted flamethrower -->
+	<SEX_FlamethrowerGun.label>lanzallamas montado</SEX_FlamethrowerGun.label>
+	<!-- EN: A mounted flamethrower. -->
+	<SEX_FlamethrowerGun.description>Un lanzallamas montado.</SEX_FlamethrowerGun.description>
+	<!-- EN: ㅤ -->
+	<SEX_FlamethrowerGun.verbs.0.label>ㅤ</SEX_FlamethrowerGun.verbs.0.label>
+	
+	<!-- EN: flamethrower auto-turret -->
+	<SEX_FlamethrowerTurret.label>autotorreta lanzallamas</SEX_FlamethrowerTurret.label>
+	<!-- EN: Automatic flamethrower turret capable of engulfing targets with a stream of fire. The base of the turret is reinforced against extreme heat to prevent the turret from burning itself. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+	<SEX_FlamethrowerTurret.description>Torreta lanzallamas automatica capaz de envolver objetivos con un chorro de fuego. La base de la torreta esta reforzada contra el calor extremo para evitar que se queme a si misma. Su tonto cerebro de IA no puede controlarse directamente, asi que cuidado con el fuego amigo.</SEX_FlamethrowerTurret.description>
+</LanguageData>

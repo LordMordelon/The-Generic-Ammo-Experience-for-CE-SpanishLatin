@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Reinforced_Mech_2_Continued21.xml -->
+	<!-- EN: make crystalline shard x50 -->
+	<MakeRM_Ammo_ShardGun.label>fabricar esquirla cristalina x50</MakeRM_Ammo_ShardGun.label>
+	<!-- EN: Craft 50 crystalline shards. -->
+	<MakeRM_Ammo_ShardGun.description>Fabrica 50 esquirlas cristalinas.</MakeRM_Ammo_ShardGun.description>
+	<!-- EN: Making crystalline shards. -->
+	<MakeRM_Ammo_ShardGun.jobString>Fabricando esquirlas cristalinas.</MakeRM_Ammo_ShardGun.jobString>
+	<!-- EN: make plasma charge pack x1 -->
+	<MakeAmmo_PlasmaCellHeavy.label>fabricar paquete de carga de plasma x1</MakeAmmo_PlasmaCellHeavy.label>
+	<!-- EN: Craft 1 plasma charge pack. -->
+	<MakeAmmo_PlasmaCellHeavy.description>Fabrica 1 paquete de carga de plasma.</MakeAmmo_PlasmaCellHeavy.description>
+	<!-- EN: Making a plasma charge pack. -->
+	<MakeAmmo_PlasmaCellHeavy.jobString>Fabricando un paquete de carga de plasma.</MakeAmmo_PlasmaCellHeavy.jobString>
+</LanguageData>

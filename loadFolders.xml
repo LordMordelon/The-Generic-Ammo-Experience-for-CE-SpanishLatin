@@ -1,0 +1,34 @@
+<loadFolders>
+	<v1.6>
+		
+		<li>/</li>
+		<li>1.6</li>
+		
+		<li>From_patches/No mods required</li>
+		<li IfModActive="VanillaExpanded.VWENL">From_patches/VanillaExpanded_VWENL</li>
+		<li IfModActive="Ludeon.Rimworld.Biotech">From_patches/Ludeon_Rimworld_Biotech</li>
+		<li IfModActive="Ludeon.Rimworld.Anomaly">From_patches/Ludeon_Rimworld_Anomaly</li>
+		<li IfModActive="Ludeon.Rimworld.Royalty">From_patches/Ludeon_Rimworld_Royalty</li>
+		<li IfModActive="VanillaExpanded.VFEArchitect">From_patches/VanillaExpanded_VFEArchitect</li>
+		<li IfModActive="CETeam.CombatExtended">From_patches/CETeam_CombatExtended</li>
+		<li IfModActive="Aoba.DeadManSwitch.Core">From_patches/Aoba_DeadManSwitch_Core</li>
+		<li IfModActive="VanillaExpanded.VWE">From_patches/VanillaExpanded_VWE</li>
+		<li IfModActive="DankPyon.Medieval.Overhaul">From_patches/DankPyon_Medieval_Overhaul</li>
+		<li IfModActive="OskarPotocki.VanillaVehiclesExpanded">From_patches/OskarPotocki_VanillaVehiclesExpanded</li>
+		<li IfModActive="VanillaExpanded.VAEAccessories">From_patches/VanillaExpanded_VAEAccessories</li>
+		<li IfModActive="VanillaExpanded.VARME">From_patches/VanillaExpanded_VARME</li>
+		<li IfModActive="oskarpotocki.vfe.classical">From_patches/oskarpotocki_vfe_classical</li>
+		<li IfModActive="oskarpotocki.vfe.deserters">From_patches/oskarpotocki_vfe_deserters</li>
+		<li IfModActive="oskarpotocki.vfe.empire">From_patches/oskarpotocki_vfe_empire</li>
+		<li IfModActive="oskarpotocki.vfe.tribals">From_patches/oskarpotocki_vfe_tribals</li>
+		<li IfModActive="oskarpotocki.vfe.pirates">From_patches/oskarpotocki_vfe_pirates</li>
+		<li IfModActive="VanillaExpanded.VFESecurity">From_patches/VanillaExpanded_VFESecurity</li>
+		<li IfModActive="vanillaracesexpanded.hussar">From_patches/vanillaracesexpanded_hussar</li>
+		<li IfModActive="VanillaExpanded.VanillaTraitsExpanded">From_patches/VanillaExpanded_VanillaTraitsExpanded</li>
+		<li IfModActive="VanillaExpanded.VWEL">From_patches/VanillaExpanded_VWEL</li>
+		<li IfModActive="VanillaExpanded.VWEQ">From_patches/VanillaExpanded_VWEQ</li>
+		<li IfModActive="VanillaExpanded.VWEHW">From_patches/VanillaExpanded_VWEHW</li>
+		<li IfModActive="VanillaExpanded.VWEMS">From_patches/VanillaExpanded_VWEMS</li>
+		<li IfModActive="OskarPotocki.VFE.Medieval2">From_patches/OskarPotocki_VFE_Medieval2</li>
+	</v1.6>
+</loadFolders>

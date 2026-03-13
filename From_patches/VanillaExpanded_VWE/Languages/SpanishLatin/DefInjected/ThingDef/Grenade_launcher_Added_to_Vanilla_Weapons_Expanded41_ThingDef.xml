@@ -1,0 +1,29 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VWE\Grenade_launcher_Added_to_Vanilla_Weapons_Expanded41.xml -->
+	
+	<!-- EN: grenadier battle rifle -->
+	<SEX_GrenadierBattleRifle.label>rifle de batalla granadero</SEX_GrenadierBattleRifle.label>
+	<!-- EN: A bulky military battle rifle firing full-power rifle cartridges with a grenade launcher built into the weapon. -->
+	<SEX_GrenadierBattleRifle.description>Un voluminoso rifle de batalla militar que dispara cartuchos de rifle de potencia completa con un lanzagranadas integrado en el arma.</SEX_GrenadierBattleRifle.description>
+	<!-- EN: ㅤ -->
+	<SEX_GrenadierBattleRifle.verbs.0.label>ㅤ</SEX_GrenadierBattleRifle.verbs.0.label>
+	<!-- EN: stock -->
+	<SEX_GrenadierBattleRifle.tools.0.label>culata</SEX_GrenadierBattleRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<SEX_GrenadierBattleRifle.tools.1.label>cañón</SEX_GrenadierBattleRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<SEX_GrenadierBattleRifle.tools.2.label>boca de fuego</SEX_GrenadierBattleRifle.tools.2.label>
+	
+	<!-- EN: grenadier service rifle -->
+	<SEX_GrenadierServiceRifle.label>rifle de servicio granadero</SEX_GrenadierServiceRifle.label>
+	<!-- EN: A versatile and rugged assault rifle with a grenade launcher attached to the weapon. Popular with urbworld militia forces and rimworld mercenaries due to the flexibility it offers. -->
+	<SEX_GrenadierServiceRifle.description>Un rifle de asalto versátil y resistente con un lanzagranadas acoplado al arma. Popular entre fuerzas de milicia de urbworld y mercenarios de rimworld por la flexibilidad que ofrece.</SEX_GrenadierServiceRifle.description>
+	<!-- EN: ㅤ -->
+	<SEX_GrenadierServiceRifle.verbs.0.label>ㅤ</SEX_GrenadierServiceRifle.verbs.0.label>
+	<!-- EN: stock -->
+	<SEX_GrenadierServiceRifle.tools.0.label>culata</SEX_GrenadierServiceRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<SEX_GrenadierServiceRifle.tools.1.label>cañón</SEX_GrenadierServiceRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<SEX_GrenadierServiceRifle.tools.2.label>boca de fuego</SEX_GrenadierServiceRifle.tools.2.label>
+</LanguageData>

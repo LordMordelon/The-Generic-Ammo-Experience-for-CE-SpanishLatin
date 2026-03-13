@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Ludeon_Rimworld_Biotech\Relabels32.xml -->
+	
+	<!-- EN: make tox mortar shell x5 -->
+	<MakeShell_Toxic.label>fabricar obús de mortero toxico x5</MakeShell_Toxic.label>
+	<!-- EN: craft 5 tox mortar shells. -->
+	<MakeShell_Toxic.description>Fabrica 5 obuses de mortero toxico.</MakeShell_Toxic.description>
+	<!-- EN: making tox mortar shells. -->
+	<MakeShell_Toxic.jobString>Fabricando obuses de mortero toxico.</MakeShell_Toxic.jobString>
+	
+	<!-- EN: make deadlife mortar shell x5 -->
+	<MakeShell_Deadlife.label>fabricar obús de mortero necrovita x5</MakeShell_Deadlife.label>
+	<!-- EN: craft 5 deadlife mortar shells. -->
+	<MakeShell_Deadlife.description>Fabrica 5 obuses de mortero necrovita.</MakeShell_Deadlife.description>
+	<!-- EN: making deadlife mortar shells. -->
+	<MakeShell_Deadlife.jobString>Fabricando obuses de mortero necrovita.</MakeShell_Deadlife.jobString>
+</LanguageData>

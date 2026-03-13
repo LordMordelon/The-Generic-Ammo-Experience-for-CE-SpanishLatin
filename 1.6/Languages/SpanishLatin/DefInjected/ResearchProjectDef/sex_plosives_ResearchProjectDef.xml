@@ -1,0 +1,23 @@
+<LanguageData>
+	<!-- 1.6\Defs\ResearchProjectDefs\sex_plosives.xml -->
+	<!-- EN: Basic explosives -->
+	<SEX_Plosives.label>explosivos basicos</SEX_Plosives.label>
+	<!-- EN: Assemble explosive cocktails using prometheum, FSX and cloth. -->
+	<SEX_Plosives.description>Ensamblar cocteles explosivos usando prometeo, FSX y tela.</SEX_Plosives.description>
+	<!-- EN: 
+		<li>subject->basic explosives</li>
+		<li>subject_story->made molotov coctails for urbworld resistance fighters</li>
+		<li>subject_story->was taught how to make bombs out of sticks</li>
+		<li>subject_story->was a part of a riot and used molotovs to fend off the assault of urbworld riot police</li>
+		<li>subject_gerund->making simple explosives</li>
+		<li>subject_gerund->crafting basic explosives</li>
+	 -->
+	<SEX_Plosives.generalRules.rulesStrings>
+		<li>subject->explosivos basicos</li>
+		<li>subject_story->hizo cocteles molotov para combatientes de la resistencia de mundos urbanos</li>
+		<li>subject_story->le ensenaron a hacer bombas con palos</li>
+		<li>subject_story->formo parte de un disturbio y uso molotovs para repeler el asalto de la policia antidisturbios de un mundo urbano</li>
+		<li>subject_gerund->haciendo explosivos simples</li>
+		<li>subject_gerund->fabricando explosivos basicos</li>
+	</SEX_Plosives.generalRules.rulesStrings>
+</LanguageData>

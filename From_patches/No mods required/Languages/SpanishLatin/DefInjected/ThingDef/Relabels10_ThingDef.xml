@@ -1,0 +1,61 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Relabels10.xml -->
+	<!-- EN: mortar -->
+	<Turret_Mortar.label>mortero</Turret_Mortar.label>
+	<!-- EN: high explosive mortar shell -->
+	<Shell_HighExplosive.label>obús de mortero de alto explosivo</Shell_HighExplosive.label>
+	<!-- EN: incendiary mortar shell -->
+	<Shell_Incendiary.label>obús de mortero incendiario</Shell_Incendiary.label>
+	<!-- EN: EMP mortar shell -->
+	<Shell_EMP.label>obús de mortero PEM</Shell_EMP.label>
+	<!-- EN: firefoam mortar shell -->
+	<Shell_Firefoam.label>obús de mortero de cortafuego</Shell_Firefoam.label>
+	<!-- EN: smoke mortar shell -->
+	<Shell_Smoke.label>obús de mortero de humo</Shell_Smoke.label>
+	<!-- EN: antigrain mortar shell -->
+	<Shell_AntigrainWarhead.label>obús de mortero antimateria</Shell_AntigrainWarhead.label>
+	<!-- EN: airburst mortar shell -->
+	<Shell_HighExplosive_HFuzed.label>obús de mortero de rafaga aérea</Shell_HighExplosive_HFuzed.label>
+	<!-- EN: high explosive shell -->
+	<Bullet_81mmMortarShell_HE.label>proyectil de alto explosivo</Bullet_81mmMortarShell_HE.label>
+	<!-- EN: incendiary shell -->
+	<Bullet_81mmMortarShell_Incendiary.label>proyectil incendiario</Bullet_81mmMortarShell_Incendiary.label>
+	<!-- EN: EMP shell -->
+	<Bullet_81mmMortarShell_EMP.label>proyectil PEM</Bullet_81mmMortarShell_EMP.label>
+	<!-- EN: firefoam shell -->
+	<Bullet_81mmMortarShell_Firefoam.label>proyectil de cortafuego</Bullet_81mmMortarShell_Firefoam.label>
+	<!-- EN: smoke shell -->
+	<Bullet_81mmMortarShell_Smoke.label>proyectil de humo</Bullet_81mmMortarShell_Smoke.label>
+	<!-- EN: antigrain shell -->
+	<Bullet_81mmMortarShell_Antigrain.label>proyectil antimateria</Bullet_81mmMortarShell_Antigrain.label>
+	<!-- EN: airburst shell -->
+	<Bullet_81mmMortarShell_HE_HFuzed.label>proyectil de rafaga aérea</Bullet_81mmMortarShell_HE_HFuzed.label>
+	<!-- EN: Revolver -->
+	<Gun_Revolver.label>revolver</Gun_Revolver.label>
+	<!-- EN: pistol -->
+	<Gun_Autopistol.label>pistola</Gun_Autopistol.label>
+	<!-- EN: light machine gun -->
+	<Gun_LMG.label>LMG</Gun_LMG.label>
+	<!-- EN: pump shotgun -->
+	<Gun_PumpShotgun.label>escopeta de corredera</Gun_PumpShotgun.label>
+	<!-- EN: chain shotgun -->
+	<Gun_ChainShotgun.label>escopeta automatica</Gun_ChainShotgun.label>
+	<!-- EN: bolt-action rifle -->
+	<Gun_BoltActionRifle.label>fusil de cerrojo</Gun_BoltActionRifle.label>
+	<!-- EN: assault rifle -->
+	<Gun_AssaultRifle.label>fusil de asalto</Gun_AssaultRifle.label>
+	<!-- EN: sniper rifle -->
+	<Gun_SniperRifle.label>fusil de francotirador</Gun_SniperRifle.label>
+	<!-- EN: machine pistol -->
+	<Gun_MachinePistol.label>pistola ametralladora</Gun_MachinePistol.label>
+	<!-- EN: heavy SMG -->
+	<Gun_HeavySMG.label>SMG pesado</Gun_HeavySMG.label>
+	<!-- EN: incendiary launcher -->
+	<Gun_IncendiaryLauncher.label>lanzador incendiario</Gun_IncendiaryLauncher.label>
+	<!-- EN: charge rifle -->
+	<Gun_ChargeRifle.label>fusil de carga</Gun_ChargeRifle.label>
+	<!-- EN: Pila are spears for throwing. They take a long time to throw, but one hit can do heavy damage. The singular of pila is pilum. -->
+	<Pila.description>Las pila son lanzas para arrojar. Tardan bastante en lanzarse, pero un impacto puede causar mucho dano. El singular de pila es pilum.</Pila.description>
+	<!-- EN: pilum -->
+	<Pila.label>pila</Pila.label>
+</LanguageData>

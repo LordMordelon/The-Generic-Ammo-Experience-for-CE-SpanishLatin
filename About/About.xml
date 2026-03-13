@@ -1,0 +1,26 @@
+<ModMetaData>
+	<name>The Generic Ammo Experience for Combat Extended [Español Latino]</name>
+	<author>Mordelon</author>
+	<packageId>Mordelon.Rosalina.Mating.Press</packageId>
+	<supportedVersions>
+		<li>1.6</li>
+	</supportedVersions>
+	<modDependencies>
+		<li>
+			<packageId>Rosalina.Mating.Press</packageId>
+			<displayName>The Generic Ammo Experience for Combat Extended</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3284460811</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>Rosalina.Mating.Press</li>
+		<li>mordelon.modpack.spanishlatin</li>
+
+	</loadAfter>
+	<description>Traducción de The Generic Ammo Experience for Combat Extended
+
+Este mod busca ofrecer una experiencia cohesionada, al estilo vanilla, con la munición genérica de Combat Extended.
+https://steamcommunity.com/sharedfiles/filedetails/?id=3284460811
+
+Si notas algo sin traducir, escríbelo en los comentarios de la traducción ^_^</description>
+</ModMetaData>

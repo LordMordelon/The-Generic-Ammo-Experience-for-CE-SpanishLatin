@@ -1,0 +1,21 @@
+<LanguageData>
+	<!-- 1.6\Defs\ResearchProjectDefs\autoloaders.xml -->
+	<!-- EN: autoloaders -->
+	<SEX_Autoloaders.label>autocargadores</SEX_Autoloaders.label>
+	<!-- EN: Learn to construct autoloaders capable of autonomously loading ammunition into turrets. -->
+	<SEX_Autoloaders.description>Aprende a construir autocargadores capaces de cargar municion en torretas de forma autonoma.</SEX_Autoloaders.description>
+	<!-- EN: 
+		<li>subject->autoloaders</li>
+		<li>subject->turret loaders</li>
+		<li>subject_story->created an autonomous fortress utilizing autoloaders</li>
+		<li>subject_story->built autoloaders to supply a wall of autocannons with ammunition</li>
+		<li>subject_gerund->building autoloaders</li>
+	 -->
+	<SEX_Autoloaders.generalRules.rulesStrings>
+		<li>subject->autocargadores</li>
+		<li>subject->cargadores de torreta</li>
+		<li>subject_story->creo una fortaleza autonoma que utilizaba autocargadores</li>
+		<li>subject_story->construyo autocargadores para suministrar municion a un muro de autocanones</li>
+		<li>subject_gerund->construyendo autocargadores</li>
+	</SEX_Autoloaders.generalRules.rulesStrings>
+</LanguageData>

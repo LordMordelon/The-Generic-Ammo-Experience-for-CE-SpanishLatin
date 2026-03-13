@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VWEQ\Vanilla_Weapons_Expanded-Quickdraw61.xml -->
+	<!-- EN: automatic pistol -->
+	<VWE_Gun_AutomaticPistol.label>pistola automática</VWE_Gun_AutomaticPistol.label>
+	<!-- EN: bullpup rifle -->
+	<VWE_Gun_BullpupRifle.label>rifle bullpup</VWE_Gun_BullpupRifle.label>
+	<!-- EN: bullpup marksman rifle -->
+	<VWE_Gun_BullpupDMR.label>rifle de tirador bullpup</VWE_Gun_BullpupDMR.label>
+	<!-- EN: PDW -->
+	<VWE_Gun_PDW.label>PDW</VWE_Gun_PDW.label>
+</LanguageData>

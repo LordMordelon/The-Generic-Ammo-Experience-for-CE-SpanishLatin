@@ -1,0 +1,25 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\oskarpotocki_vfe_pirates\Vanilla_Factions_Expanded_Pirates55.xml -->
+	<!-- EN: round shot -->
+	<Bullet_CannonBallIndirect_Round.label>proyectil redondo</Bullet_CannonBallIndirect_Round.label>
+	<!-- EN: bursting shell -->
+	<Bullet_CannonBallIndirect_Bursting.label>proyectil explosivo</Bullet_CannonBallIndirect_Bursting.label>
+	<!-- EN: flaming shell -->
+	<Bullet_CannonBallIndirect_Incendiary.label>proyectil incendiario</Bullet_CannonBallIndirect_Incendiary.label>
+	<!-- EN: Essentially a handheld smoothbore mortar that fires explosives in an arc, able to bypass enemy fortifications. Made by those who wanted to combine ancient naval warfare with modern technology. The accuracy is abysmal but its utility - and the cost of its ammo compared to other warcasket weapons - more than makes up for it. -->
+	<VFEP_WarcasketGun_HandheldCannon.description>Esencialmente un mortero de ánima lisa portátil que dispara explosivos en un arco, capaz de evitar las fortificaciones enemigas. Hecho por aquellos que querían combinar la guerra naval antigua con la tecnología moderna. La precisión es pésima pero su utilidad - y el costo de su munición comparado con otras armas de warcasket - lo compensa con creces.</VFEP_WarcasketGun_HandheldCannon.description>
+	<!-- EN: Essentially a handheld smoothbore mortar that fires explosives in an arc, able to bypass enemy fortifications. Made by those who wanted to combine ancient naval warfare with modern technology. The accuracy is abysmal but its utility - and the cost of its ammo compared to other warcasket weapons - more than makes up for it. -->
+	<VFEP_Box_HandheldCannon.description>Esencialmente un mortero de ánima lisa portátil que dispara explosivos en un arco, capaz de evitar las fortificaciones enemigas. Hecho por aquellos que querían combinar la guerra naval antigua con la tecnología moderna. La precisión es pésima pero su utilidad - y el costo de su munición comparado con otras armas de warcasket - lo compensa con creces.</VFEP_Box_HandheldCannon.description>
+	<!-- EN: An upscaled version of the minigun designed for use by a warcasket. It uses larger caliber magnum rifle rounds with devastating effect. -->
+	<VFEP_Box_Minigun.description>Una versión ampliada de la minigun diseñada para uso de un warcasket. Usa rondas de rifle magnum de mayor calibre con efecto devastador.</VFEP_Box_Minigun.description>
+	<!-- EN: An upscaled version of the minigun designed for use by a warcasket. It uses larger caliber magnum rifle rounds with devastating effect. -->
+	<VFEP_WarcasketGun_Minigun.description>Una versión ampliada de la minigun diseñada para uso de un warcasket. Usa rondas de rifle magnum de mayor calibre con efecto devastador.</VFEP_WarcasketGun_Minigun.description>
+	<!-- EN: An upscaled version of the grenade launcher designed for use by a warcasket. A straight upgrade, it fires in bursts of 4 and benefits from recoil damping for faster recovery and better range. -->
+	<VFEP_Box_GrenadeLauncher.description>Una versión ampliada del lanzagranadas diseñada para uso de un warcasket. Una mejora directa, dispara en ráfagas de 4 y se beneficia de la amortiguación del retroceso para una recuperación más rápida y mejor alcance.</VFEP_Box_GrenadeLauncher.description>
+	<!-- EN: An upscaled version of the grenade launcher designed for use by a warcasket. A straight upgrade, it fires in bursts of 4 and benefits from recoil damping for faster recovery and better range. -->
+	<VFEP_WarcasketGun_GrenadeLauncher.description>Una versión ampliada del lanzagranadas diseñada para uso de un warcasket. Una mejora directa, dispara en ráfagas de 4 y se beneficia de la amortiguación del retroceso para una recuperación más rápida y mejor alcance.</VFEP_WarcasketGun_GrenadeLauncher.description>
+	<!-- EN: A portable medieval cannon mounted on a swivel, capable of launching cannon balls at considerable ranges. The accuracy is rather lacking, but it is a vast improvement compared to pre-gunpowder weapons like catapults in almost every aspect. -->
+	<VFEP_Turret_Cannon.description>Un cañón medieval portátil montado en un pivote, capaz de lanzar balas de cañón a distancias considerables. La precisión es bastante deficiente, pero es una mejora enorme en comparación con armas pre-pólvora como catapultas en casi todos los aspectos.</VFEP_Turret_Cannon.description>
+	<!-- EN: A light manned gun that can fire a variety of cannon shells. -->
+	<VFEP_Turret_FieldGun.description>Un cañón ligero tripulado que puede disparar una variedad de proyectiles de cañón.</VFEP_Turret_FieldGun.description>
+</LanguageData>

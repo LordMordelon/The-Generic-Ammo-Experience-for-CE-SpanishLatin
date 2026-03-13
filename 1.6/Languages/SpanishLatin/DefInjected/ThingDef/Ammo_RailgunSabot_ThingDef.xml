@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- 1.6\Defs\AmmoDefs\Ammo_RailgunSabot.xml -->
+	<!-- EN: Railgun sabot -->
+	<Ammo_RailgunSabot.label>sabot de canion railgun</Ammo_RailgunSabot.label>
+	<!-- EN: Fin-stabilized tungsten carbide penetrator with discarding sabot, designed for railgun pistols. -->
+	<Ammo_RailgunSabot.description>Penetrador de carburo de tungsteno estabilizado por aletas con sabot desprendible, disenado para pistolas railgun.</Ammo_RailgunSabot.description>
+	<!-- EN: Railgun sabot -->
+	<Bullet_RailgunSabot.label>sabot de canion railgun</Bullet_RailgunSabot.label>
+</LanguageData>

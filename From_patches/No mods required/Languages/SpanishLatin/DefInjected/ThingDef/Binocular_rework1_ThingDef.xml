@@ -1,0 +1,14 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Binocular_rework1.xml -->
+	<!-- EN: spotter kit -->
+	<Gun_BinocularsRadio.label>kit de observador</Gun_BinocularsRadio.label>
+	<!-- EN: A pair of binoculars and a portable radio. Useful to coordinate artillery strikes.\n\nUsing this on a target will mark it, removing the indirect fire penalty from any artillery pieces targeting it. Additionally, any directed fire will use the aiming accuracy and efficiency of the spotter, rather than the artillery operator to determine final accuracy. -->
+	<Gun_BinocularsRadio.description>Un par de binoculares y una radio portatil. Util para coordinar bombardeos de artilleria.\n\nUsar esto sobre un objetivo lo marcara, eliminando la penalizacion de fuego indirecto de cualquier pieza de artilleria que le dispare. Ademas, cualquier fuego dirigido usara la precision de apuntado y la eficiencia del observador, en lugar de las del operador de artilleria, para determinar la precision final.</Gun_BinocularsRadio.description>
+	<!-- EN: ㅤ -->
+	<Gun_BinocularsRadio.verbs.0.label>ㅤ</Gun_BinocularsRadio.verbs.0.label>
+	<!-- EN: Body -->
+	<Gun_BinocularsRadio.tools.0.label>Cuerpo</Gun_BinocularsRadio.tools.0.label>
+	
+	<!-- EN: A long range radio pack, allowing a spotter to call in accurate, long range fire support from afar. Works in conjunction with a spotter's kit. -->
+	<CE_Apparel_RadioPack.description>Una mochila de radio de largo alcance que permite a un observador solicitar apoyo de fuego preciso a larga distancia. Funciona en conjunto con un kit de observador.</CE_Apparel_RadioPack.description>
+</LanguageData>

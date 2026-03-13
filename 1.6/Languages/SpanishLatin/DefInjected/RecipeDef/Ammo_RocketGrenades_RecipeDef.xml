@@ -1,0 +1,27 @@
+<LanguageData>
+	<!-- 1.6\Defs\AmmoDefs\Ammo_RocketGrenades.xml -->
+	<!-- EN: make (HEAT) rocket grenades x5 -->
+	<MakeAmmo_RocketGrenade_HEAT.label>fabricar granadas cohete (HEAT) x5</MakeAmmo_RocketGrenade_HEAT.label>
+	<!-- EN: Craft 5 (HEAT) rocket grenades. -->
+	<MakeAmmo_RocketGrenade_HEAT.description>Fabrica 5 granadas cohete (HEAT).</MakeAmmo_RocketGrenade_HEAT.description>
+	<!-- EN: Making (HEAT) rocket grenades. -->
+	<MakeAmmo_RocketGrenade_HEAT.jobString>Fabricando granadas cohete (HEAT).</MakeAmmo_RocketGrenade_HEAT.jobString>
+	<!-- EN: make (Thermobaric) rocket grenades x5 -->
+	<MakeAmmo_RocketGrenade_Thermobaric.label>fabricar granadas cohete (Termobaricas) x5</MakeAmmo_RocketGrenade_Thermobaric.label>
+	<!-- EN: Craft 5 (Thermobaric) r grenades. -->
+	<MakeAmmo_RocketGrenade_Thermobaric.description>Fabrica 5 granadas cohete (Termobaricas).</MakeAmmo_RocketGrenade_Thermobaric.description>
+	<!-- EN: Making (Thermobaric) rocket grenades. -->
+	<MakeAmmo_RocketGrenade_Thermobaric.jobString>Fabricando granadas cohete (Termobaricas).</MakeAmmo_RocketGrenade_Thermobaric.jobString>
+	<!-- EN: make (Frag) rocket grenades x5 -->
+	<MakeAmmo_RocketGrenade_Frag.label>fabricar granadas cohete (Fragmentacion) x5</MakeAmmo_RocketGrenade_Frag.label>
+	<!-- EN: Craft 5 (Frag) rocket grenades. -->
+	<MakeAmmo_RocketGrenade_Frag.description>Fabrica 5 granadas cohete (Fragmentacion).</MakeAmmo_RocketGrenade_Frag.description>
+	<!-- EN: Making (Frag) rocket grenades. -->
+	<MakeAmmo_RocketGrenade_Frag.jobString>Fabricando granadas cohete (Fragmentacion).</MakeAmmo_RocketGrenade_Frag.jobString>
+	<!-- EN: make (EMP) rocket grenades x5 -->
+	<MakeAmmo_RocketGrenade_EMP.label>fabricar granadas cohete (EMP) x5</MakeAmmo_RocketGrenade_EMP.label>
+	<!-- EN: Craft (EMP) rocket grenades. -->
+	<MakeAmmo_RocketGrenade_EMP.description>Fabrica granadas cohete (EMP).</MakeAmmo_RocketGrenade_EMP.description>
+	<!-- EN: Making (EMP) rocket grenades. -->
+	<MakeAmmo_RocketGrenade_EMP.jobString>Fabricando granadas cohete (EMP).</MakeAmmo_RocketGrenade_EMP.jobString>
+</LanguageData>

@@ -1,0 +1,8 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Turret_changes8.xml -->
+	
+	<!-- EN: combat turrets -->
+	<CE_HeavyTurret.label>torretas de combate</CE_HeavyTurret.label>
+	<!-- EN: Learn to construct more specialized gun turrets. -->
+	<CE_HeavyTurret.description>Aprende a construir torretas de armas mas especializadas.</CE_HeavyTurret.description>
+</LanguageData>

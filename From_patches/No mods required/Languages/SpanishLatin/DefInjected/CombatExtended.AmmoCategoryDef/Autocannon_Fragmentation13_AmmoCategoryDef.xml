@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Autocannon_Fragmentation13.xml -->
+	<!-- EN: high-explosive fragmentation -->
+	<ExplosiveHEF.label>fragmentación altamente explosiva</ExplosiveHEF.label>
+	<!-- EN: HEF -->
+	<ExplosiveHEF.labelShort>HEF</ExplosiveHEF.labelShort>
+	<!-- EN: Hits a target and explodes, sending shrapnel flying. -->
+	<ExplosiveHEF.description>Golpea un objetivo y explota, enviando metralla volando.</ExplosiveHEF.description>
+</LanguageData>

@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Combat_Extended_Melee16.xml -->
+	<!-- EN: power maul -->
+	<CE_Melee_PoweredMaul.label>gran maza energetica</CE_Melee_PoweredMaul.label>
+	<!-- EN: power mace -->
+	<CE_Melee_PoweredMace.label>maza energetica</CE_Melee_PoweredMace.label>
+	<!-- EN: power gladius -->
+	<CE_Melee_PoweredShortsword.label>gladius energetico</CE_Melee_PoweredShortsword.label>
+</LanguageData>

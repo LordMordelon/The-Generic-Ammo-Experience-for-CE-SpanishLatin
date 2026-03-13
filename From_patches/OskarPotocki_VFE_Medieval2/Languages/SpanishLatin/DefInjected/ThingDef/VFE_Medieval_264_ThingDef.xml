@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\OskarPotocki_VFE_Medieval2\VFE_Medieval_264.xml -->
+	
+	<!-- EN: A powerful, heavy variant of the greatbow. Its great strength allows the wielder to fire indirect volleys. -->
+	<VFEM2_Warbow.description>Una variante poderosa y pesada del gran arco. Su gran fuerza permite al portador disparar andanadas indirectas.</VFEM2_Warbow.description>
+	<!-- EN: ㅤ -->
+	<VFEM2_Warbow.verbs.0.label>ㅤ</VFEM2_Warbow.verbs.0.label>
+	<!-- EN: Switch to regular aim -->
+	<VFEM2_Warbow.comps.0.underBarrelLabel>Cambiar a puntería normal</VFEM2_Warbow.comps.0.underBarrelLabel>
+	<!-- EN: Switch to firing volleys -->
+	<VFEM2_Warbow.comps.0.standardLabel>Cambiar a disparar andanadas</VFEM2_Warbow.comps.0.standardLabel>
+	
+	<!-- EN: round shield -->
+	<CE_Apparel_MeleeShield.label>escudo redondo</CE_Apparel_MeleeShield.label>
+</LanguageData>

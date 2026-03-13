@@ -1,0 +1,38 @@
+<LanguageData>
+	<!-- 1.6\Defs\ThingDefs_Buildings\Buildings_Emplacements.xml -->
+	<!-- EN: mounted rocket launcher -->
+	<SEX_RocketLauncherGun.label>lanzacohetes montado</SEX_RocketLauncherGun.label>
+	<!-- EN: A mounted rocket launcher. -->
+	<SEX_RocketLauncherGun.description>Un lanzacohetes montado.</SEX_RocketLauncherGun.description>
+	<!-- EN: ㅤ -->
+	<SEX_RocketLauncherGun.verbs.0.label>ㅤ</SEX_RocketLauncherGun.verbs.0.label>
+	
+	<!-- EN: mounted rocket launcher -->
+	<SEX_RocketLauncherTurret.label>lanzacohetes montado</SEX_RocketLauncherTurret.label>
+	<!-- EN: A rocket launcher on a mounted emplacement. The firing tube can be loaded with a variety of rocket grenades which can be fired one after another in quick succession. Extremely effective against highly-armored targets like mechanoids. -->
+	<SEX_RocketLauncherTurret.description>Un lanzacohetes en un emplazamiento montado. El tubo de disparo puede cargarse con una variedad de granadas cohete que pueden dispararse una tras otra en rapida sucesion. Extremadamente efectivo contra objetivos fuertemente blindados como los mecanoides.</SEX_RocketLauncherTurret.description>
+	
+	<!-- EN: mounted flamethrower -->
+	<SEX_MountedFlamethrowerGun.label>lanzallamas montado</SEX_MountedFlamethrowerGun.label>
+	<!-- EN: A mounted flamethrower. -->
+	<SEX_MountedFlamethrowerGun.description>Un lanzallamas montado.</SEX_MountedFlamethrowerGun.description>
+	<!-- EN: ㅤ -->
+	<SEX_MountedFlamethrowerGun.verbs.0.label>ㅤ</SEX_MountedFlamethrowerGun.verbs.0.label>
+	
+	<!-- EN: mounted flamethrower -->
+	<SEX_MountedFlamethrowerTurret.label>lanzallamas montado</SEX_MountedFlamethrowerTurret.label>
+	<!-- EN: A flamethrower on a fixed mount. A compression chamber feeds jellied fuel into the nozzle where it is ignited by a spark. Firespewers like these are generally banned in civilized worlds due to their extreme brutality but rimworlders have no qualms about using them. -->
+	<SEX_MountedFlamethrowerTurret.description>Un lanzallamas sobre un soporte fijo. Una camara de compresion alimenta combustible gelatinizado a la boquilla, donde se enciende con una chispa. Lanzafuegos como este suelen estar prohibidos en mundos civilizados debido a su extrema brutalidad, pero los habitantes del Borde no tienen reparos en usarlos.</SEX_MountedFlamethrowerTurret.description>
+	
+	<!-- EN: mounted gun -->
+	<SEX_MountedGunGun.label>arma montada</SEX_MountedGunGun.label>
+	<!-- EN: A mounted gun. -->
+	<SEX_MountedGunGun.description>Un arma montada.</SEX_MountedGunGun.description>
+	<!-- EN: ㅤ -->
+	<SEX_MountedGunGun.verbs.0.label>ㅤ</SEX_MountedGunGun.verbs.0.label>
+	
+	<!-- EN: mounted gun -->
+	<SEX_MountedGunTurret.label>arma montada</SEX_MountedGunTurret.label>
+	<!-- EN: A battle rifle on a mounted emplacement. This cheap and versatile gun is the staple defense weapon of urbworld armies and rim settlements alike. -->
+	<SEX_MountedGunTurret.description>Un rifle de batalla en un emplazamiento montado. Esta arma barata y versatil es el arma de defensa basica tanto de los ejercitos de mundos urbanos como de los asentamientos del Borde.</SEX_MountedGunTurret.description>
+</LanguageData>

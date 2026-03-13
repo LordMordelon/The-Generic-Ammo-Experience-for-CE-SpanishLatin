@@ -1,0 +1,8 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Ludeon_Rimworld_Biotech\Relabels32.xml -->
+	<!-- EN: tox mortar shell -->
+	<Shell_Toxic.label>obús de mortero toxico</Shell_Toxic.label>
+	
+	<!-- EN: tox shell -->
+	<Bullet_81mmMortarShell_Tox.label>obús toxico</Bullet_81mmMortarShell_Tox.label>
+</LanguageData>

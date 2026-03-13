@@ -1,0 +1,31 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\HRK_WW2_Japanese19.xml -->
+	
+	<!-- EN: make (HE) japanese launcher grenades x100 -->
+	<MakeAmmo_50mmType89Grenade_HE.label>fabricar granadas japonesas de lanzagranadas (HE) x100</MakeAmmo_50mmType89Grenade_HE.label>
+	<!-- EN: Craft 100 high-explosive japanese launcher grenades. -->
+	<MakeAmmo_50mmType89Grenade_HE.description>Fabrica 100 granadas japonesas de lanzagranadas de alto explosivo.</MakeAmmo_50mmType89Grenade_HE.description>
+	<!-- EN: Making japanese launcher grenades. -->
+	<MakeAmmo_50mmType89Grenade_HE.jobString>Fabricando granadas japonesas de lanzagranadas.</MakeAmmo_50mmType89Grenade_HE.jobString>
+	
+	<!-- EN: make (FRAG) japanese launcher grenades x100 -->
+	<MakeAmmo_50mmType89Grenade_Frag.label>fabricar granadas japonesas de lanzagranadas (FRAG) x100</MakeAmmo_50mmType89Grenade_Frag.label>
+	<!-- EN: Craft 100 fragmentation japanese launcher grenades. -->
+	<MakeAmmo_50mmType89Grenade_Frag.description>Fabrica 100 granadas japonesas de lanzagranadas de fragmentacion.</MakeAmmo_50mmType89Grenade_Frag.description>
+	<!-- EN: Making (FRAG) japanese launcher grenades. -->
+	<MakeAmmo_50mmType89Grenade_Frag.jobString>Fabricando granadas japonesas de lanzagranadas (FRAG).</MakeAmmo_50mmType89Grenade_Frag.jobString>
+	
+	<!-- EN: make (WP) japanese launcher grenades x100 -->
+	<MakeAmmo_50mmType89Grenade_WhitePhosphorus.label>fabricar granadas japonesas de lanzagranadas (WP) x100</MakeAmmo_50mmType89Grenade_WhitePhosphorus.label>
+	<!-- EN: Craft 100 white phosphorus japanese launcher grenades. -->
+	<MakeAmmo_50mmType89Grenade_WhitePhosphorus.description>Fabrica 100 granadas japonesas de lanzagranadas de fosforo blanco.</MakeAmmo_50mmType89Grenade_WhitePhosphorus.description>
+	<!-- EN: Making (WP) japanese launcher grenades. -->
+	<MakeAmmo_50mmType89Grenade_WhitePhosphorus.jobString>Fabricando granadas japonesas de lanzagranadas (WP).</MakeAmmo_50mmType89Grenade_WhitePhosphorus.jobString>
+	
+	<!-- EN: make (SMOKE) japanese launcher grenades x100 -->
+	<MakeAmmo_50mmType89Grenade_Smoke.label>fabricar granadas japonesas de lanzagranadas (HUMO) x100</MakeAmmo_50mmType89Grenade_Smoke.label>
+	<!-- EN: Craft 100 smoke japanese launcher grenades. -->
+	<MakeAmmo_50mmType89Grenade_Smoke.description>Fabrica 100 granadas japonesas de lanzagranadas de humo.</MakeAmmo_50mmType89Grenade_Smoke.description>
+	<!-- EN: Making (SMOKE) japanese launcher grenades. -->
+	<MakeAmmo_50mmType89Grenade_Smoke.jobString>Fabricando granadas japonesas de lanzagranadas (HUMO).</MakeAmmo_50mmType89Grenade_Smoke.jobString>
+</LanguageData>

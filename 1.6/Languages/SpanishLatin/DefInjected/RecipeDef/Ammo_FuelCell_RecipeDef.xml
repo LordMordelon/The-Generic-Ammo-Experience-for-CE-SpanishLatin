@@ -1,0 +1,24 @@
+<LanguageData>
+	<!-- 1.6\Defs\AmmoDefs\Ammo_FuelCell.xml -->
+	
+	<!-- EN: make incendiary fuel cell x50 -->
+	<MakeAmmo_Fuel_Incendiary.label>fabricar celda de combustible incendiario x50</MakeAmmo_Fuel_Incendiary.label>
+	<!-- EN: Craft 50 incendiary fuel cells. -->
+	<MakeAmmo_Fuel_Incendiary.description>Fabrica 50 celdas de combustible incendiario.</MakeAmmo_Fuel_Incendiary.description>
+	<!-- EN: Making incendiary fuel cells. -->
+	<MakeAmmo_Fuel_Incendiary.jobString>Fabricando celdas de combustible incendiario.</MakeAmmo_Fuel_Incendiary.jobString>
+	
+	<!-- EN: make thermobaric fuel cell x50 -->
+	<MakeAmmo_Fuel_Thermobaric.label>fabricar celda de combustible termobarico x50</MakeAmmo_Fuel_Thermobaric.label>
+	<!-- EN: Craft 50 thermobaric fuel cells. -->
+	<MakeAmmo_Fuel_Thermobaric.description>Fabrica 50 celdas de combustible termobarico.</MakeAmmo_Fuel_Thermobaric.description>
+	<!-- EN: Making thermobaric fuel cells. -->
+	<MakeAmmo_Fuel_Thermobaric.jobString>Fabricando celdas de combustible termobarico.</MakeAmmo_Fuel_Thermobaric.jobString>
+	
+	<!-- EN: make foam fuel cell x50 -->
+	<MakeAmmo_Fuel_Foam.label>fabricar celda de combustible de espuma x50</MakeAmmo_Fuel_Foam.label>
+	<!-- EN: Craft 50 foam fuel cells. -->
+	<MakeAmmo_Fuel_Foam.description>Fabrica 50 celdas de combustible de espuma.</MakeAmmo_Fuel_Foam.description>
+	<!-- EN: Making foam fuel cells. -->
+	<MakeAmmo_Fuel_Foam.jobString>Fabricando celdas de combustible de espuma.</MakeAmmo_Fuel_Foam.jobString>
+</LanguageData>

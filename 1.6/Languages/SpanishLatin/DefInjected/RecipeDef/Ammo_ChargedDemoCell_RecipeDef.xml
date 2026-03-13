@@ -1,0 +1,10 @@
+<LanguageData>
+	<!-- 1.6\Defs\AmmoDefs\Ammo_ChargedDemoCell.xml -->
+	
+	<!-- EN: make charged demolition cell x50 -->
+	<MakeAmmo_ChargedDemolition.label>fabricar celda de demolicion cargada x50</MakeAmmo_ChargedDemolition.label>
+	<!-- EN: Craft 50 charged demolition cells. -->
+	<MakeAmmo_ChargedDemolition.description>Fabrica 50 celdas de demolicion cargadas.</MakeAmmo_ChargedDemolition.description>
+	<!-- EN: Making charged demolition cells. -->
+	<MakeAmmo_ChargedDemolition.jobString>Fabricando celdas de demolicion cargadas.</MakeAmmo_ChargedDemolition.jobString>
+</LanguageData>
