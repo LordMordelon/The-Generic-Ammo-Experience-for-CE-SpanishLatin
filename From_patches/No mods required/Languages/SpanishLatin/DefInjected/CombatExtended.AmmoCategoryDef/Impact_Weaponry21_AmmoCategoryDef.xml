@@ -2,9 +2,9 @@
 	<!-- _Translation\Grabbed_Defs_from_patches\Impact_Weaponry21.xml -->
 	
 	<!-- EN: Impact shells -->
-	<SEX_ImpactShells.label>Impact shells</SEX_ImpactShells.label>
+	<SEX_ImpactShells.label>proyectiles de impacto</SEX_ImpactShells.label>
 	<!-- EN: impact -->
-	<SEX_ImpactShells.labelShort>impact</SEX_ImpactShells.labelShort>
+	<SEX_ImpactShells.labelShort>impacto</SEX_ImpactShells.labelShort>
 	<!-- EN: A large caliber, gryojet-stabilized projectile with an explosive charge. -->
-	<SEX_ImpactShells.description>A large caliber, gryojet-stabilized projectile with an explosive charge.</SEX_ImpactShells.description>
+	<SEX_ImpactShells.description>Un proyectil de gran calibre, estabilizado por gyrojet, con carga explosiva.</SEX_ImpactShells.description>
 </LanguageData>

@@ -2,16 +2,16 @@
 	<!-- _Translation\Grabbed_Defs_from_patches\Ludeon_Rimworld_Biotech\Relabels33.xml -->
 	
 	<!-- EN: make tox mortar shell x5 -->
-	<MakeShell_Toxic.label>make tox mortar shell x5</MakeShell_Toxic.label>
+	<MakeShell_Toxic.label>fabricar proyectil de mortero tox x5</MakeShell_Toxic.label>
 	<!-- EN: craft 5 tox mortar shells. -->
-	<MakeShell_Toxic.description>craft 5 tox mortar shells.</MakeShell_Toxic.description>
+	<MakeShell_Toxic.description>Fabrica 5 proyectiles de mortero tox.</MakeShell_Toxic.description>
 	<!-- EN: making tox mortar shells. -->
-	<MakeShell_Toxic.jobString>making tox mortar shells.</MakeShell_Toxic.jobString>
+	<MakeShell_Toxic.jobString>fabricando proyectiles de mortero tox.</MakeShell_Toxic.jobString>
 	
 	<!-- EN: make deadlife mortar shell x5 -->
-	<MakeShell_Deadlife.label>make deadlife mortar shell x5</MakeShell_Deadlife.label>
+	<MakeShell_Deadlife.label>fabricar proyectil de mortero deadlife x5</MakeShell_Deadlife.label>
 	<!-- EN: craft 5 deadlife mortar shells. -->
-	<MakeShell_Deadlife.description>craft 5 deadlife mortar shells.</MakeShell_Deadlife.description>
+	<MakeShell_Deadlife.description>Fabrica 5 proyectiles de mortero deadlife.</MakeShell_Deadlife.description>
 	<!-- EN: making deadlife mortar shells. -->
-	<MakeShell_Deadlife.jobString>making deadlife mortar shells.</MakeShell_Deadlife.jobString>
+	<MakeShell_Deadlife.jobString>fabricando proyectiles de mortero deadlife.</MakeShell_Deadlife.jobString>
 </LanguageData>

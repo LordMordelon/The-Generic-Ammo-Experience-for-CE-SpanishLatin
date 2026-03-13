@@ -1,9 +1,9 @@
 <LanguageData>
 	<!-- _Translation\Grabbed_Defs_from_patches\Save_Our_Ship_225.xml -->
 	<!-- EN: superheavy uranium slug -->
-	<SEX_SOS2Shell.label>superheavy uranium slug</SEX_SOS2Shell.label>
+	<SEX_SOS2Shell.label>proyectil superpesado de uranio</SEX_SOS2Shell.label>
 	<!-- EN: superheavy uranium slug -->
-	<SEX_SOS2Shell.labelShort>superheavy uranium slug</SEX_SOS2Shell.labelShort>
+	<SEX_SOS2Shell.labelShort>proyectil superpesado de uranio</SEX_SOS2Shell.labelShort>
 	<!-- EN: Superheavy uranium slug shell used by starship cannons. -->
-	<SEX_SOS2Shell.description>Superheavy uranium slug shell used by starship cannons.</SEX_SOS2Shell.description>
+	<SEX_SOS2Shell.description>Proyectil superpesado de uranio utilizado por los canones de naves estelares.</SEX_SOS2Shell.description>
 </LanguageData>

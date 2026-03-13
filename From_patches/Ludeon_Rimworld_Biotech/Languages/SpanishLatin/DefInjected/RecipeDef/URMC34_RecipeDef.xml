@@ -2,9 +2,9 @@
 	<!-- _Translation\Grabbed_Defs_from_patches\Ludeon_Rimworld_Biotech\URMC34.xml -->
 	
 	<!-- EN: make caseless tox cartridges x500 -->
-	<MakeAmmo_10x24mmCaseless_Tox.label>make caseless tox cartridges x500</MakeAmmo_10x24mmCaseless_Tox.label>
+	<MakeAmmo_10x24mmCaseless_Tox.label>fabricar cartuchos tox sin casquillo x500</MakeAmmo_10x24mmCaseless_Tox.label>
 	<!-- EN: Craft 500 caseless tox cartridges. -->
-	<MakeAmmo_10x24mmCaseless_Tox.description>Craft 500 caseless tox cartridges.</MakeAmmo_10x24mmCaseless_Tox.description>
+	<MakeAmmo_10x24mmCaseless_Tox.description>Fabrica 500 cartuchos tox sin casquillo.</MakeAmmo_10x24mmCaseless_Tox.description>
 	<!-- EN: Making caseless tox cartridge. -->
-	<MakeAmmo_10x24mmCaseless_Tox.jobString>Making caseless tox cartridge.</MakeAmmo_10x24mmCaseless_Tox.jobString>
+	<MakeAmmo_10x24mmCaseless_Tox.jobString>fabricando cartucho tox sin casquillo.</MakeAmmo_10x24mmCaseless_Tox.jobString>
 </LanguageData>
