@@ -1,9 +1,9 @@
 <LanguageData>
 	<!-- 1.6\Defs\AmmoDefs\Ammo_RailgunSabot.xml -->
 	<!-- EN: make railgun sabot x500 -->
-	<MakeAmmo_RailgunSabot.label>fabricar sabot de canion railgun x500</MakeAmmo_RailgunSabot.label>
+	<MakeAmmo_RailgunSabot.label>fabricar sabot de cañon railgun x500</MakeAmmo_RailgunSabot.label>
 	<!-- EN: Craft 500 railgun sabots. -->
-	<MakeAmmo_RailgunSabot.description>Fabrica 500 sabots de canion railgun.</MakeAmmo_RailgunSabot.description>
+	<MakeAmmo_RailgunSabot.description>Fabrica 500 sabots de cañon railgun.</MakeAmmo_RailgunSabot.description>
 	<!-- EN: Making railgun sabots. -->
-	<MakeAmmo_RailgunSabot.jobString>Fabricando sabots de canion railgun.</MakeAmmo_RailgunSabot.jobString>
+	<MakeAmmo_RailgunSabot.jobString>Fabricando sabots de cañon railgun.</MakeAmmo_RailgunSabot.jobString>
 </LanguageData>

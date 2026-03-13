@@ -1,13 +1,13 @@
 <LanguageData>
 	<!-- 1.6\Defs\AmmoDefs\Ammo_Makeshift.xml -->
 	<!-- EN: A rough, makeshift lead projectile. Hastily assembled without proper tools, these rough slugs deliver highly inconsistent damage. Weapons firing lead slugs, despite their lack of explosive and penetrative power, are still popular in the Rimworlds as their ammunition requires no special tools or training to produce. -->
-	<Ammo_LeadSlug.description>Un proyectil de plomo tosco e improvisado. Ensamblado apresuradamente sin herramientas adecuadas, estos toscos proyectiles causan un dano muy inconsistente. Las armas que disparan proyectiles de plomo, pese a su falta de poder explosivo y de penetracion, siguen siendo populares en los mundos del Borde porque su municion no requiere herramientas ni entrenamiento especiales para fabricarse.</Ammo_LeadSlug.description>
+	<Ammo_LeadSlug.description>Un proyectil de plomo rustico e improvisado. Ensamblados a toda prisa y sin herramientas adecuadas, estos proyectiles causan un dano muy inconsistente. Las armas que disparan proyectiles de plomo, a pesar de su baja capacidad explosiva y de penetracion, siguen siendo populares en los mundosborde porque su municion no requiere herramientas especiales ni entrenamiento para fabricarse.</Ammo_LeadSlug.description>
 	<!-- EN: lead slug -->
 	<Ammo_LeadSlug.label>proyectil de plomo</Ammo_LeadSlug.label>
-	<!-- EN: bullet -->
-	<Bullet_LeadSlug.label>bala</Bullet_LeadSlug.label>
-	<!-- EN: bullet -->
-	<Bullet_LeadSlug_HighVelocity.label>bala</Bullet_LeadSlug_HighVelocity.label>
+	<!-- EN: lead slug -->
+	<Bullet_LeadSlug.label>proyectil de plomo</Bullet_LeadSlug.label>
+	<!-- EN: lead slug -->
+	<Bullet_LeadSlug_HighVelocity.label>proyectil de plomo de alta velocidad</Bullet_LeadSlug_HighVelocity.label>
 	<!-- EN: buckshot pellet -->
 	<Bullet_LeadSlug_Buck.label>perdigon</Bullet_LeadSlug_Buck.label>
 </LanguageData>
