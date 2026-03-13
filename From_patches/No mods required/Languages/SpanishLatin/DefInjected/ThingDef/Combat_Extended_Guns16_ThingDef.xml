@@ -1,51 +1,51 @@
 <LanguageData>
 	<!-- _Translation\Grabbed_Defs_from_patches\Combat_Extended_Guns16.xml -->
 	<!-- EN: blunderbuss -->
-	<CE_Gun_FlintlockBlunderbuss.label>blunderbuss</CE_Gun_FlintlockBlunderbuss.label>
+	<CE_Gun_FlintlockBlunderbuss.label>trabuco</CE_Gun_FlintlockBlunderbuss.label>
 	<!-- EN: semi-automatic rifle -->
-	<CE_Gun_SKS.label>semi-automatic rifle</CE_Gun_SKS.label>
+	<CE_Gun_SKS.label>rifle semiautomatico</CE_Gun_SKS.label>
 	<!-- EN: battle rifle -->
-	<CE_Gun_FNFAL.label>battle rifle</CE_Gun_FNFAL.label>
+	<CE_Gun_FNFAL.label>rifle de batalla</CE_Gun_FNFAL.label>
 	<!-- EN: A bulky military battle rifle firing full-power rifle cartridges. -->
-	<CE_Gun_FNFAL.description>A bulky military battle rifle firing full-power rifle cartridges.</CE_Gun_FNFAL.description>
+	<CE_Gun_FNFAL.description>Un voluminoso rifle militar de batalla que dispara cartuchos de rifle de potencia completa.</CE_Gun_FNFAL.description>
 	<!-- EN: combat shotgun -->
-	<CE_Gun_USASTwelve.label>combat shotgun</CE_Gun_USASTwelve.label>
+	<CE_Gun_USASTwelve.label>escopeta de combate</CE_Gun_USASTwelve.label>
 	<!-- EN: flamethrower -->
-	<CE_Gun_Flamethrower.label>flamethrower</CE_Gun_Flamethrower.label>
+	<CE_Gun_Flamethrower.label>lanzallamas</CE_Gun_Flamethrower.label>
 	<!-- EN: charge pistol -->
-	<CE_Gun_ChargePistol.label>charge pistol</CE_Gun_ChargePistol.label>
+	<CE_Gun_ChargePistol.label>pistola de carga</CE_Gun_ChargePistol.label>
 	<!-- EN: charge shotgun -->
-	<CE_Gun_ChargeShotgun.label>charge shotgun</CE_Gun_ChargeShotgun.label>
+	<CE_Gun_ChargeShotgun.label>escopeta de carga</CE_Gun_ChargeShotgun.label>
 	<!-- EN: charge SMG -->
-	<CE_Gun_ChargeSMG.label>charge SMG</CE_Gun_ChargeSMG.label>
+	<CE_Gun_ChargeSMG.label>subfusil de carga</CE_Gun_ChargeSMG.label>
 	<!-- EN: charge LMG -->
-	<CE_Gun_ChargeLMG.label>charge LMG</CE_Gun_ChargeLMG.label>
+	<CE_Gun_ChargeLMG.label>ametralladora ligera de carga</CE_Gun_ChargeLMG.label>
 	<!-- EN: charge anti-material rifle -->
-	<CE_Gun_ChargeAMR.label>charge anti-material rifle</CE_Gun_ChargeAMR.label>
+	<CE_Gun_ChargeAMR.label>rifle antimaterial de carga</CE_Gun_ChargeAMR.label>
 	<!-- EN: charge sniper rifle -->
-	<CE_Gun_ChargeSniperRifle.label>charge sniper rifle</CE_Gun_ChargeSniperRifle.label>
+	<CE_Gun_ChargeSniperRifle.label>rifle de francotirador de carga</CE_Gun_ChargeSniperRifle.label>
 	<!-- EN: A charged-shot anti-material rifle. An advanced optics suite assists in long-range targeting. The plasteel make of the weapon makes it light and sturdy. -->
-	<CE_Gun_ChargeAMR.description>A charged-shot anti-material rifle. An advanced optics suite assists in long-range targeting. The plasteel make of the weapon makes it light and sturdy.</CE_Gun_ChargeAMR.description>
+	<CE_Gun_ChargeAMR.description>Un rifle antimaterial de disparo cargado. Un sistema optico avanzado ayuda con la punteria a larga distancia. La construccion de plastiacero del arma la hace ligera y resistente.</CE_Gun_ChargeAMR.description>
 	<!-- EN: compact carbine -->
-	<CE_Gun_SigMCX.label>compact carbine</CE_Gun_SigMCX.label>
+	<CE_Gun_SigMCX.label>carabina compacta</CE_Gun_SigMCX.label>
 	<!-- EN: MG -->
-	<CE_Gun_MTwoFourNine.label>MG</CE_Gun_MTwoFourNine.label>
+	<CE_Gun_MTwoFourNine.label>ametralladora</CE_Gun_MTwoFourNine.label>
 	<!-- EN: rocket launcher -->
-	<CE_Gun_RPGSeven.label>rocket launcher</CE_Gun_RPGSeven.label>
+	<CE_Gun_RPGSeven.label>lanzacohetes</CE_Gun_RPGSeven.label>
 	<!-- EN: marksman rifle -->
-	<CE_Gun_SVD.label>marksman rifle</CE_Gun_SVD.label>
+	<CE_Gun_SVD.label>rifle de tirador</CE_Gun_SVD.label>
 	<!-- EN: anti-materiel rifle -->
-	<CE_Gun_HecateTwo.label>anti-materiel rifle</CE_Gun_HecateTwo.label>
+	<CE_Gun_HecateTwo.label>rifle antimaterial</CE_Gun_HecateTwo.label>
 	<!-- EN: grenade launcher -->
-	<CE_Gun_MilkorMGL.label>grenade launcher</CE_Gun_MilkorMGL.label>
+	<CE_Gun_MilkorMGL.label>lanzagranadas</CE_Gun_MilkorMGL.label>
 	<!-- EN: service rifle -->
-	<CE_Gun_AKM.label>service rifle</CE_Gun_AKM.label>
+	<CE_Gun_AKM.label>rifle de servicio</CE_Gun_AKM.label>
 	<!-- EN: service carbine -->
-	<CE_Gun_AKMSU.label>service carbine</CE_Gun_AKMSU.label>
+	<CE_Gun_AKMSU.label>carabina de servicio</CE_Gun_AKMSU.label>
 	<!-- EN: lever-action rifle -->
-	<CE_Gun_WinchesterNintyFour.label>lever-action rifle</CE_Gun_WinchesterNintyFour.label>
+	<CE_Gun_WinchesterNintyFour.label>rifle de palanca</CE_Gun_WinchesterNintyFour.label>
 	<!-- EN: heavy machine gun -->
-	<CE_Gun_MSixty.label>heavy machine gun</CE_Gun_MSixty.label>
+	<CE_Gun_MSixty.label>ametralladora pesada</CE_Gun_MSixty.label>
 	<!-- EN: anti-tank rifle -->
-	<CE_Gun_PTRS.label>anti-tank rifle</CE_Gun_PTRS.label>
+	<CE_Gun_PTRS.label>rifle antitanque</CE_Gun_PTRS.label>
 </LanguageData>

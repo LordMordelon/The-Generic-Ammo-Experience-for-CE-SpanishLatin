@@ -1,7 +1,7 @@
 <LanguageData>
 	<!-- _Translation\Grabbed_Defs_from_patches\URMC28.xml -->
 	<!-- EN: caseless high-velocity cartridge -->
-	<Ammo_10x24mmCaseless.label>caseless high-velocity cartridge</Ammo_10x24mmCaseless.label>
+	<Ammo_10x24mmCaseless.label>cartucho sin casquillo de alta velocidad</Ammo_10x24mmCaseless.label>
 	<!-- EN: caseless high-velocity bullet -->
-	<Bullet_10x24mmCaseless.label>caseless high-velocity bullet</Bullet_10x24mmCaseless.label>
+	<Bullet_10x24mmCaseless.label>bala sin casquillo de alta velocidad</Bullet_10x24mmCaseless.label>
 </LanguageData>

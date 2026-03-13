@@ -1,19 +1,19 @@
 <LanguageData>
 	<!-- _Translation\Grabbed_Defs_from_patches\Reinforced_Mech_2_Continued22.xml -->
 	<!-- EN: crystalline shard -->
-	<RM_Ammo_ShardGun.label>crystalline shard</RM_Ammo_ShardGun.label>
+	<RM_Ammo_ShardGun.label>fragmento cristalino</RM_Ammo_ShardGun.label>
 	<!-- EN: Small, high-velocity crystalline projectile used in shard-based weapon systems. -->
-	<RM_Ammo_ShardGun.description>Small, high-velocity crystalline projectile used in shard-based weapon systems.</RM_Ammo_ShardGun.description>
+	<RM_Ammo_ShardGun.description>Proyectil cristalino pequeno y de alta velocidad usado en sistemas de armas basados en fragmentos.</RM_Ammo_ShardGun.description>
 	<!-- EN: Plasma containment charge pack optimized for heavy weapons. -->
-	<Ammo_PlasmaCellHeavy.description>Plasma containment charge pack optimized for heavy weapons.</Ammo_PlasmaCellHeavy.description>
+	<Ammo_PlasmaCellHeavy.description>Paquete de carga con contencion de plasma optimizado para armas pesadas.</Ammo_PlasmaCellHeavy.description>
 	<!-- EN: plasma charge pack -->
-	<Ammo_PlasmaCellHeavy.label>plasma charge pack</Ammo_PlasmaCellHeavy.label>
+	<Ammo_PlasmaCellHeavy.label>paquete de carga de plasma</Ammo_PlasmaCellHeavy.label>
 	<!-- EN: arc pistol -->
-	<RM_Gun_ARCPistol.label>arc pistol</RM_Gun_ARCPistol.label>
+	<RM_Gun_ARCPistol.label>pistola de arco</RM_Gun_ARCPistol.label>
 	<!-- EN: arc rifle -->
-	<RM_ARCRifle.label>arc rifle</RM_ARCRifle.label>
+	<RM_ARCRifle.label>rifle de arco</RM_ARCRifle.label>
 	<!-- EN: arc thrower -->
-	<RM_Gun_ARCThrower.label>arc thrower</RM_Gun_ARCThrower.label>
+	<RM_Gun_ARCThrower.label>lanzador de arco</RM_Gun_ARCThrower.label>
 	<!-- EN: charge roscoe -->
-	<RM_Gun_ChargePistol.label>charge roscoe</RM_Gun_ChargePistol.label>
+	<RM_Gun_ChargePistol.label>roscoe de carga</RM_Gun_ChargePistol.label>
 </LanguageData>

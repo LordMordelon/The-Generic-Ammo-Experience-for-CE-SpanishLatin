@@ -1,13 +1,13 @@
 <LanguageData>
 	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VWENL\Vanilla_Weapons_Expanded-Non-Lethal31.xml -->
 	<!-- EN: Make tear gas canister x100 -->
-	<MakeAmmo_40x46mmGrenade_CN.label>Make tear gas canister x100</MakeAmmo_40x46mmGrenade_CN.label>
+	<MakeAmmo_40x46mmGrenade_CN.label>fabricar bote de gas lacrimogeno x100</MakeAmmo_40x46mmGrenade_CN.label>
 	<!-- EN: Making tear gas canister x100. -->
-	<MakeAmmo_40x46mmGrenade_CN.jobString>Making tear gas canister x100.</MakeAmmo_40x46mmGrenade_CN.jobString>
+	<MakeAmmo_40x46mmGrenade_CN.jobString>fabricando bote de gas lacrimogeno x100.</MakeAmmo_40x46mmGrenade_CN.jobString>
 	<!-- EN: Make rubber bullet x200 -->
-	<MakeAmmo_43cal_NL.label>Make rubber bullet x200</MakeAmmo_43cal_NL.label>
+	<MakeAmmo_43cal_NL.label>fabricar bala de goma x200</MakeAmmo_43cal_NL.label>
 	<!-- EN: Craft 200 rubber bullet cartridges. -->
-	<MakeAmmo_43cal_NL.description>Craft 200 rubber bullet cartridges.</MakeAmmo_43cal_NL.description>
+	<MakeAmmo_43cal_NL.description>Fabrica 200 cartuchos de balas de goma.</MakeAmmo_43cal_NL.description>
 	<!-- EN: Making rubber bullet x200. -->
-	<MakeAmmo_43cal_NL.jobString>Making rubber bullet x200.</MakeAmmo_43cal_NL.jobString>
+	<MakeAmmo_43cal_NL.jobString>fabricando bala de goma x200.</MakeAmmo_43cal_NL.jobString>
 </LanguageData>
